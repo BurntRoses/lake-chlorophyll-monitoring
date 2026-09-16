@@ -1,0 +1,11 @@
+population_id,definition,lake_count,coordinate_missing_count,coordinate_invalid_count,conus_out_of_bounds_count,state_count,ecoregion_count
+candidate_universe,All frozen scoreable lakes at the 130 external origins.,2844,0,0,0,40,9
+external_monitoring_lakes,Candidate lakes with any post-2020 external chlorophyll history.,1679,0,0,0,26,9
+pre2021_predictor_history_lakes,Candidate lakes in frozen pre-2021 G0 predictor history.,2844,0,0,0,40,9
+formal_event_lakes,Candidate lakes with at least one of 696 formal episodes.,355,0,0,0,13,8
+multi_horizon_ever_selected_lakes,At least once in physical multi_horizon queue.,1538,0,0,0,32,9
+direct_60_day_ever_selected_lakes,At least once in physical direct_60_day queue.,782,0,0,0,21,8
+policy_overlap_ever_selected_lakes,Intersection of formal ever-selected lake sets.,738,0,0,0,21,7
+multi_horizon_only_ever_selected_lakes,"Ever multi_horizon-selected, never direct-selected.",800,0,0,0,31,9
+direct_60_day_only_ever_selected_lakes,"Ever direct-selected, never multi_horizon-selected.",44,0,0,0,7,5
+neither_policy_ever_selected_lakes,Never selected by either formal policy.,1262,0,0,0,34,9

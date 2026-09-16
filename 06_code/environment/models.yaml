@@ -1,0 +1,64 @@
+baselines:
+  persistence:
+    description: "Predict next Chl-a from previous valid Chl-a."
+  seasonal_climatology:
+    description: "Predict next Chl-a from lake-specific historical same-month mean."
+  linear_regression:
+    target: log_chla_next
+  ridge_regression:
+    target: log_chla_next
+    alpha_grid: [0.1, 1.0, 10.0, 100.0]
+
+statistical_models:
+  gam:
+    purpose: "Nonlinear association screening and interpretable smooth terms."
+  dlnm:
+    purpose: "Exposure-lag-response description; not expected to maximize predictive accuracy."
+    key_variables: [tp, tn, water_temp, do]
+
+machine_learning:
+  lightgbm_regressor:
+    target: log_chla_next
+    seed: 20260428
+    tune_inside_training_only: true
+    parameter_grid:
+      n_estimators: [300, 800, 1500]
+      learning_rate: [0.01, 0.03, 0.05]
+      num_leaves: [15, 31, 63]
+      max_depth: [-1, 4, 8]
+      min_child_samples: [20, 50, 100]
+      subsample: [0.7, 0.9, 1.0]
+      colsample_bytree: [0.7, 0.9, 1.0]
+      reg_alpha: [0.0, 0.1, 1.0]
+      reg_lambda: [0.0, 0.1, 1.0]
+  xgboost_regressor:
+    target: log_chla_next
+    seed: 20260428
+    tune_inside_training_only: true
+  lightgbm_classifier:
+    target: high_algal_risk_next
+    seed: 20260428
+    tune_inside_training_only: true
+  xgboost_classifier:
+    target: high_algal_risk_next
+    seed: 20260428
+    tune_inside_training_only: true
+
+controls:
+  random_forest:
+    role: "robustness control; not a primary model"
+
+model_record_required_fields:
+  - run_id
+  - timestamp
+  - code_version
+  - data_manifest_hash
+  - config_path
+  - random_seed
+  - validation_scheme
+  - feature_list_path
+  - hyperparameters
+  - metrics_path
+  - predictions_path
+  - model_artifact_path
+

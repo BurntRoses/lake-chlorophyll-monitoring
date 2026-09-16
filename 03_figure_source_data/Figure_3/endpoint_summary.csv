@@ -1,0 +1,3 @@
+endpoint,lead_min_days,lead_max_days,candidate_policy,baseline_policy,all_events_denominator,candidate_captured,baseline_captured,candidate_capture_rate,baseline_capture_rate,point_difference,percentile_ci_low,percentile_ci_high,ci_level,bootstrap_replicates,eligible_for_confirmatory_test
+primary_31_60,31,60,Multi-horizon ranking,Direct 60-day,696,263,207,0.377873563218391,0.297413793103448,0.0804597701149425,0.0436234753031107,0.122239897044005,0.95,5000,True
+secondary_1_60,1,60,Multi-horizon ranking,Direct 60-day,696,443,290,0.636494252873563,0.416666666666667,0.219827586206896,0.152593187800474,0.284573137970914,0.95,5000,True

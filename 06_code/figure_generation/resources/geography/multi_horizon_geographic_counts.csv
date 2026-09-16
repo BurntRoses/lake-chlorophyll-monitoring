@@ -1,0 +1,348 @@
+population_id,classification_type,classification_value,lake_count
+candidate_universe,state,AL,30
+candidate_universe,state,AR,19
+candidate_universe,state,AZ,10
+candidate_universe,state,CA,4
+candidate_universe,state,CO,11
+candidate_universe,state,CT,2
+candidate_universe,state,DE,19
+candidate_universe,state,FL,612
+candidate_universe,state,GA,26
+candidate_universe,state,IA,113
+candidate_universe,state,ID,8
+candidate_universe,state,IL,67
+candidate_universe,state,IN,1
+candidate_universe,state,KS,5
+candidate_universe,state,KY,3
+candidate_universe,state,LA,2
+candidate_universe,state,MD,3
+candidate_universe,state,MI,12
+candidate_universe,state,MN,1338
+candidate_universe,state,MO,99
+candidate_universe,state,MS,18
+candidate_universe,state,MT,2
+candidate_universe,state,NC,62
+candidate_universe,state,ND,45
+candidate_universe,state,NE,42
+candidate_universe,state,NH,22
+candidate_universe,state,NJ,4
+candidate_universe,state,NY,3
+candidate_universe,state,OK,1
+candidate_universe,state,OR,8
+candidate_universe,state,SC,2
+candidate_universe,state,SD,65
+candidate_universe,state,TN,6
+candidate_universe,state,TX,4
+candidate_universe,state,UT,36
+candidate_universe,state,VA,89
+candidate_universe,state,VT,24
+candidate_universe,state,WA,1
+candidate_universe,state,WI,23
+candidate_universe,state,WY,3
+candidate_universe,ecoregion,Coastal Plains,707
+candidate_universe,ecoregion,Northern Appalachians,55
+candidate_universe,ecoregion,Northern Plains,37
+candidate_universe,ecoregion,Southern Appalachians,219
+candidate_universe,ecoregion,Southern Plains,24
+candidate_universe,ecoregion,Temperate Plains,444
+candidate_universe,ecoregion,Upper Midwest,1272
+candidate_universe,ecoregion,Western Mountains,49
+candidate_universe,ecoregion,Xeric,37
+external_monitoring_lakes,state,AL,1
+external_monitoring_lakes,state,AR,2
+external_monitoring_lakes,state,CO,3
+external_monitoring_lakes,state,DE,17
+external_monitoring_lakes,state,FL,506
+external_monitoring_lakes,state,GA,10
+external_monitoring_lakes,state,IA,86
+external_monitoring_lakes,state,ID,1
+external_monitoring_lakes,state,IL,24
+external_monitoring_lakes,state,IN,1
+external_monitoring_lakes,state,KS,1
+external_monitoring_lakes,state,MI,10
+external_monitoring_lakes,state,MN,806
+external_monitoring_lakes,state,MO,50
+external_monitoring_lakes,state,MS,3
+external_monitoring_lakes,state,NC,34
+external_monitoring_lakes,state,ND,15
+external_monitoring_lakes,state,NE,10
+external_monitoring_lakes,state,NH,17
+external_monitoring_lakes,state,NJ,3
+external_monitoring_lakes,state,OR,2
+external_monitoring_lakes,state,TX,1
+external_monitoring_lakes,state,UT,17
+external_monitoring_lakes,state,VA,31
+external_monitoring_lakes,state,VT,19
+external_monitoring_lakes,state,WI,9
+external_monitoring_lakes,ecoregion,Coastal Plains,548
+external_monitoring_lakes,ecoregion,Northern Appalachians,39
+external_monitoring_lakes,ecoregion,Northern Plains,7
+external_monitoring_lakes,ecoregion,Southern Appalachians,69
+external_monitoring_lakes,ecoregion,Southern Plains,6
+external_monitoring_lakes,ecoregion,Temperate Plains,205
+external_monitoring_lakes,ecoregion,Upper Midwest,783
+external_monitoring_lakes,ecoregion,Western Mountains,13
+external_monitoring_lakes,ecoregion,Xeric,9
+pre2021_predictor_history_lakes,state,AL,30
+pre2021_predictor_history_lakes,state,AR,19
+pre2021_predictor_history_lakes,state,AZ,10
+pre2021_predictor_history_lakes,state,CA,4
+pre2021_predictor_history_lakes,state,CO,11
+pre2021_predictor_history_lakes,state,CT,2
+pre2021_predictor_history_lakes,state,DE,19
+pre2021_predictor_history_lakes,state,FL,612
+pre2021_predictor_history_lakes,state,GA,26
+pre2021_predictor_history_lakes,state,IA,113
+pre2021_predictor_history_lakes,state,ID,8
+pre2021_predictor_history_lakes,state,IL,67
+pre2021_predictor_history_lakes,state,IN,1
+pre2021_predictor_history_lakes,state,KS,5
+pre2021_predictor_history_lakes,state,KY,3
+pre2021_predictor_history_lakes,state,LA,2
+pre2021_predictor_history_lakes,state,MD,3
+pre2021_predictor_history_lakes,state,MI,12
+pre2021_predictor_history_lakes,state,MN,1338
+pre2021_predictor_history_lakes,state,MO,99
+pre2021_predictor_history_lakes,state,MS,18
+pre2021_predictor_history_lakes,state,MT,2
+pre2021_predictor_history_lakes,state,NC,62
+pre2021_predictor_history_lakes,state,ND,45
+pre2021_predictor_history_lakes,state,NE,42
+pre2021_predictor_history_lakes,state,NH,22
+pre2021_predictor_history_lakes,state,NJ,4
+pre2021_predictor_history_lakes,state,NY,3
+pre2021_predictor_history_lakes,state,OK,1
+pre2021_predictor_history_lakes,state,OR,8
+pre2021_predictor_history_lakes,state,SC,2
+pre2021_predictor_history_lakes,state,SD,65
+pre2021_predictor_history_lakes,state,TN,6
+pre2021_predictor_history_lakes,state,TX,4
+pre2021_predictor_history_lakes,state,UT,36
+pre2021_predictor_history_lakes,state,VA,89
+pre2021_predictor_history_lakes,state,VT,24
+pre2021_predictor_history_lakes,state,WA,1
+pre2021_predictor_history_lakes,state,WI,23
+pre2021_predictor_history_lakes,state,WY,3
+pre2021_predictor_history_lakes,ecoregion,Coastal Plains,707
+pre2021_predictor_history_lakes,ecoregion,Northern Appalachians,55
+pre2021_predictor_history_lakes,ecoregion,Northern Plains,37
+pre2021_predictor_history_lakes,ecoregion,Southern Appalachians,219
+pre2021_predictor_history_lakes,ecoregion,Southern Plains,24
+pre2021_predictor_history_lakes,ecoregion,Temperate Plains,444
+pre2021_predictor_history_lakes,ecoregion,Upper Midwest,1272
+pre2021_predictor_history_lakes,ecoregion,Western Mountains,49
+pre2021_predictor_history_lakes,ecoregion,Xeric,37
+formal_event_lakes,state,CO,1
+formal_event_lakes,state,DE,14
+formal_event_lakes,state,FL,73
+formal_event_lakes,state,IA,54
+formal_event_lakes,state,IL,14
+formal_event_lakes,state,KS,1
+formal_event_lakes,state,MN,181
+formal_event_lakes,state,MO,3
+formal_event_lakes,state,NC,4
+formal_event_lakes,state,ND,2
+formal_event_lakes,state,NE,6
+formal_event_lakes,state,VA,1
+formal_event_lakes,state,VT,1
+formal_event_lakes,ecoregion,Coastal Plains,89
+formal_event_lakes,ecoregion,Northern Appalachians,1
+formal_event_lakes,ecoregion,Northern Plains,2
+formal_event_lakes,ecoregion,Southern Appalachians,4
+formal_event_lakes,ecoregion,Southern Plains,1
+formal_event_lakes,ecoregion,Temperate Plains,91
+formal_event_lakes,ecoregion,Upper Midwest,166
+formal_event_lakes,ecoregion,Western Mountains,1
+multi_horizon_ever_selected_lakes,state,AL,6
+multi_horizon_ever_selected_lakes,state,AR,4
+multi_horizon_ever_selected_lakes,state,AZ,5
+multi_horizon_ever_selected_lakes,state,CA,4
+multi_horizon_ever_selected_lakes,state,CO,4
+multi_horizon_ever_selected_lakes,state,DE,19
+multi_horizon_ever_selected_lakes,state,FL,430
+multi_horizon_ever_selected_lakes,state,GA,6
+multi_horizon_ever_selected_lakes,state,IA,105
+multi_horizon_ever_selected_lakes,state,ID,1
+multi_horizon_ever_selected_lakes,state,IL,58
+multi_horizon_ever_selected_lakes,state,KS,4
+multi_horizon_ever_selected_lakes,state,LA,2
+multi_horizon_ever_selected_lakes,state,MD,1
+multi_horizon_ever_selected_lakes,state,MI,5
+multi_horizon_ever_selected_lakes,state,MN,575
+multi_horizon_ever_selected_lakes,state,MO,55
+multi_horizon_ever_selected_lakes,state,MS,14
+multi_horizon_ever_selected_lakes,state,NC,30
+multi_horizon_ever_selected_lakes,state,ND,41
+multi_horizon_ever_selected_lakes,state,NE,39
+multi_horizon_ever_selected_lakes,state,OK,1
+multi_horizon_ever_selected_lakes,state,OR,8
+multi_horizon_ever_selected_lakes,state,SC,1
+multi_horizon_ever_selected_lakes,state,SD,57
+multi_horizon_ever_selected_lakes,state,TX,3
+multi_horizon_ever_selected_lakes,state,UT,15
+multi_horizon_ever_selected_lakes,state,VA,34
+multi_horizon_ever_selected_lakes,state,VT,1
+multi_horizon_ever_selected_lakes,state,WA,1
+multi_horizon_ever_selected_lakes,state,WI,8
+multi_horizon_ever_selected_lakes,state,WY,1
+multi_horizon_ever_selected_lakes,ecoregion,Coastal Plains,509
+multi_horizon_ever_selected_lakes,ecoregion,Northern Appalachians,1
+multi_horizon_ever_selected_lakes,ecoregion,Northern Plains,31
+multi_horizon_ever_selected_lakes,ecoregion,Southern Appalachians,40
+multi_horizon_ever_selected_lakes,ecoregion,Southern Plains,21
+multi_horizon_ever_selected_lakes,ecoregion,Temperate Plains,397
+multi_horizon_ever_selected_lakes,ecoregion,Upper Midwest,498
+multi_horizon_ever_selected_lakes,ecoregion,Western Mountains,18
+multi_horizon_ever_selected_lakes,ecoregion,Xeric,23
+direct_60_day_ever_selected_lakes,state,AZ,1
+direct_60_day_ever_selected_lakes,state,CA,2
+direct_60_day_ever_selected_lakes,state,CO,4
+direct_60_day_ever_selected_lakes,state,DE,17
+direct_60_day_ever_selected_lakes,state,FL,106
+direct_60_day_ever_selected_lakes,state,IA,86
+direct_60_day_ever_selected_lakes,state,ID,2
+direct_60_day_ever_selected_lakes,state,IL,32
+direct_60_day_ever_selected_lakes,state,MI,2
+direct_60_day_ever_selected_lakes,state,MN,387
+direct_60_day_ever_selected_lakes,state,MO,24
+direct_60_day_ever_selected_lakes,state,MS,1
+direct_60_day_ever_selected_lakes,state,NC,1
+direct_60_day_ever_selected_lakes,state,ND,27
+direct_60_day_ever_selected_lakes,state,NE,26
+direct_60_day_ever_selected_lakes,state,OR,4
+direct_60_day_ever_selected_lakes,state,SD,44
+direct_60_day_ever_selected_lakes,state,TX,1
+direct_60_day_ever_selected_lakes,state,UT,8
+direct_60_day_ever_selected_lakes,state,VA,3
+direct_60_day_ever_selected_lakes,state,WI,4
+direct_60_day_ever_selected_lakes,ecoregion,Coastal Plains,128
+direct_60_day_ever_selected_lakes,ecoregion,Northern Plains,20
+direct_60_day_ever_selected_lakes,ecoregion,Southern Appalachians,1
+direct_60_day_ever_selected_lakes,ecoregion,Southern Plains,13
+direct_60_day_ever_selected_lakes,ecoregion,Temperate Plains,291
+direct_60_day_ever_selected_lakes,ecoregion,Upper Midwest,307
+direct_60_day_ever_selected_lakes,ecoregion,Western Mountains,14
+direct_60_day_ever_selected_lakes,ecoregion,Xeric,8
+policy_overlap_ever_selected_lakes,state,AZ,1
+policy_overlap_ever_selected_lakes,state,CA,2
+policy_overlap_ever_selected_lakes,state,CO,3
+policy_overlap_ever_selected_lakes,state,DE,17
+policy_overlap_ever_selected_lakes,state,FL,105
+policy_overlap_ever_selected_lakes,state,IA,86
+policy_overlap_ever_selected_lakes,state,ID,1
+policy_overlap_ever_selected_lakes,state,IL,32
+policy_overlap_ever_selected_lakes,state,MI,1
+policy_overlap_ever_selected_lakes,state,MN,350
+policy_overlap_ever_selected_lakes,state,MO,24
+policy_overlap_ever_selected_lakes,state,MS,1
+policy_overlap_ever_selected_lakes,state,NC,1
+policy_overlap_ever_selected_lakes,state,ND,27
+policy_overlap_ever_selected_lakes,state,NE,26
+policy_overlap_ever_selected_lakes,state,OR,4
+policy_overlap_ever_selected_lakes,state,SD,44
+policy_overlap_ever_selected_lakes,state,TX,1
+policy_overlap_ever_selected_lakes,state,UT,6
+policy_overlap_ever_selected_lakes,state,VA,2
+policy_overlap_ever_selected_lakes,state,WI,4
+policy_overlap_ever_selected_lakes,ecoregion,Coastal Plains,127
+policy_overlap_ever_selected_lakes,ecoregion,Northern Plains,20
+policy_overlap_ever_selected_lakes,ecoregion,Southern Plains,13
+policy_overlap_ever_selected_lakes,ecoregion,Temperate Plains,291
+policy_overlap_ever_selected_lakes,ecoregion,Upper Midwest,269
+policy_overlap_ever_selected_lakes,ecoregion,Western Mountains,11
+policy_overlap_ever_selected_lakes,ecoregion,Xeric,7
+multi_horizon_only_ever_selected_lakes,state,AL,6
+multi_horizon_only_ever_selected_lakes,state,AR,4
+multi_horizon_only_ever_selected_lakes,state,AZ,4
+multi_horizon_only_ever_selected_lakes,state,CA,2
+multi_horizon_only_ever_selected_lakes,state,CO,1
+multi_horizon_only_ever_selected_lakes,state,DE,2
+multi_horizon_only_ever_selected_lakes,state,FL,325
+multi_horizon_only_ever_selected_lakes,state,GA,6
+multi_horizon_only_ever_selected_lakes,state,IA,19
+multi_horizon_only_ever_selected_lakes,state,IL,26
+multi_horizon_only_ever_selected_lakes,state,KS,4
+multi_horizon_only_ever_selected_lakes,state,LA,2
+multi_horizon_only_ever_selected_lakes,state,MD,1
+multi_horizon_only_ever_selected_lakes,state,MI,4
+multi_horizon_only_ever_selected_lakes,state,MN,225
+multi_horizon_only_ever_selected_lakes,state,MO,31
+multi_horizon_only_ever_selected_lakes,state,MS,13
+multi_horizon_only_ever_selected_lakes,state,NC,29
+multi_horizon_only_ever_selected_lakes,state,ND,14
+multi_horizon_only_ever_selected_lakes,state,NE,13
+multi_horizon_only_ever_selected_lakes,state,OK,1
+multi_horizon_only_ever_selected_lakes,state,OR,4
+multi_horizon_only_ever_selected_lakes,state,SC,1
+multi_horizon_only_ever_selected_lakes,state,SD,13
+multi_horizon_only_ever_selected_lakes,state,TX,2
+multi_horizon_only_ever_selected_lakes,state,UT,9
+multi_horizon_only_ever_selected_lakes,state,VA,32
+multi_horizon_only_ever_selected_lakes,state,VT,1
+multi_horizon_only_ever_selected_lakes,state,WA,1
+multi_horizon_only_ever_selected_lakes,state,WI,4
+multi_horizon_only_ever_selected_lakes,state,WY,1
+multi_horizon_only_ever_selected_lakes,ecoregion,Coastal Plains,382
+multi_horizon_only_ever_selected_lakes,ecoregion,Northern Appalachians,1
+multi_horizon_only_ever_selected_lakes,ecoregion,Northern Plains,11
+multi_horizon_only_ever_selected_lakes,ecoregion,Southern Appalachians,40
+multi_horizon_only_ever_selected_lakes,ecoregion,Southern Plains,8
+multi_horizon_only_ever_selected_lakes,ecoregion,Temperate Plains,106
+multi_horizon_only_ever_selected_lakes,ecoregion,Upper Midwest,229
+multi_horizon_only_ever_selected_lakes,ecoregion,Western Mountains,7
+multi_horizon_only_ever_selected_lakes,ecoregion,Xeric,16
+direct_60_day_only_ever_selected_lakes,state,CO,1
+direct_60_day_only_ever_selected_lakes,state,FL,1
+direct_60_day_only_ever_selected_lakes,state,ID,1
+direct_60_day_only_ever_selected_lakes,state,MI,1
+direct_60_day_only_ever_selected_lakes,state,MN,37
+direct_60_day_only_ever_selected_lakes,state,UT,2
+direct_60_day_only_ever_selected_lakes,state,VA,1
+direct_60_day_only_ever_selected_lakes,ecoregion,Coastal Plains,1
+direct_60_day_only_ever_selected_lakes,ecoregion,Southern Appalachians,1
+direct_60_day_only_ever_selected_lakes,ecoregion,Upper Midwest,38
+direct_60_day_only_ever_selected_lakes,ecoregion,Western Mountains,3
+direct_60_day_only_ever_selected_lakes,ecoregion,Xeric,1
+neither_policy_ever_selected_lakes,state,AL,24
+neither_policy_ever_selected_lakes,state,AR,15
+neither_policy_ever_selected_lakes,state,AZ,5
+neither_policy_ever_selected_lakes,state,CO,6
+neither_policy_ever_selected_lakes,state,CT,2
+neither_policy_ever_selected_lakes,state,FL,181
+neither_policy_ever_selected_lakes,state,GA,20
+neither_policy_ever_selected_lakes,state,IA,8
+neither_policy_ever_selected_lakes,state,ID,6
+neither_policy_ever_selected_lakes,state,IL,9
+neither_policy_ever_selected_lakes,state,IN,1
+neither_policy_ever_selected_lakes,state,KS,1
+neither_policy_ever_selected_lakes,state,KY,3
+neither_policy_ever_selected_lakes,state,MD,2
+neither_policy_ever_selected_lakes,state,MI,6
+neither_policy_ever_selected_lakes,state,MN,726
+neither_policy_ever_selected_lakes,state,MO,44
+neither_policy_ever_selected_lakes,state,MS,4
+neither_policy_ever_selected_lakes,state,MT,2
+neither_policy_ever_selected_lakes,state,NC,32
+neither_policy_ever_selected_lakes,state,ND,4
+neither_policy_ever_selected_lakes,state,NE,3
+neither_policy_ever_selected_lakes,state,NH,22
+neither_policy_ever_selected_lakes,state,NJ,4
+neither_policy_ever_selected_lakes,state,NY,3
+neither_policy_ever_selected_lakes,state,SC,1
+neither_policy_ever_selected_lakes,state,SD,8
+neither_policy_ever_selected_lakes,state,TN,6
+neither_policy_ever_selected_lakes,state,TX,1
+neither_policy_ever_selected_lakes,state,UT,19
+neither_policy_ever_selected_lakes,state,VA,54
+neither_policy_ever_selected_lakes,state,VT,23
+neither_policy_ever_selected_lakes,state,WI,15
+neither_policy_ever_selected_lakes,state,WY,2
+neither_policy_ever_selected_lakes,ecoregion,Coastal Plains,197
+neither_policy_ever_selected_lakes,ecoregion,Northern Appalachians,54
+neither_policy_ever_selected_lakes,ecoregion,Northern Plains,6
+neither_policy_ever_selected_lakes,ecoregion,Southern Appalachians,178
+neither_policy_ever_selected_lakes,ecoregion,Southern Plains,3
+neither_policy_ever_selected_lakes,ecoregion,Temperate Plains,47
+neither_policy_ever_selected_lakes,ecoregion,Upper Midwest,736
+neither_policy_ever_selected_lakes,ecoregion,Western Mountains,28
+neither_policy_ever_selected_lakes,ecoregion,Xeric,13

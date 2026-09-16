@@ -1,0 +1,3 @@
+weighting_scheme,endpoint,unit_denominator,event_denominator,event_lake_denominator,multi_horizon_captured_events,direct_60_day_captured_events,coverage_difference_pp,interval_low_pp,interval_high_pp,bootstrap_replicates,bootstrap_seed,evidence_tier
+Event-weighted,primary_31_60,events,696,355,263,207,8.045977011494255,4.362347530311066,12.223989704400475,5000,20260804,canonical_event_weighted_reference
+Lake-equal,primary_31_60,event_lakes,696,355,263,207,6.840397106345739,0.8857195359532303,28.319665268068,5000,20260804,lake_equal_weight_sensitivity

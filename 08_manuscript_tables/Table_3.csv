@@ -1,0 +1,7 @@
+Window,Contrast,Difference (pp),95% CI (pp),Design status
+31–60 days,Multi-horizon − direct 60-day,8.05,4.36–12.22,Prespecified primary
+1–60 days,Multi-horizon − direct 60-day,21.98,15.26–28.46,Fixed-sequence secondary
+31–60 days,Multi-horizon − historical risk,−2.01,−6.94 to 3.31,Post hoc comparator
+31–60 days,Direct 60-day − historical risk,−10.06,−15.53 to −4.78,Post hoc comparator
+1–60 days,Multi-horizon − historical risk,13.22,7.45–18.87,Post hoc comparator
+1–60 days,Direct 60-day − historical risk,−8.76,−17.36 to −0.14,Post hoc comparator

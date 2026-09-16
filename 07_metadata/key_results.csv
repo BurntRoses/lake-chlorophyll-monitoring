@@ -1,0 +1,7 @@
+endpoint,policy,name_en,captured_events,event_n,coverage_percent,selected_slots,capacity_percent,analysis_role
+primary_31_60,multi_horizon,Multi-horizon,263,696,37.78735632183909,36631,10.0,formal_frozen_reference
+secondary_1_60,multi_horizon,Multi-horizon,443,696,63.64942528735632,36631,10.0,formal_frozen_reference
+primary_31_60,direct_60_day,Direct 60-day,207,696,29.74137931034483,36631,10.0,formal_frozen_reference
+secondary_1_60,direct_60_day,Direct 60-day,290,696,41.66666666666667,36631,10.0,formal_frozen_reference
+primary_31_60,historical_risk,Historical risk,277,696,39.798850574712645,36631,10.0,post_hoc_descriptive
+secondary_1_60,historical_risk,Historical risk,351,696,50.43103448275862,36631,10.0,post_hoc_descriptive

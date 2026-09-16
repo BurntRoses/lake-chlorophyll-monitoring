@@ -1,0 +1,3141 @@
+{
+  "figures": [
+    {
+      "figure_id": "M1",
+      "panels": [
+        {
+          "panel_id": "M1a",
+          "outer_rect_cm": [
+            0.5,
+            0.5,
+            10.5,
+            13.0
+          ],
+          "title_text": "CONUS support",
+          "internal_layout": {
+            "regions": {
+              "conus_support_axis": {
+                "rect_cm": [
+                  1,
+                  2,
+                  9.5,
+                  7.5
+                ],
+                "axis_slots": {
+                  "plot_frame_rect_cm": [
+                    1.1,
+                    2.1,
+                    9.3,
+                    7.3
+                  ]
+                }
+              }
+            },
+            "reserves": {
+              "title_reserve": {
+                "rect_cm": [
+                  1,
+                  1,
+                  9.5,
+                  0.5
+                ],
+                "element_slots": {
+                  "panel_label": {
+                    "rect_cm": [
+                      1.1,
+                      1.1,
+                      0.4,
+                      0.3
+                    ]
+                  },
+                  "title": {
+                    "rect_cm": [
+                      1.7,
+                      1.1,
+                      8.7,
+                      0.3
+                    ]
+                  }
+                }
+              },
+              "population_legend": {
+                "rect_cm": [
+                  1,
+                  10,
+                  4.5,
+                  2.5
+                ],
+                "element_slots": {
+                  "legend": {
+                    "rect_cm": [
+                      1.1,
+                      10.1,
+                      4.3,
+                      2.3
+                    ]
+                  }
+                }
+              },
+              "count_colorbar": {
+                "rect_cm": [
+                  6,
+                  10,
+                  2,
+                  2.5
+                ],
+                "element_slots": {
+                  "legend": {
+                    "rect_cm": [
+                      6.1,
+                      10.1,
+                      1.8,
+                      2.3
+                    ]
+                  }
+                }
+              },
+              "map_furniture": {
+                "rect_cm": [
+                  8.5,
+                  10,
+                  2,
+                  2.5
+                ],
+                "element_slots": {
+                  "legend": {
+                    "rect_cm": [
+                      8.6,
+                      10.1,
+                      1.8,
+                      2.3
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        },
+        {
+          "panel_id": "M1b",
+          "outer_rect_cm": [
+            11.5,
+            0.5,
+            6.0,
+            6.0
+          ],
+          "title_text": "Upper Midwest",
+          "internal_layout": {
+            "regions": {
+              "upper_midwest_axis": {
+                "rect_cm": [
+                  12,
+                  2,
+                  3,
+                  4
+                ],
+                "axis_slots": {
+                  "plot_frame_rect_cm": [
+                    12.1,
+                    2.1,
+                    2.8,
+                    3.8
+                  ]
+                }
+              }
+            },
+            "reserves": {
+              "title_reserve": {
+                "rect_cm": [
+                  12,
+                  1,
+                  5,
+                  0.5
+                ],
+                "element_slots": {
+                  "panel_label": {
+                    "rect_cm": [
+                      12.1,
+                      1.1,
+                      0.4,
+                      0.3
+                    ]
+                  },
+                  "title": {
+                    "rect_cm": [
+                      12.7,
+                      1.1,
+                      4.2,
+                      0.3
+                    ]
+                  }
+                }
+              },
+              "role_legend": {
+                "rect_cm": [
+                  15.5,
+                  2,
+                  1.5,
+                  4
+                ],
+                "element_slots": {
+                  "legend": {
+                    "rect_cm": [
+                      15.6,
+                      2.1,
+                      1.3,
+                      3.8
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        },
+        {
+          "panel_id": "M1c",
+          "outer_rect_cm": [
+            11.5,
+            7.0,
+            6.0,
+            6.5
+          ],
+          "title_text": "Florida",
+          "internal_layout": {
+            "regions": {
+              "florida_axis": {
+                "rect_cm": [
+                  12,
+                  8.5,
+                  3,
+                  4.5
+                ],
+                "axis_slots": {
+                  "plot_frame_rect_cm": [
+                    12.1,
+                    8.6,
+                    2.8,
+                    4.3
+                  ]
+                }
+              }
+            },
+            "reserves": {
+              "title_reserve": {
+                "rect_cm": [
+                  12,
+                  7.5,
+                  5,
+                  0.5
+                ],
+                "element_slots": {
+                  "panel_label": {
+                    "rect_cm": [
+                      12.1,
+                      7.6,
+                      0.4,
+                      0.3
+                    ]
+                  },
+                  "title": {
+                    "rect_cm": [
+                      12.7,
+                      7.6,
+                      4.2,
+                      0.3
+                    ]
+                  }
+                }
+              },
+              "role_legend": {
+                "rect_cm": [
+                  15.5,
+                  8.5,
+                  1.5,
+                  4.5
+                ],
+                "element_slots": {
+                  "legend": {
+                    "rect_cm": [
+                      15.6,
+                      8.6,
+                      1.3,
+                      4.3
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "figure_id": "M2",
+      "panels": [
+        {
+          "panel_id": "M2a",
+          "outer_rect_cm": [
+            0.5,
+            0.5,
+            17.0,
+            7.0
+          ],
+          "title_text": "Frozen evaluation",
+          "internal_layout": {
+            "regions": {
+              "issue_time": {
+                "rect_cm": [
+                  1,
+                  2,
+                  2.5,
+                  5
+                ],
+                "axis_slots": {
+                  "plot_frame_rect_cm": [
+                    1.1,
+                    2.1,
+                    2.3,
+                    4.8
+                  ]
+                }
+              },
+              "frozen_scores": {
+                "rect_cm": [
+                  4,
+                  2,
+                  2.5,
+                  5
+                ],
+                "axis_slots": {
+                  "plot_frame_rect_cm": [
+                    4.1,
+                    2.1,
+                    2.3,
+                    4.8
+                  ]
+                }
+              },
+              "equal_capacity_queue": {
+                "rect_cm": [
+                  7,
+                  2,
+                  3,
+                  5
+                ],
+                "axis_slots": {
+                  "plot_frame_rect_cm": [
+                    7.1,
+                    2.1,
+                    2.8,
+                    4.8
+                  ]
+                }
+              },
+              "recorded_event_coverage": {
+                "rect_cm": [
+                  10.5,
+                  2,
+                  3,
+                  5
+                ],
+                "axis_slots": {
+                  "plot_frame_rect_cm": [
+                    10.6,
+                    2.1,
+                    2.8,
+                    4.8
+                  ]
+                }
+              },
+              "whole_lake_resampling": {
+                "rect_cm": [
+                  14,
+                  2,
+                  3,
+                  5
+                ],
+                "axis_slots": {
+                  "plot_frame_rect_cm": [
+                    14.1,
+                    2.1,
+                    2.8,
+                    4.8
+                  ]
+                }
+              }
+            },
+            "reserves": {
+              "title_reserve": {
+                "rect_cm": [
+                  1,
+                  1,
+                  11,
+                  0.5
+                ],
+                "element_slots": {
+                  "panel_label": {
+                    "rect_cm": [
+                      1.1,
+                      1.1,
+                      0.4,
+                      0.3
+                    ]
+                  },
+                  "title": {
+                    "rect_cm": [
+                      1.7,
+                      1.1,
+                      10.2,
+                      0.3
+                    ]
+                  }
+                }
+              },
+              "policy_legend": {
+                "rect_cm": [
+                  12.5,
+                  1,
+                  4.5,
+                  0.5
+                ],
+                "element_slots": {
+                  "legend": {
+                    "rect_cm": [
+                      12.6,
+                      1.1,
+                      4.3,
+                      0.3
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        },
+        {
+          "panel_id": "M2b",
+          "outer_rect_cm": [
+            0.5,
+            8.0,
+            10.5,
+            5.5
+          ],
+          "title_text": "External support",
+          "internal_layout": {
+            "regions": {
+              "eligible_lakes_axis": {
+                "rect_cm": [
+                  1,
+                  9.5,
+                  4.5,
+                  3.5
+                ],
+                "axis_slots": {
+                  "plot_frame_rect_cm": [
+                    1.5,
+                    10.0,
+                    3.9,
+                    2.5
+                  ]
+                }
+              },
+              "capacity_axis": {
+                "rect_cm": [
+                  6,
+                  9.5,
+                  4.5,
+                  3.5
+                ],
+                "axis_slots": {
+                  "plot_frame_rect_cm": [
+                    6.5,
+                    10.0,
+                    3.9,
+                    2.5
+                  ]
+                }
+              }
+            },
+            "reserves": {
+              "title_reserve": {
+                "rect_cm": [
+                  1,
+                  8.5,
+                  6.5,
+                  0.5
+                ],
+                "element_slots": {
+                  "panel_label": {
+                    "rect_cm": [
+                      1.1,
+                      8.6,
+                      0.4,
+                      0.3
+                    ]
+                  },
+                  "title": {
+                    "rect_cm": [
+                      1.7,
+                      8.6,
+                      5.7,
+                      0.3
+                    ]
+                  }
+                }
+              },
+              "equality_legend": {
+                "rect_cm": [
+                  8,
+                  8.5,
+                  2.5,
+                  0.5
+                ],
+                "element_slots": {
+                  "legend": {
+                    "rect_cm": [
+                      8.1,
+                      8.6,
+                      2.3,
+                      0.3
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        },
+        {
+          "panel_id": "M2c",
+          "outer_rect_cm": [
+            11.5,
+            8.0,
+            6.0,
+            5.5
+          ],
+          "title_text": "Resample support",
+          "internal_layout": {
+            "regions": {
+              "total_event_copies_ecdf": {
+                "rect_cm": [
+                  12,
+                  9.5,
+                  5,
+                  3.5
+                ],
+                "axis_slots": {
+                  "plot_frame_rect_cm": [
+                    12.5,
+                    10.0,
+                    4.4,
+                    2.5
+                  ]
+                }
+              },
+              "denominator_reference": {
+                "rect_cm": [
+                  12.5,
+                  10,
+                  4,
+                  2.5
+                ]
+              }
+            },
+            "reserves": {
+              "title_reserve": {
+                "rect_cm": [
+                  12,
+                  8.5,
+                  3,
+                  0.5
+                ],
+                "element_slots": {
+                  "panel_label": {
+                    "rect_cm": [
+                      12.1,
+                      8.6,
+                      0.4,
+                      0.3
+                    ]
+                  },
+                  "title": {
+                    "rect_cm": [
+                      12.7,
+                      8.6,
+                      2.2,
+                      0.3
+                    ]
+                  }
+                }
+              },
+              "method_legend": {
+                "rect_cm": [
+                  15.5,
+                  8.5,
+                  1.5,
+                  0.5
+                ],
+                "element_slots": {
+                  "legend": {
+                    "rect_cm": [
+                      15.6,
+                      8.6,
+                      1.3,
+                      0.3
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "figure_id": "M4",
+      "panels": [
+        {
+          "panel_id": "M4a",
+          "outer_rect_cm": [
+            0.5,
+            0.5,
+            9.0,
+            13.0
+          ],
+          "title_text": "Rank correspondence",
+          "internal_layout": {
+            "regions": {
+              "rank_scatter_axis": {
+                "rect_cm": [
+                  1,
+                  2,
+                  8,
+                  11
+                ],
+                "axis_slots": {
+                  "plot_frame_rect_cm": [
+                    1.5,
+                    2.5,
+                    7.4,
+                    10.0
+                  ]
+                }
+              },
+              "threshold_zoom_source_overlay": {
+                "rect_cm": [
+                  1.5,
+                  2.5,
+                  7,
+                  10
+                ]
+              }
+            },
+            "reserves": {
+              "title_reserve": {
+                "rect_cm": [
+                  1,
+                  1,
+                  5.5,
+                  0.5
+                ],
+                "element_slots": {
+                  "panel_label": {
+                    "rect_cm": [
+                      1.1,
+                      1.1,
+                      0.4,
+                      0.3
+                    ]
+                  },
+                  "title": {
+                    "rect_cm": [
+                      1.7,
+                      1.1,
+                      4.7,
+                      0.3
+                    ]
+                  }
+                }
+              },
+              "role_legend": {
+                "rect_cm": [
+                  7,
+                  1,
+                  2,
+                  0.5
+                ],
+                "element_slots": {
+                  "colorbar": {
+                    "rect_cm": [
+                      7.1,
+                      1.1,
+                      1.8,
+                      0.3
+                    ]
+                  }
+                }
+              }
+            }
+          },
+          "rank_density": {
+            "full_population_aggregation": {
+              "bins_xy": [
+                740,
+                1000
+              ],
+              "plot_frame_mm": [
+                74,
+                100
+              ]
+            },
+            "count_scale": {
+              "classes": [
+                {
+                  "count": "1",
+                  "hex": "#B9C6CC"
+                },
+                {
+                  "count": "2-3",
+                  "hex": "#94A8B2"
+                },
+                {
+                  "count": "4-7",
+                  "hex": "#708A96"
+                },
+                {
+                  "count": "8-15",
+                  "hex": "#4E6D79"
+                },
+                {
+                  "count": "16-31",
+                  "hex": "#365461"
+                },
+                {
+                  "count": "32-63",
+                  "hex": "#243F4B"
+                },
+                {
+                  "count": "64-274",
+                  "hex": "#132B35"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "panel_id": "M4b",
+          "outer_rect_cm": [
+            10.0,
+            0.5,
+            7.5,
+            8.0
+          ],
+          "title_text": "Threshold transitions",
+          "internal_layout": {
+            "regions": {
+              "connector_lane": {
+                "rect_cm": [
+                  10.5,
+                  2,
+                  1.5,
+                  6
+                ],
+                "axis_slots": {
+                  "plot_frame_rect_cm": [
+                    10.6,
+                    2.1,
+                    1.3,
+                    5.8
+                  ]
+                }
+              },
+              "threshold_zoom_axis": {
+                "rect_cm": [
+                  12.5,
+                  2,
+                  4.5,
+                  6
+                ],
+                "axis_slots": {
+                  "plot_frame_rect_cm": [
+                    13.0,
+                    2.5,
+                    3.9,
+                    5.0
+                  ]
+                }
+              }
+            },
+            "reserves": {
+              "title_reserve": {
+                "rect_cm": [
+                  10.5,
+                  1,
+                  4.5,
+                  0.5
+                ],
+                "element_slots": {
+                  "panel_label": {
+                    "rect_cm": [
+                      10.6,
+                      1.1,
+                      0.4,
+                      0.3
+                    ]
+                  },
+                  "title": {
+                    "rect_cm": [
+                      11.2,
+                      1.1,
+                      3.7,
+                      0.3
+                    ]
+                  }
+                }
+              },
+              "transition_legend": {
+                "rect_cm": [
+                  15.5,
+                  1,
+                  1.5,
+                  0.5
+                ],
+                "element_slots": {
+                  "legend": {
+                    "rect_cm": [
+                      15.6,
+                      1.1,
+                      1.3,
+                      0.3
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        },
+        {
+          "panel_id": "M4c",
+          "outer_rect_cm": [
+            10.0,
+            9.0,
+            7.5,
+            4.5
+          ],
+          "title_text": "Queue overlap",
+          "internal_layout": {
+            "regions": {
+              "origin_overlap_axis": {
+                "rect_cm": [
+                  10.5,
+                  10.5,
+                  3,
+                  2.5
+                ],
+                "axis_slots": {
+                  "plot_frame_rect_cm": [
+                    11.0,
+                    11.0,
+                    2.4,
+                    1.5
+                  ]
+                }
+              },
+              "overlap_ecdf": {
+                "rect_cm": [
+                  14,
+                  10.5,
+                  3,
+                  2.5
+                ],
+                "axis_slots": {
+                  "plot_frame_rect_cm": [
+                    14.5,
+                    11.0,
+                    2.4,
+                    1.5
+                  ]
+                }
+              }
+            },
+            "reserves": {
+              "title_reserve": {
+                "rect_cm": [
+                  10.5,
+                  9.5,
+                  4.5,
+                  0.5
+                ],
+                "element_slots": {
+                  "panel_label": {
+                    "rect_cm": [
+                      10.6,
+                      9.6,
+                      0.4,
+                      0.3
+                    ]
+                  },
+                  "title": {
+                    "rect_cm": [
+                      11.2,
+                      9.6,
+                      3.7,
+                      0.3
+                    ]
+                  }
+                }
+              },
+              "overlap_legend": {
+                "rect_cm": [
+                  15.5,
+                  9.5,
+                  1.5,
+                  0.5
+                ],
+                "element_slots": {
+                  "legend": {
+                    "rect_cm": [
+                      15.6,
+                      9.6,
+                      1.3,
+                      0.3
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "figure_id": "M5",
+      "panels": [
+        {
+          "panel_id": "M5a",
+          "outer_rect_cm": [
+            0.5,
+            0.5,
+            17.0,
+            5.0
+          ],
+          "title_text": "Episode identities",
+          "internal_layout": {
+            "regions": {
+              "primary_event_roles": {
+                "rect_cm": [
+                  1,
+                  2,
+                  7.5,
+                  3
+                ],
+                "axis_slots": {
+                  "plot_frame_rect_cm": [
+                    1.5,
+                    2.5,
+                    6.9,
+                    2.0
+                  ]
+                }
+              },
+              "secondary_event_roles": {
+                "rect_cm": [
+                  9,
+                  2,
+                  8,
+                  3
+                ],
+                "axis_slots": {
+                  "plot_frame_rect_cm": [
+                    9.5,
+                    2.5,
+                    7.4,
+                    2.0
+                  ]
+                }
+              }
+            },
+            "reserves": {
+              "title_reserve": {
+                "rect_cm": [
+                  1,
+                  1,
+                  11,
+                  0.5
+                ],
+                "element_slots": {
+                  "panel_label": {
+                    "rect_cm": [
+                      1.1,
+                      1.1,
+                      0.4,
+                      0.3
+                    ]
+                  },
+                  "title": {
+                    "rect_cm": [
+                      1.7,
+                      1.1,
+                      10.2,
+                      0.3
+                    ]
+                  }
+                }
+              },
+              "role_legend": {
+                "rect_cm": [
+                  12.5,
+                  1,
+                  4.5,
+                  0.5
+                ],
+                "element_slots": {
+                  "legend": {
+                    "rect_cm": [
+                      12.6,
+                      1.1,
+                      4.3,
+                      0.3
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        },
+        {
+          "panel_id": "M5b",
+          "outer_rect_cm": [
+            0.5,
+            6.0,
+            10.5,
+            7.5
+          ],
+          "title_text": "Primary effect",
+          "internal_layout": {
+            "regions": {
+              "primary_rate_pair": {
+                "rect_cm": [
+                  1,
+                  7.5,
+                  3,
+                  5.5
+                ],
+                "axis_slots": {
+                  "plot_frame_rect_cm": [
+                    1.5,
+                    8.0,
+                    2.4,
+                    4.5
+                  ]
+                }
+              },
+              "primary_effect_interval": {
+                "rect_cm": [
+                  4.5,
+                  7.5,
+                  3,
+                  5.5
+                ],
+                "axis_slots": {
+                  "plot_frame_rect_cm": [
+                    5.0,
+                    8.0,
+                    2.4,
+                    4.5
+                  ]
+                }
+              },
+              "primary_draw_distribution": {
+                "rect_cm": [
+                  8,
+                  7.5,
+                  2.5,
+                  5.5
+                ],
+                "axis_slots": {
+                  "plot_frame_rect_cm": [
+                    8.5,
+                    8.0,
+                    1.9,
+                    4.5
+                  ]
+                }
+              }
+            },
+            "reserves": {
+              "title_reserve": {
+                "rect_cm": [
+                  1,
+                  6.5,
+                  6.5,
+                  0.5
+                ],
+                "element_slots": {
+                  "panel_label": {
+                    "rect_cm": [
+                      1.1,
+                      6.6,
+                      0.4,
+                      0.3
+                    ]
+                  },
+                  "title": {
+                    "rect_cm": [
+                      1.7,
+                      6.6,
+                      5.7,
+                      0.3
+                    ]
+                  }
+                }
+              },
+              "primary_legend": {
+                "rect_cm": [
+                  8,
+                  6.5,
+                  2.5,
+                  0.5
+                ],
+                "element_slots": {
+                  "legend": {
+                    "rect_cm": [
+                      8.1,
+                      6.6,
+                      2.3,
+                      0.3
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        },
+        {
+          "panel_id": "M5c",
+          "outer_rect_cm": [
+            11.5,
+            6.0,
+            6.0,
+            7.5
+          ],
+          "title_text": "Secondary effect",
+          "internal_layout": {
+            "regions": {
+              "secondary_rate_pair": {
+                "rect_cm": [
+                  12,
+                  7.5,
+                  2,
+                  5.5
+                ],
+                "axis_slots": {
+                  "plot_frame_rect_cm": [
+                    12.5,
+                    8.0,
+                    1.4,
+                    4.5
+                  ]
+                }
+              },
+              "secondary_effect_interval": {
+                "rect_cm": [
+                  14.5,
+                  7.5,
+                  2.5,
+                  2.5
+                ],
+                "axis_slots": {
+                  "plot_frame_rect_cm": [
+                    15.0,
+                    8.0,
+                    1.9,
+                    1.5
+                  ]
+                }
+              },
+              "secondary_draw_ecdf": {
+                "rect_cm": [
+                  14.5,
+                  10.5,
+                  2.5,
+                  2.5
+                ],
+                "axis_slots": {
+                  "plot_frame_rect_cm": [
+                    15.0,
+                    11.0,
+                    1.9,
+                    1.5
+                  ]
+                }
+              }
+            },
+            "reserves": {
+              "title_reserve": {
+                "rect_cm": [
+                  12,
+                  6.5,
+                  3,
+                  0.5
+                ],
+                "element_slots": {
+                  "panel_label": {
+                    "rect_cm": [
+                      12.1,
+                      6.6,
+                      0.4,
+                      0.3
+                    ]
+                  },
+                  "title": {
+                    "rect_cm": [
+                      12.7,
+                      6.6,
+                      2.2,
+                      0.3
+                    ]
+                  }
+                }
+              },
+              "secondary_legend": {
+                "rect_cm": [
+                  15.5,
+                  6.5,
+                  1.5,
+                  0.5
+                ],
+                "element_slots": {
+                  "legend": {
+                    "rect_cm": [
+                      15.6,
+                      6.6,
+                      1.3,
+                      0.3
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "figure_id": "ED1",
+      "panels": [
+        {
+          "panel_id": "ED1a",
+          "outer_rect_cm": [
+            0.5,
+            0.5,
+            8.0,
+            6.0
+          ],
+          "title_text": "Cohort construction",
+          "internal_layout": {
+            "regions": {
+              "main_cohort_path": {
+                "rect_cm": [
+                  1,
+                  2,
+                  3,
+                  4
+                ],
+                "axis_slots": {
+                  "plot_frame_rect_cm": [
+                    1.1,
+                    2.1,
+                    2.8,
+                    3.8
+                  ]
+                }
+              },
+              "strict_sensitivity_path": {
+                "rect_cm": [
+                  4.5,
+                  2,
+                  3.5,
+                  4
+                ],
+                "axis_slots": {
+                  "plot_frame_rect_cm": [
+                    4.6,
+                    2.1,
+                    3.3,
+                    3.8
+                  ]
+                }
+              }
+            },
+            "reserves": {
+              "title_reserve": {
+                "rect_cm": [
+                  1,
+                  1,
+                  4.5,
+                  0.5
+                ],
+                "element_slots": {
+                  "panel_label": {
+                    "rect_cm": [
+                      1.1,
+                      1.1,
+                      0.4,
+                      0.3
+                    ]
+                  },
+                  "title": {
+                    "rect_cm": [
+                      1.7,
+                      1.1,
+                      3.7,
+                      0.3
+                    ]
+                  }
+                }
+              },
+              "definition_legend": {
+                "rect_cm": [
+                  6,
+                  1,
+                  2,
+                  0.5
+                ],
+                "element_slots": {
+                  "legend": {
+                    "rect_cm": [
+                      6.1,
+                      1.1,
+                      1.8,
+                      0.3
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        },
+        {
+          "panel_id": "ED1b",
+          "outer_rect_cm": [
+            9.0,
+            0.5,
+            8.5,
+            6.0
+          ],
+          "title_text": "Annual support",
+          "internal_layout": {
+            "regions": {
+              "episode_axis": {
+                "rect_cm": [
+                  9.5,
+                  2,
+                  3.5,
+                  4
+                ],
+                "axis_slots": {
+                  "plot_frame_rect_cm": [
+                    10.0,
+                    2.5,
+                    2.9,
+                    3.0
+                  ]
+                }
+              },
+              "lake_axis": {
+                "rect_cm": [
+                  13.5,
+                  2,
+                  3.5,
+                  4
+                ],
+                "axis_slots": {
+                  "plot_frame_rect_cm": [
+                    14.0,
+                    2.5,
+                    2.9,
+                    3.0
+                  ]
+                }
+              }
+            },
+            "reserves": {
+              "title_reserve": {
+                "rect_cm": [
+                  9.5,
+                  1,
+                  5,
+                  0.5
+                ],
+                "element_slots": {
+                  "panel_label": {
+                    "rect_cm": [
+                      9.6,
+                      1.1,
+                      0.4,
+                      0.3
+                    ]
+                  },
+                  "title": {
+                    "rect_cm": [
+                      10.2,
+                      1.1,
+                      4.2,
+                      0.3
+                    ]
+                  }
+                }
+              },
+              "year_legend": {
+                "rect_cm": [
+                  15,
+                  1,
+                  2,
+                  0.5
+                ],
+                "element_slots": {
+                  "legend": {
+                    "rect_cm": [
+                      15.1,
+                      1.1,
+                      1.8,
+                      0.3
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        },
+        {
+          "panel_id": "ED1c",
+          "outer_rect_cm": [
+            0.5,
+            7.0,
+            17.0,
+            6.5
+          ],
+          "title_text": "Geographic support",
+          "internal_layout": {
+            "regions": {
+              "state_support_axis": {
+                "rect_cm": [
+                  1,
+                  8.5,
+                  7.5,
+                  4.5
+                ],
+                "axis_slots": {
+                  "plot_frame_rect_cm": [
+                    1.5,
+                    9.0,
+                    6.9,
+                    3.5
+                  ]
+                }
+              },
+              "ecoregion_support_axis": {
+                "rect_cm": [
+                  9,
+                  8.5,
+                  8,
+                  4.5
+                ],
+                "axis_slots": {
+                  "plot_frame_rect_cm": [
+                    9.5,
+                    9.0,
+                    7.4,
+                    3.5
+                  ]
+                }
+              }
+            },
+            "reserves": {
+              "title_reserve": {
+                "rect_cm": [
+                  1,
+                  7.5,
+                  11,
+                  0.5
+                ],
+                "element_slots": {
+                  "panel_label": {
+                    "rect_cm": [
+                      1.1,
+                      7.6,
+                      0.4,
+                      0.3
+                    ]
+                  },
+                  "title": {
+                    "rect_cm": [
+                      1.7,
+                      7.6,
+                      10.2,
+                      0.3
+                    ]
+                  }
+                }
+              },
+              "population_legend": {
+                "rect_cm": [
+                  12.5,
+                  7.5,
+                  4.5,
+                  0.5
+                ],
+                "element_slots": {
+                  "legend": {
+                    "rect_cm": [
+                      12.6,
+                      7.6,
+                      4.3,
+                      0.3
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "figure_id": "ED2",
+      "panels": [
+        {
+          "panel_id": "ED2a",
+          "outer_rect_cm": [
+            0.5,
+            0.5,
+            8.0,
+            13.0
+          ],
+          "title_text": "Observation support",
+          "internal_layout": {
+            "regions": {
+              "lag30_distribution": {
+                "rect_cm": [
+                  1,
+                  2,
+                  3,
+                  5
+                ],
+                "axis_slots": {
+                  "plot_frame_rect_cm": [
+                    1.5,
+                    2.5,
+                    2.4,
+                    4.0
+                  ]
+                }
+              },
+              "lag90_distribution": {
+                "rect_cm": [
+                  4.5,
+                  2,
+                  3.5,
+                  5
+                ],
+                "axis_slots": {
+                  "plot_frame_rect_cm": [
+                    5.0,
+                    2.5,
+                    2.9,
+                    4.0
+                  ]
+                }
+              },
+              "missing_reason_axis": {
+                "rect_cm": [
+                  1,
+                  7.5,
+                  7,
+                  5.5
+                ],
+                "axis_slots": {
+                  "plot_frame_rect_cm": [
+                    1.5,
+                    8.0,
+                    6.4,
+                    4.5
+                  ]
+                }
+              }
+            },
+            "reserves": {
+              "title_reserve": {
+                "rect_cm": [
+                  1,
+                  1,
+                  4.5,
+                  0.5
+                ],
+                "element_slots": {
+                  "panel_label": {
+                    "rect_cm": [
+                      1.1,
+                      1.1,
+                      0.4,
+                      0.3
+                    ]
+                  },
+                  "title": {
+                    "rect_cm": [
+                      1.7,
+                      1.1,
+                      3.7,
+                      0.3
+                    ]
+                  }
+                }
+              },
+              "support_legend": {
+                "rect_cm": [
+                  6,
+                  1,
+                  2,
+                  0.5
+                ],
+                "element_slots": {
+                  "legend": {
+                    "rect_cm": [
+                      6.1,
+                      1.1,
+                      1.8,
+                      0.3
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        },
+        {
+          "panel_id": "ED2b",
+          "outer_rect_cm": [
+            9.0,
+            0.5,
+            8.5,
+            6.0
+          ],
+          "title_text": "Source provenance",
+          "internal_layout": {
+            "regions": {
+              "lake_day_axis": {
+                "rect_cm": [
+                  9.5,
+                  2,
+                  3.5,
+                  4
+                ],
+                "axis_slots": {
+                  "plot_frame_rect_cm": [
+                    10.0,
+                    2.5,
+                    2.9,
+                    3.0
+                  ]
+                }
+              },
+              "distinct_lake_axis": {
+                "rect_cm": [
+                  13.5,
+                  2,
+                  3.5,
+                  4
+                ],
+                "axis_slots": {
+                  "plot_frame_rect_cm": [
+                    14.0,
+                    2.5,
+                    2.9,
+                    3.0
+                  ]
+                }
+              }
+            },
+            "reserves": {
+              "title_reserve": {
+                "rect_cm": [
+                  9.5,
+                  1,
+                  5,
+                  0.5
+                ],
+                "element_slots": {
+                  "panel_label": {
+                    "rect_cm": [
+                      9.6,
+                      1.1,
+                      0.4,
+                      0.3
+                    ]
+                  },
+                  "title": {
+                    "rect_cm": [
+                      10.2,
+                      1.1,
+                      4.2,
+                      0.3
+                    ]
+                  }
+                }
+              },
+              "source_legend": {
+                "rect_cm": [
+                  15,
+                  1,
+                  2,
+                  0.5
+                ],
+                "element_slots": {
+                  "legend": {
+                    "rect_cm": [
+                      15.1,
+                      1.1,
+                      1.8,
+                      0.3
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        },
+        {
+          "panel_id": "ED2c",
+          "outer_rect_cm": [
+            9.0,
+            7.0,
+            8.5,
+            6.5
+          ],
+          "title_text": "Legal origin support",
+          "internal_layout": {
+            "regions": {
+              "prior_observation_ecdf": {
+                "rect_cm": [
+                  9.5,
+                  8.5,
+                  2,
+                  4.5
+                ],
+                "axis_slots": {
+                  "plot_frame_rect_cm": [
+                    10.0,
+                    9.0,
+                    1.4,
+                    3.5
+                  ]
+                }
+              },
+              "candidate_origin_ecdf": {
+                "rect_cm": [
+                  12,
+                  8.5,
+                  2,
+                  4.5
+                ],
+                "axis_slots": {
+                  "plot_frame_rect_cm": [
+                    12.5,
+                    9.0,
+                    1.4,
+                    3.5
+                  ]
+                }
+              },
+              "evaluability_marks": {
+                "rect_cm": [
+                  14.5,
+                  8.5,
+                  2.5,
+                  4.5
+                ],
+                "axis_slots": {
+                  "plot_frame_rect_cm": [
+                    15.0,
+                    9.0,
+                    1.9,
+                    3.5
+                  ]
+                }
+              }
+            },
+            "reserves": {
+              "title_reserve": {
+                "rect_cm": [
+                  9.5,
+                  7.5,
+                  7.5,
+                  0.5
+                ],
+                "element_slots": {
+                  "panel_label": {
+                    "rect_cm": [
+                      9.6,
+                      7.6,
+                      0.4,
+                      0.3
+                    ]
+                  },
+                  "title": {
+                    "rect_cm": [
+                      10.2,
+                      7.6,
+                      6.7,
+                      0.3
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "figure_id": "ED3",
+      "panels": [
+        {
+          "panel_id": "ED3a",
+          "outer_rect_cm": [
+            0.5,
+            0.5,
+            8.0,
+            6.5
+          ],
+          "title_text": "Development groups",
+          "internal_layout": {
+            "regions": {
+              "year_primary_axis": {
+                "rect_cm": [
+                  1,
+                  2,
+                  3,
+                  2
+                ],
+                "axis_slots": {
+                  "plot_frame_rect_cm": [
+                    1.5,
+                    2.5,
+                    2.4,
+                    1.0
+                  ]
+                }
+              },
+              "year_secondary_axis": {
+                "rect_cm": [
+                  4.5,
+                  2,
+                  3.5,
+                  2
+                ],
+                "axis_slots": {
+                  "plot_frame_rect_cm": [
+                    5.0,
+                    2.5,
+                    2.9,
+                    1.0
+                  ]
+                }
+              },
+              "fold_primary_axis": {
+                "rect_cm": [
+                  1,
+                  4.5,
+                  3,
+                  2
+                ],
+                "axis_slots": {
+                  "plot_frame_rect_cm": [
+                    1.5,
+                    5.0,
+                    2.4,
+                    1.0
+                  ]
+                }
+              },
+              "fold_secondary_axis": {
+                "rect_cm": [
+                  4.5,
+                  4.5,
+                  3.5,
+                  2
+                ],
+                "axis_slots": {
+                  "plot_frame_rect_cm": [
+                    5.0,
+                    5.0,
+                    2.9,
+                    1.0
+                  ]
+                }
+              }
+            },
+            "reserves": {
+              "title_reserve": {
+                "rect_cm": [
+                  1,
+                  1,
+                  4.5,
+                  0.5
+                ],
+                "element_slots": {
+                  "panel_label": {
+                    "rect_cm": [
+                      1.1,
+                      1.1,
+                      0.4,
+                      0.3
+                    ]
+                  },
+                  "title": {
+                    "rect_cm": [
+                      1.7,
+                      1.1,
+                      3.7,
+                      0.3
+                    ]
+                  }
+                }
+              },
+              "group_legend": {
+                "rect_cm": [
+                  6,
+                  1,
+                  2,
+                  0.5
+                ],
+                "element_slots": {
+                  "legend": {
+                    "rect_cm": [
+                      6.1,
+                      1.1,
+                      1.8,
+                      0.3
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        },
+        {
+          "panel_id": "ED3b",
+          "outer_rect_cm": [
+            9.0,
+            0.5,
+            8.5,
+            6.5
+          ],
+          "title_text": "Metric detail",
+          "internal_layout": {
+            "regions": {
+              "auprc_axis": {
+                "rect_cm": [
+                  9.5,
+                  2,
+                  2,
+                  2
+                ],
+                "axis_slots": {
+                  "plot_frame_rect_cm": [
+                    10.0,
+                    2.5,
+                    1.4,
+                    1.0
+                  ]
+                }
+              },
+              "auroc_axis": {
+                "rect_cm": [
+                  12,
+                  2,
+                  2,
+                  2
+                ],
+                "axis_slots": {
+                  "plot_frame_rect_cm": [
+                    12.5,
+                    2.5,
+                    1.4,
+                    1.0
+                  ]
+                }
+              },
+              "brier_axis": {
+                "rect_cm": [
+                  14.5,
+                  2,
+                  2.5,
+                  2
+                ],
+                "axis_slots": {
+                  "plot_frame_rect_cm": [
+                    15.0,
+                    2.5,
+                    1.9,
+                    1.0
+                  ]
+                }
+              },
+              "logloss_axis": {
+                "rect_cm": [
+                  9.5,
+                  4.5,
+                  2,
+                  2
+                ],
+                "axis_slots": {
+                  "plot_frame_rect_cm": [
+                    10.0,
+                    5.0,
+                    1.4,
+                    1.0
+                  ]
+                }
+              },
+              "calibration_intercept_axis": {
+                "rect_cm": [
+                  12,
+                  4.5,
+                  2,
+                  2
+                ],
+                "axis_slots": {
+                  "plot_frame_rect_cm": [
+                    12.5,
+                    5.0,
+                    1.4,
+                    1.0
+                  ]
+                }
+              },
+              "calibration_slope_axis": {
+                "rect_cm": [
+                  14.5,
+                  4.5,
+                  2.5,
+                  2
+                ],
+                "axis_slots": {
+                  "plot_frame_rect_cm": [
+                    15.0,
+                    5.0,
+                    1.9,
+                    1.0
+                  ]
+                }
+              }
+            },
+            "reserves": {
+              "title_reserve": {
+                "rect_cm": [
+                  9.5,
+                  1,
+                  5,
+                  0.5
+                ],
+                "element_slots": {
+                  "panel_label": {
+                    "rect_cm": [
+                      9.6,
+                      1.1,
+                      0.4,
+                      0.3
+                    ]
+                  },
+                  "title": {
+                    "rect_cm": [
+                      10.2,
+                      1.1,
+                      4.2,
+                      0.3
+                    ]
+                  }
+                }
+              },
+              "metric_legend": {
+                "rect_cm": [
+                  15,
+                  1,
+                  2,
+                  0.5
+                ],
+                "element_slots": {
+                  "legend": {
+                    "rect_cm": [
+                      15.1,
+                      1.1,
+                      1.8,
+                      0.3
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        },
+        {
+          "panel_id": "ED3c",
+          "outer_rect_cm": [
+            0.5,
+            7.5,
+            17.0,
+            6.0
+          ],
+          "title_text": "Development resamples",
+          "internal_layout": {
+            "regions": {
+              "primary_draw_distribution": {
+                "rect_cm": [
+                  1,
+                  9,
+                  5,
+                  4
+                ],
+                "axis_slots": {
+                  "plot_frame_rect_cm": [
+                    1.5,
+                    9.5,
+                    4.4,
+                    3.0
+                  ]
+                }
+              },
+              "secondary_draw_distribution": {
+                "rect_cm": [
+                  6.5,
+                  9,
+                  5,
+                  4
+                ],
+                "axis_slots": {
+                  "plot_frame_rect_cm": [
+                    7.0,
+                    9.5,
+                    4.4,
+                    3.0
+                  ]
+                }
+              },
+              "interval_summary": {
+                "rect_cm": [
+                  12,
+                  9,
+                  5,
+                  4
+                ],
+                "axis_slots": {
+                  "plot_frame_rect_cm": [
+                    12.5,
+                    9.5,
+                    4.4,
+                    3.0
+                  ]
+                }
+              }
+            },
+            "reserves": {
+              "title_reserve": {
+                "rect_cm": [
+                  1,
+                  8,
+                  11,
+                  0.5
+                ],
+                "element_slots": {
+                  "panel_label": {
+                    "rect_cm": [
+                      1.1,
+                      8.1,
+                      0.4,
+                      0.3
+                    ]
+                  },
+                  "title": {
+                    "rect_cm": [
+                      1.7,
+                      8.1,
+                      10.2,
+                      0.3
+                    ]
+                  }
+                }
+              },
+              "resample_legend": {
+                "rect_cm": [
+                  12.5,
+                  8,
+                  4.5,
+                  0.5
+                ],
+                "element_slots": {
+                  "legend": {
+                    "rect_cm": [
+                      12.6,
+                      8.1,
+                      4.3,
+                      0.3
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "figure_id": "ED4",
+      "panels": [
+        {
+          "panel_id": "ED4a",
+          "outer_rect_cm": [
+            0.5,
+            0.5,
+            17.0,
+            4.0
+          ],
+          "title_text": "Capacity closure",
+          "internal_layout": {
+            "regions": {
+              "eligible_axis": {
+                "rect_cm": [
+                  1,
+                  2,
+                  5,
+                  2
+                ],
+                "axis_slots": {
+                  "plot_frame_rect_cm": [
+                    1.5,
+                    2.5,
+                    4.4,
+                    1.0
+                  ]
+                }
+              },
+              "capacity_axis": {
+                "rect_cm": [
+                  6.5,
+                  2,
+                  5,
+                  2
+                ],
+                "axis_slots": {
+                  "plot_frame_rect_cm": [
+                    7.0,
+                    2.5,
+                    4.4,
+                    1.0
+                  ]
+                }
+              },
+              "rule_residual_axis": {
+                "rect_cm": [
+                  12,
+                  2,
+                  5,
+                  2
+                ],
+                "axis_slots": {
+                  "plot_frame_rect_cm": [
+                    12.5,
+                    2.5,
+                    4.4,
+                    1.0
+                  ]
+                }
+              }
+            },
+            "reserves": {
+              "title_reserve": {
+                "rect_cm": [
+                  1,
+                  1,
+                  11,
+                  0.5
+                ],
+                "element_slots": {
+                  "panel_label": {
+                    "rect_cm": [
+                      1.1,
+                      1.1,
+                      0.4,
+                      0.3
+                    ]
+                  },
+                  "title": {
+                    "rect_cm": [
+                      1.7,
+                      1.1,
+                      10.2,
+                      0.3
+                    ]
+                  }
+                }
+              },
+              "capacity_legend": {
+                "rect_cm": [
+                  12.5,
+                  1,
+                  4.5,
+                  0.5
+                ],
+                "element_slots": {
+                  "legend": {
+                    "rect_cm": [
+                      12.6,
+                      1.1,
+                      4.3,
+                      0.3
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        },
+        {
+          "panel_id": "ED4b",
+          "outer_rect_cm": [
+            0.5,
+            5.0,
+            8.0,
+            8.5
+          ],
+          "title_text": "Identity transitions",
+          "internal_layout": {
+            "regions": {
+              "transition_count_axis": {
+                "rect_cm": [
+                  1,
+                  6.5,
+                  7,
+                  3
+                ],
+                "axis_slots": {
+                  "plot_frame_rect_cm": [
+                    1.5,
+                    7.0,
+                    6.4,
+                    2.0
+                  ]
+                }
+              },
+              "overlap_fraction_ecdf": {
+                "rect_cm": [
+                  1,
+                  10,
+                  7,
+                  3
+                ],
+                "axis_slots": {
+                  "plot_frame_rect_cm": [
+                    1.5,
+                    10.5,
+                    6.4,
+                    2.0
+                  ]
+                }
+              }
+            },
+            "reserves": {
+              "title_reserve": {
+                "rect_cm": [
+                  1,
+                  5.5,
+                  4.5,
+                  0.5
+                ],
+                "element_slots": {
+                  "panel_label": {
+                    "rect_cm": [
+                      1.1,
+                      5.6,
+                      0.4,
+                      0.3
+                    ]
+                  },
+                  "title": {
+                    "rect_cm": [
+                      1.7,
+                      5.6,
+                      3.7,
+                      0.3
+                    ]
+                  }
+                }
+              },
+              "transition_legend": {
+                "rect_cm": [
+                  6,
+                  5.5,
+                  2,
+                  0.5
+                ],
+                "element_slots": {
+                  "legend": {
+                    "rect_cm": [
+                      6.1,
+                      5.6,
+                      1.8,
+                      0.3
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        },
+        {
+          "panel_id": "ED4c",
+          "outer_rect_cm": [
+            9.0,
+            5.0,
+            8.5,
+            8.5
+          ],
+          "title_text": "Cross-rank distance",
+          "internal_layout": {
+            "regions": {
+              "multi_horizon_only_direct_rank_ecdf": {
+                "rect_cm": [
+                  9.5,
+                  6.5,
+                  3.5,
+                  6.5
+                ],
+                "axis_slots": {
+                  "plot_frame_rect_cm": [
+                    10.0,
+                    7.0,
+                    2.9,
+                    5.5
+                  ]
+                }
+              },
+              "direct_only_multi_horizon_rank_ecdf": {
+                "rect_cm": [
+                  13.5,
+                  6.5,
+                  3.5,
+                  6.5
+                ],
+                "axis_slots": {
+                  "plot_frame_rect_cm": [
+                    14.0,
+                    7.0,
+                    2.9,
+                    5.5
+                  ]
+                }
+              }
+            },
+            "reserves": {
+              "title_reserve": {
+                "rect_cm": [
+                  9.5,
+                  5.5,
+                  5,
+                  0.5
+                ],
+                "element_slots": {
+                  "panel_label": {
+                    "rect_cm": [
+                      9.6,
+                      5.6,
+                      0.4,
+                      0.3
+                    ]
+                  },
+                  "title": {
+                    "rect_cm": [
+                      10.2,
+                      5.6,
+                      4.2,
+                      0.3
+                    ]
+                  }
+                }
+              },
+              "cross_rank_legend": {
+                "rect_cm": [
+                  15,
+                  5.5,
+                  2,
+                  0.5
+                ],
+                "element_slots": {
+                  "legend": {
+                    "rect_cm": [
+                      15.1,
+                      5.6,
+                      1.8,
+                      0.3
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "figure_id": "ED5",
+      "panels": [
+        {
+          "panel_id": "ED5a",
+          "outer_rect_cm": [
+            0.5,
+            0.5,
+            17.0,
+            6.0
+          ],
+          "title_text": "Primary sensitivity",
+          "internal_layout": {
+            "regions": {
+              "primary_sensitivity_axis": {
+                "rect_cm": [
+                  1,
+                  2,
+                  11,
+                  4
+                ],
+                "axis_slots": {
+                  "plot_frame_rect_cm": [
+                    1.5,
+                    2.5,
+                    10.4,
+                    3.0
+                  ]
+                }
+              },
+              "denominator_axis": {
+                "rect_cm": [
+                  12.5,
+                  2,
+                  4.5,
+                  4
+                ],
+                "axis_slots": {
+                  "plot_frame_rect_cm": [
+                    13.0,
+                    2.5,
+                    3.9,
+                    3.0
+                  ]
+                }
+              }
+            },
+            "reserves": {
+              "title_reserve": {
+                "rect_cm": [
+                  1,
+                  1,
+                  11,
+                  0.5
+                ],
+                "element_slots": {
+                  "panel_label": {
+                    "rect_cm": [
+                      1.1,
+                      1.1,
+                      0.4,
+                      0.3
+                    ]
+                  },
+                  "title": {
+                    "rect_cm": [
+                      1.7,
+                      1.1,
+                      10.2,
+                      0.3
+                    ]
+                  }
+                }
+              },
+              "sensitivity_legend": {
+                "rect_cm": [
+                  12.5,
+                  1,
+                  4.5,
+                  0.5
+                ],
+                "element_slots": {
+                  "legend": {
+                    "rect_cm": [
+                      12.6,
+                      1.1,
+                      4.3,
+                      0.3
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        },
+        {
+          "panel_id": "ED5b",
+          "outer_rect_cm": [
+            0.5,
+            7.0,
+            17.0,
+            6.5
+          ],
+          "title_text": "Secondary sensitivity",
+          "internal_layout": {
+            "regions": {
+              "secondary_sensitivity_axis": {
+                "rect_cm": [
+                  1,
+                  8.5,
+                  11,
+                  4.5
+                ],
+                "axis_slots": {
+                  "plot_frame_rect_cm": [
+                    1.5,
+                    9.0,
+                    10.4,
+                    3.5
+                  ]
+                }
+              },
+              "denominator_axis": {
+                "rect_cm": [
+                  12.5,
+                  8.5,
+                  4.5,
+                  4.5
+                ],
+                "axis_slots": {
+                  "plot_frame_rect_cm": [
+                    13.0,
+                    9.0,
+                    3.9,
+                    3.5
+                  ]
+                }
+              }
+            },
+            "reserves": {
+              "title_reserve": {
+                "rect_cm": [
+                  1,
+                  7.5,
+                  11,
+                  0.5
+                ],
+                "element_slots": {
+                  "panel_label": {
+                    "rect_cm": [
+                      1.1,
+                      7.6,
+                      0.4,
+                      0.3
+                    ]
+                  },
+                  "title": {
+                    "rect_cm": [
+                      1.7,
+                      7.6,
+                      10.2,
+                      0.3
+                    ]
+                  }
+                }
+              },
+              "sensitivity_legend": {
+                "rect_cm": [
+                  12.5,
+                  7.5,
+                  4.5,
+                  0.5
+                ],
+                "element_slots": {
+                  "legend": {
+                    "rect_cm": [
+                      12.6,
+                      7.6,
+                      4.3,
+                      0.3
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "figure_id": "ED6",
+      "panels": [
+        {
+          "panel_id": "ED6a",
+          "outer_rect_cm": [
+            0.5,
+            0.5,
+            17.0,
+            7.5
+          ],
+          "title_text": "Joint resamples",
+          "internal_layout": {
+            "regions": {
+              "joint_plane_axis": {
+                "rect_cm": [
+                  1,
+                  2,
+                  16,
+                  5.5
+                ],
+                "axis_slots": {
+                  "plot_frame_rect_cm": [
+                    1.5,
+                    2.5,
+                    15.4,
+                    4.5
+                  ]
+                }
+              },
+              "point_estimate_overlay": {
+                "rect_cm": [
+                  1.5,
+                  2.5,
+                  15,
+                  4.5
+                ]
+              }
+            },
+            "reserves": {
+              "title_reserve": {
+                "rect_cm": [
+                  1,
+                  1,
+                  11,
+                  0.5
+                ],
+                "element_slots": {
+                  "panel_label": {
+                    "rect_cm": [
+                      1.1,
+                      1.1,
+                      0.4,
+                      0.3
+                    ]
+                  },
+                  "title": {
+                    "rect_cm": [
+                      1.7,
+                      1.1,
+                      10.2,
+                      0.3
+                    ]
+                  }
+                }
+              },
+              "reference_legend": {
+                "rect_cm": [
+                  12.5,
+                  1,
+                  4.5,
+                  0.5
+                ],
+                "element_slots": {
+                  "legend": {
+                    "rect_cm": [
+                      12.6,
+                      1.1,
+                      4.3,
+                      0.3
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        },
+        {
+          "panel_id": "ED6b",
+          "outer_rect_cm": [
+            0.5,
+            8.5,
+            17.0,
+            5.0
+          ],
+          "title_text": "Marginal resamples",
+          "internal_layout": {
+            "regions": {
+              "primary_marginal": {
+                "rect_cm": [
+                  1,
+                  10,
+                  5,
+                  3
+                ],
+                "axis_slots": {
+                  "plot_frame_rect_cm": [
+                    1.5,
+                    10.5,
+                    4.4,
+                    2.0
+                  ]
+                }
+              },
+              "secondary_marginal": {
+                "rect_cm": [
+                  6.5,
+                  10,
+                  5,
+                  3
+                ],
+                "axis_slots": {
+                  "plot_frame_rect_cm": [
+                    7.0,
+                    10.5,
+                    4.4,
+                    2.0
+                  ]
+                }
+              },
+              "quantile_summary": {
+                "rect_cm": [
+                  12,
+                  10,
+                  5,
+                  3
+                ],
+                "axis_slots": {
+                  "plot_frame_rect_cm": [
+                    12.5,
+                    10.5,
+                    4.4,
+                    2.0
+                  ]
+                }
+              }
+            },
+            "reserves": {
+              "title_reserve": {
+                "rect_cm": [
+                  1,
+                  9,
+                  11,
+                  0.5
+                ],
+                "element_slots": {
+                  "panel_label": {
+                    "rect_cm": [
+                      1.1,
+                      9.1,
+                      0.4,
+                      0.3
+                    ]
+                  },
+                  "title": {
+                    "rect_cm": [
+                      1.7,
+                      9.1,
+                      10.2,
+                      0.3
+                    ]
+                  }
+                }
+              },
+              "quantile_legend": {
+                "rect_cm": [
+                  12.5,
+                  9,
+                  4.5,
+                  0.5
+                ],
+                "element_slots": {
+                  "legend": {
+                    "rect_cm": [
+                      12.6,
+                      9.1,
+                      4.3,
+                      0.3
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "figure_id": "ED7",
+      "panels": [
+        {
+          "panel_id": "ED7a",
+          "outer_rect_cm": [
+            0.5,
+            0.5,
+            8.0,
+            6.0
+          ],
+          "title_text": "Onset support",
+          "internal_layout": {
+            "regions": {
+              "bracket_width_ecdf": {
+                "rect_cm": [
+                  1,
+                  2,
+                  4,
+                  4
+                ],
+                "axis_slots": {
+                  "plot_frame_rect_cm": [
+                    1.5,
+                    2.5,
+                    3.4,
+                    3.0
+                  ]
+                }
+              },
+              "tight_boundary_marks": {
+                "rect_cm": [
+                  5.5,
+                  2,
+                  2.5,
+                  4
+                ],
+                "axis_slots": {
+                  "plot_frame_rect_cm": [
+                    6.0,
+                    2.5,
+                    1.9,
+                    3.0
+                  ]
+                }
+              }
+            },
+            "reserves": {
+              "title_reserve": {
+                "rect_cm": [
+                  1,
+                  1,
+                  4.5,
+                  0.5
+                ],
+                "element_slots": {
+                  "panel_label": {
+                    "rect_cm": [
+                      1.1,
+                      1.1,
+                      0.4,
+                      0.3
+                    ]
+                  },
+                  "title": {
+                    "rect_cm": [
+                      1.7,
+                      1.1,
+                      3.7,
+                      0.3
+                    ]
+                  }
+                }
+              },
+              "definition_legend": {
+                "rect_cm": [
+                  6,
+                  1,
+                  2,
+                  0.5
+                ],
+                "element_slots": {
+                  "legend": {
+                    "rect_cm": [
+                      6.1,
+                      1.1,
+                      1.8,
+                      0.3
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        },
+        {
+          "panel_id": "ED7b",
+          "outer_rect_cm": [
+            9.0,
+            0.5,
+            8.5,
+            13.0
+          ],
+          "title_text": "Separation support",
+          "internal_layout": {
+            "regions": {
+              "previous_gap_ecdf": {
+                "rect_cm": [
+                  9.5,
+                  2,
+                  7.5,
+                  4.5
+                ],
+                "axis_slots": {
+                  "plot_frame_rect_cm": [
+                    10.0,
+                    2.5,
+                    6.9,
+                    3.5
+                  ]
+                }
+              },
+              "prior_nonsevere_axis": {
+                "rect_cm": [
+                  9.5,
+                  7,
+                  7.5,
+                  5.5
+                ],
+                "axis_slots": {
+                  "plot_frame_rect_cm": [
+                    10.0,
+                    7.5,
+                    6.9,
+                    4.0
+                  ]
+                }
+              }
+            },
+            "reserves": {
+              "title_reserve": {
+                "rect_cm": [
+                  9.5,
+                  1,
+                  5,
+                  0.5
+                ],
+                "element_slots": {
+                  "panel_label": {
+                    "rect_cm": [
+                      9.6,
+                      1.1,
+                      0.4,
+                      0.3
+                    ]
+                  },
+                  "title": {
+                    "rect_cm": [
+                      10.2,
+                      1.1,
+                      4.2,
+                      0.3
+                    ]
+                  }
+                }
+              },
+              "censor_status_legend": {
+                "rect_cm": [
+                  15,
+                  1,
+                  2,
+                  0.5
+                ],
+                "element_slots": {
+                  "legend": {
+                    "rect_cm": [
+                      15.1,
+                      1.1,
+                      1.8,
+                      0.3
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        },
+        {
+          "panel_id": "ED7c",
+          "outer_rect_cm": [
+            0.5,
+            7.0,
+            8.0,
+            6.5
+          ],
+          "title_text": "Washout accounting",
+          "internal_layout": {
+            "regions": {
+              "washout_count_axis": {
+                "rect_cm": [
+                  1,
+                  8.5,
+                  7,
+                  3
+                ],
+                "axis_slots": {
+                  "plot_frame_rect_cm": [
+                    1.5,
+                    9.0,
+                    6.4,
+                    2.0
+                  ]
+                }
+              }
+            },
+            "reserves": {
+              "title_reserve": {
+                "rect_cm": [
+                  1,
+                  7.5,
+                  5,
+                  0.5
+                ],
+                "element_slots": {
+                  "panel_label": {
+                    "rect_cm": [
+                      1.1,
+                      7.6,
+                      0.4,
+                      0.3
+                    ]
+                  },
+                  "title": {
+                    "rect_cm": [
+                      1.7,
+                      7.6,
+                      4.2,
+                      0.3
+                    ]
+                  }
+                }
+              },
+              "definition_note": {
+                "rect_cm": [
+                  1,
+                  12,
+                  7,
+                  1
+                ],
+                "element_slots": {
+                  "legend": {
+                    "rect_cm": [
+                      1.1,
+                      12.1,
+                      6.8,
+                      0.8
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

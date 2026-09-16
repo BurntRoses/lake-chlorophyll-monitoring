@@ -1,0 +1,17 @@
+/04_analysis_data/**
+/05_models/**
+!/05_models/README.md
+!/05_models/direct_60_day/
+/05_models/direct_60_day/*
+!/05_models/direct_60_day/README.md
+!/05_models/direct_60_day/model_index.csv
+/MANIFEST_DATA.sha256
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.build/
+07_metadata/provenance/evaluation/
+07_metadata/provenance/figures/
+07_metadata/provenance/release_validation.json
+*.zip

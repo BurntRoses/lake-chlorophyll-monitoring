@@ -1,0 +1,12 @@
+project:
+  id: lake_chlorophyll_monitoring_priority
+  title_en: Multi-horizon risk ranking and advance event coverage for lake chlorophyll-a monitoring under fixed capacity
+  evaluation_years: [2021, 2022, 2023, 2024, 2025]
+  bootstrap_seed: 20260804
+paths:
+  analysis_plan: 07_metadata/analysis_plan.json
+  policy_registry: 07_metadata/policy_registry.json
+  results: 04_analysis_data/strategy_evaluation
+  figures: 02_figures
+  source_data: 03_figure_source_data
+  entry_point: 06_code/run_pipeline.py

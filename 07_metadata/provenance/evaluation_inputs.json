@@ -1,0 +1,74 @@
+{
+  "candidate_ledger": {
+    "relative_path": "04_analysis_data/primary_external_evaluation/candidate_features/external_candidate_ledger.parquet",
+    "sha256": "8c76b2240bfd9a25c31f5447a327ee0f1736a460cc8f7be439a8c4a290ad61bd"
+  },
+  "stage_scores": {
+    "relative_path": "04_analysis_data/primary_external_evaluation/multi_horizon_scores/external_outcome_blind_scores.parquet",
+    "sha256": "d1a328b3e866f7744e8efabc35e9307e773f46cfe1df8637fe12469d390886cd"
+  },
+  "stage_queues": {
+    "relative_path": "04_analysis_data/primary_external_evaluation/multi_horizon_scores/frozen_external_queues.parquet",
+    "sha256": "5cdc672f3a1ac78e514afc526777a59ddfe3fb2fa4b279b439cc7cccacae4aac"
+  },
+  "direct_scores": {
+    "relative_path": "04_analysis_data/primary_external_evaluation/direct_60_day_scores/external_direct_60_day_outcome_blind_scores.parquet",
+    "sha256": "d823c1b1091bcdc9bb7981cc2843eb9a7577d68cdb2523f2e01877611a68e08a"
+  },
+  "direct_queues": {
+    "relative_path": "04_analysis_data/primary_external_evaluation/direct_60_day_scores/frozen_external_direct_60_day_queues.parquet",
+    "sha256": "95d614269e683f43436beafc1d7a61899eb82cd27d56d0f4f8673accb48edcd4"
+  },
+  "outcome_csv": {
+    "relative_path": "04_analysis_data/primary_external_evaluation/event_outcomes/external_incident_events.csv",
+    "sha256": "c8e5106f6b71645508fbcc46f94682457da9c95552b6f93dd321c49e05be1da0"
+  },
+  "lake_day": {
+    "relative_path": "04_analysis_data/primary_external_evaluation/event_outcomes/combined_lake_day_2005_2025.parquet",
+    "sha256": "4205abbe7106974b7652a752005a9331920b5f7efc16f8932b83aa92a8c00072"
+  },
+  "history": {
+    "relative_path": "04_analysis_data/primary_external_evaluation/candidate_features/external_predictor_chla_history.parquet",
+    "sha256": "57fb80622ddfa2b06d8c60ea6ccf39d7bfb94b22d71486da6e54ba75385a4688"
+  },
+  "protocol": {
+    "relative_path": "04_analysis_data/primary_external_evaluation/protocol/protocol.json",
+    "sha256": "784d3754c26f5569b5a7805af5f3d914a98cfbe08b4d35a6f707b10991ebdf32"
+  },
+  "freeze": {
+    "relative_path": "04_analysis_data/primary_external_evaluation/input_freeze/freeze.json",
+    "sha256": "0cdcb17f0fbfdc740d7ef21058926fe5ada2c7d31caa696b91cbe69ed0cc6ab4"
+  },
+  "evaluation_contract": {
+    "relative_path": "04_analysis_data/primary_external_evaluation/evaluation/evaluation_contract.json",
+    "sha256": "4026a2a1c92971a8ee377131837dbc7eabab3e2e7d6199cce3274c833cd2bd8c"
+  },
+  "formal_points": {
+    "relative_path": "04_analysis_data/primary_external_evaluation/evaluation/point_estimates.csv",
+    "sha256": "3975d4267ad1edcdb71de17e0df5bd9e93cb39197ca720c10c45333c34880ba4"
+  },
+  "formal_summary": {
+    "relative_path": "04_analysis_data/primary_external_evaluation/evaluation/endpoint_summary.csv",
+    "sha256": "18a6525f2ab9d85ef4e83397a93704aa8bcb0bad31c5d1160d34a4d163075063"
+  },
+  "formal_draws": {
+    "relative_path": "04_analysis_data/primary_external_evaluation/evaluation/bootstrap_draws.parquet",
+    "sha256": "fb882b98898b1a5abd436b70e668cbc2f073dadf3a3db832c64b8edb09882b62"
+  },
+  "old_capacity": {
+    "relative_path": "04_analysis_data/sensitivity_analyses/selection_capacity/external_capacity_curve_summary.csv",
+    "sha256": "b708a586f1ef50622b72d5e80f32f362793155c02739f79db707b214c1891625"
+  },
+  "event_roles": {
+    "relative_path": "03_figure_source_data/Figure_3/event_roles.csv",
+    "sha256": "ffa54d459dc51cb162fc0ac5a523f929956e18a0250948aeb9d084245ed3458b"
+  },
+  "overlap": {
+    "relative_path": "03_figure_source_data/Figure_4/forecast_origin_overlap.csv",
+    "sha256": "459afd50dc3faab0588aadf9a65f3b80ea54ebaa3ce0e34dd5c47c4b8ba6a84a"
+  },
+  "lake_support": {
+    "relative_path": "03_figure_source_data/Figure_1/lake_support.csv",
+    "sha256": "7457bb3c3bc73129e22ffa21e60f384ecd33fd256d97f3605152f3ea42c74f59"
+  }
+}

@@ -1,0 +1,11 @@
+Evaluation element,Value,Definition
+Candidate lakes,"2,844",Final common set of scorable candidate lakes
+Prediction dates,130,"January 10, 2021–December 21, 2025; every 14 days"
+Candidate lake–prediction-date records,"369,720",All combinations of candidate lakes and prediction dates
+Eligible lake–prediction-date records,"365,726",Records passing date and recent-high-value exclusions
+Lakes with field observations,"1,679",Retained field chlorophyll-a observations during evaluation
+Lakes without field observations,"1,165",Retained globally; event coverage not estimable
+Event lakes / events,355 / 696,All three strategies evaluated against the same 696 events
+Primary monitoring capacity,10%,"Eligible lakes per date × 10%, rounded upward"
+Lakes selected per date,270–285,Equal capacity across strategies at a given date
+Cumulative slots per strategy,"36,631",Selected lake–prediction-date records across 130 dates

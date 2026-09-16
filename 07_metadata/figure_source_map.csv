@@ -1,0 +1,38 @@
+figure,topic,figure_path,source_data_path,rows
+Figure_1,"Candidate lakes, observations and events",02_figures/main/Figure_1.pdf,03_figure_source_data/Figure_1/geographic_counts.csv,347
+Figure_1,"Candidate lakes, observations and events",02_figures/main/Figure_1.pdf,03_figure_source_data/Figure_1/lake_support.csv,2844
+Figure_1,"Candidate lakes, observations and events",02_figures/main/Figure_1.pdf,03_figure_source_data/Figure_1/population_summary.csv,10
+Figure_2,Fixed-capacity evaluation and lake bootstrap,02_figures/main/Figure_2.pdf,03_figure_source_data/Figure_2/bootstrap_event_support.csv,5000
+Figure_2,Fixed-capacity evaluation and lake bootstrap,02_figures/main/Figure_2.pdf,03_figure_source_data/Figure_2/forecast_origin_capacity.csv,260
+Figure_3,Advance event coverage,02_figures/main/Figure_3.pdf,03_figure_source_data/Figure_3/bootstrap_draws.csv,5000
+Figure_3,Advance event coverage,02_figures/main/Figure_3.pdf,03_figure_source_data/Figure_3/endpoint_summary.csv,2
+Figure_3,Advance event coverage,02_figures/main/Figure_3.pdf,03_figure_source_data/Figure_3/event_roles.csv,696
+Figure_3,Advance event coverage,02_figures/main/Figure_3.pdf,03_figure_source_data/Figure_3/point_estimates.csv,4
+Figure_4,Risk ranks and selected lists,02_figures/main/Figure_4.pdf,03_figure_source_data/Figure_4/forecast_origin_overlap.csv,130
+Figure_4,Risk ranks and selected lists,02_figures/main/Figure_4.pdf,03_figure_source_data/Figure_4/threshold_zoom.csv,12027
+Figure_5,Capacity response and historical risk,02_figures/main/Figure_5.pdf,03_figure_source_data/Figure_5/source_data.csv,93
+Figure_S1,Event construction and distribution,02_figures/supplementary/Figure_S1.pdf,03_figure_source_data/Figure_S1/annual_support.csv,5
+Figure_S1,Event construction and distribution,02_figures/supplementary/Figure_S1.pdf,03_figure_source_data/Figure_S1/events.csv,696
+Figure_S1,Event construction and distribution,02_figures/supplementary/Figure_S1.pdf,03_figure_source_data/Figure_S1/geographic_counts.csv,347
+Figure_S2,Observation availability and valid prediction dates,02_figures/supplementary/Figure_S2.pdf,03_figure_source_data/Figure_S2/annual_source_support.csv,42
+Figure_S2,Observation availability and valid prediction dates,02_figures/supplementary/Figure_S2.pdf,03_figure_source_data/Figure_S2/event_evaluability.csv,696
+Figure_S3,Development probability metrics and coverage,02_figures/supplementary/Figure_S3.pdf,03_figure_source_data/Figure_S3/bootstrap_draws.csv,5000
+Figure_S3,Development probability metrics and coverage,02_figures/supplementary/Figure_S3.pdf,03_figure_source_data/Figure_S3/model_comparisons.csv,32
+Figure_S3,Development probability metrics and coverage,02_figures/supplementary/Figure_S3.pdf,03_figure_source_data/Figure_S3/row_metrics.csv,25
+Figure_S3,Development probability metrics and coverage,02_figures/supplementary/Figure_S3.pdf,03_figure_source_data/Figure_S3/year_fold_event_coverage.csv,72
+Figure_S3,Development probability metrics and coverage,02_figures/supplementary/Figure_S3.pdf,03_figure_source_data/Figure_S3/year_fold_results.csv,72
+Figure_S4,Lists across prediction dates,02_figures/supplementary/Figure_S4.pdf,03_figure_source_data/Figure_S4/forecast_origin_audit.csv,260
+Figure_S4,Lists across prediction dates,02_figures/supplementary/Figure_S4.pdf,03_figure_source_data/Figure_S4/forecast_origin_overlap.csv,130
+Figure_S5,Evaluation-scope sensitivity,02_figures/supplementary/Figure_S5.pdf,03_figure_source_data/Figure_S5/sensitivity_results.csv,42
+Figure_S6,Joint bootstrap distributions,02_figures/supplementary/Figure_S6.pdf,03_figure_source_data/Figure_S6/bootstrap_draws.csv,5000
+Figure_S6,Joint bootstrap distributions,02_figures/supplementary/Figure_S6.pdf,03_figure_source_data/Figure_S6/endpoint_summary.csv,2
+Figure_S7,Event dates and separation thresholds,02_figures/supplementary/Figure_S7.pdf,03_figure_source_data/Figure_S7/event_date_boundaries.csv,696
+Figure_S7,Event dates and separation thresholds,02_figures/supplementary/Figure_S7.pdf,03_figure_source_data/Figure_S7/minimum_event_separation_counts.csv,4
+Figure_S8,Same-predictor 60-day base model,02_figures/supplementary/Figure_S8.pdf,03_figure_source_data/Figure_S8/bootstrap_draws.csv,5000
+Figure_S8,Same-predictor 60-day base model,02_figures/supplementary/Figure_S8.pdf,03_figure_source_data/Figure_S8/component_identity.csv,5
+Figure_S8,Same-predictor 60-day base model,02_figures/supplementary/Figure_S8.pdf,03_figure_source_data/Figure_S8/target_identity.csv,1
+Figure_S9,List updates and cumulative lake reach,02_figures/supplementary/Figure_S9.pdf,03_figure_source_data/Figure_S9/source_data.csv,2578
+Figure_S10,Observation-support strata,02_figures/supplementary/Figure_S10.pdf,03_figure_source_data/Figure_S10/source_data.csv,5
+Figure_S11,Capacity intervals and equal-lake weighting,02_figures/supplementary/Figure_S11.pdf,03_figure_source_data/Figure_S11/capacity_response.csv,4
+Figure_S11,Capacity intervals and equal-lake weighting,02_figures/supplementary/Figure_S11.pdf,03_figure_source_data/Figure_S11/lake_level_differences.csv,355
+Figure_S11,Capacity intervals and equal-lake weighting,02_figures/supplementary/Figure_S11.pdf,03_figure_source_data/Figure_S11/weighting_effect.csv,2

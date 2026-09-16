@@ -1,0 +1,6 @@
+stratum,endpoint,candidate_lake_n,event_lake_n,event_n,observation_day_min,observation_day_max,multi_horizon_captured,direct_60_day_captured,multi_horizon_coverage_percent,direct_60_day_coverage_percent,difference_pp,net_covered_events,contribution_to_overall_difference_pp,ci_low_pp,ci_high_pp,valid_bootstrap_replicates,analysis_role
+overall,primary_31_60,2844,355,696,0,90,263,207,37.78735632183908,29.74137931034483,8.045977011494253,56,8.045977011494253,4.36234753031107,12.22398970440048,5000,formal_frozen_reference
+zero,primary_31_60,1165,0,0,0,0,0,0,,,,0,0.0,,,0,post_hoc_support_stratification
+low,primary_31_60,592,110,155,1,8,88,79,56.774193548387096,50.96774193548387,5.806451612903226,9,1.293103448275862,-1.290532048596568,14.375102124183009,5000,post_hoc_support_stratification
+medium,primary_31_60,594,97,199,9,16,75,56,37.688442211055275,28.14070351758794,9.547738693467336,19,2.7298850574712645,3.243243243243243,16.495095586027418,5000,post_hoc_support_stratification
+high,primary_31_60,493,148,342,17,90,100,72,29.239766081871345,21.05263157894737,8.187134502923977,28,4.022988505747127,1.9354059529375092,14.206166187192716,5000,post_hoc_support_stratification

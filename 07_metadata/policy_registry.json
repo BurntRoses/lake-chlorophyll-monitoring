@@ -1,0 +1,30 @@
+[
+  {
+    "policy_id": "multi_horizon",
+    "name_en": "Multi-horizon",
+    "score_column": "multi_horizon_score",
+    "role": "prespecified_comparison",
+    "definition_en": "Risk ranking from calibrated and monotonically projected 14-, 30- and 60-day cumulative probabilities."
+  },
+  {
+    "policy_id": "direct_60_day",
+    "name_en": "Direct 60-day",
+    "score_column": "direct_60_day",
+    "role": "prespecified_comparison",
+    "definition_en": "Direct prediction of 60-day event risk using an independently determined feature set and model."
+  },
+  {
+    "policy_id": "historical_risk",
+    "name_en": "Historical risk",
+    "score_column": "historical_risk",
+    "role": "post_hoc_comparison",
+    "definition_en": "Fraction of retained pre-evaluation observation days with chlorophyll-a at or above 75 micrograms per litre."
+  },
+  {
+    "policy_id": "matched_60_day_base",
+    "name_en": "Same-predictor 60-day base model",
+    "score_column": "matched_60_day_base",
+    "role": "component_control",
+    "definition_en": "Raw 60-day probability from the multi-horizon feature set, before calibration and monotonic projection."
+  }
+]

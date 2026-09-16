@@ -1,0 +1,14 @@
+{
+  "support_variable": "retained 2021-2025 field chlorophyll-a lake-days",
+  "tertile_domain": "1679 monitored candidate lakes, including lakes without events",
+  "cutpoints": [
+    8.0,
+    16.0
+  ],
+  "quantile_method": "linear",
+  "interval_rule": "low: 0<n<=cut1; medium: cut1<n<=cut2; high: n>cut2; zero separate",
+  "ties_kept_together": true,
+  "strata_fixed_across_bootstrap": true,
+  "queues_restricted_to_strata": false,
+  "observation_days": 25684
+}

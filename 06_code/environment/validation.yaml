@@ -1,0 +1,39 @@
+validation:
+  primary:
+    - name: time_blocked
+      description: "Train on early periods, validate on middle periods, test on latest periods."
+      train_fraction: 0.70
+      validation_fraction: 0.15
+      test_fraction: 0.15
+      shuffle: false
+      main_text_allowed: true
+    - name: leave_lake_out
+      group_column: lake_id
+      description: "Hold out complete lakes; no observations from test lakes may appear in training."
+      main_text_allowed: true
+    - name: leave_site_out
+      group_column: station_id
+      description: "Hold out complete monitoring sites where station metadata are available."
+      main_text_allowed: true
+    - name: leave_ecoregion_out
+      group_column: ecoregion
+      description: "Hold out complete ecological or geographic regions."
+      main_text_allowed: true
+
+  supplementary:
+    - name: random_split_control
+      description: "Supplementary optimism check only; never a source of main claims."
+      train_fraction: 0.70
+      validation_fraction: 0.15
+      test_fraction: 0.15
+      shuffle: true
+      main_text_allowed: false
+
+split_integrity_rules:
+  - "No lake_id overlap between train and test for leave_lake_out."
+  - "No station_id overlap between train and test for leave_site_out."
+  - "No ecoregion overlap between train and test for leave_ecoregion_out."
+  - "No test-set data may be used for imputation fitting, feature selection, tuning, threshold selection, or calibration."
+  - "All lagged features must be computed using data at or before the prediction origin."
+  - "The target observation date must be after the prediction origin and within the configured interval window."
+

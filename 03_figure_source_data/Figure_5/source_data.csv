@@ -1,0 +1,94 @@
+capacity_percent,capacity_fraction,endpoint,policy,event_n,captured_events,coverage_percent,selected_slots,analysis_role,difference_pp,ci_low_pp,ci_high_pp,ci_source,display_name
+1.0,0.01,primary_31_60,multi_horizon,696,56,8.045977011494253,3739,post_hoc_descriptive,4.741379310344827,,,not_computed_descriptive_point,Multi-horizon
+1.0,0.01,primary_31_60,direct_60_day,696,23,3.3045977011494254,3739,post_hoc_descriptive,4.741379310344827,,,not_computed_descriptive_point,Direct 60-day
+1.0,0.01,primary_31_60,historical_risk,696,41,5.890804597701149,3739,post_hoc_descriptive,4.741379310344827,,,not_computed_descriptive_point,Historical risk
+2.0,0.02,primary_31_60,multi_horizon,696,96,13.79310344827586,7367,post_hoc_descriptive,7.040229885057471,,,not_computed_descriptive_point,Multi-horizon
+2.0,0.02,primary_31_60,direct_60_day,696,47,6.752873563218391,7367,post_hoc_descriptive,7.040229885057471,,,not_computed_descriptive_point,Direct 60-day
+2.0,0.02,primary_31_60,historical_risk,696,69,9.913793103448276,7367,post_hoc_descriptive,7.040229885057471,,,not_computed_descriptive_point,Historical risk
+3.0,0.03,primary_31_60,multi_horizon,696,119,17.097701149425287,11040,post_hoc_descriptive,7.183908045977011,,,not_computed_descriptive_point,Multi-horizon
+3.0,0.03,primary_31_60,direct_60_day,696,69,9.913793103448276,11040,post_hoc_descriptive,7.183908045977011,,,not_computed_descriptive_point,Direct 60-day
+3.0,0.03,primary_31_60,historical_risk,696,91,13.07471264367816,11040,post_hoc_descriptive,7.183908045977011,,,not_computed_descriptive_point,Historical risk
+4.0,0.04,primary_31_60,multi_horizon,696,159,22.844827586206897,14698,post_hoc_descriptive,9.770114942528735,,,not_computed_descriptive_point,Multi-horizon
+4.0,0.04,primary_31_60,direct_60_day,696,91,13.07471264367816,14698,post_hoc_descriptive,9.770114942528735,,,not_computed_descriptive_point,Direct 60-day
+4.0,0.04,primary_31_60,historical_risk,696,113,16.23563218390805,14698,post_hoc_descriptive,9.770114942528735,,,not_computed_descriptive_point,Historical risk
+5.0,0.05,primary_31_60,multi_horizon,696,182,26.14942528735632,18339,post_hoc_descriptive,9.913793103448276,,,not_computed_descriptive_point,Multi-horizon
+5.0,0.05,primary_31_60,direct_60_day,696,113,16.23563218390805,18339,post_hoc_descriptive,9.913793103448276,,,not_computed_descriptive_point,Direct 60-day
+5.0,0.05,primary_31_60,historical_risk,696,144,20.689655172413794,18339,post_hoc_descriptive,9.913793103448276,,,not_computed_descriptive_point,Historical risk
+6.0,0.06,primary_31_60,multi_horizon,696,197,28.304597701149422,22012,post_hoc_descriptive,9.913793103448276,,,not_computed_descriptive_point,Multi-horizon
+6.0,0.06,primary_31_60,direct_60_day,696,128,18.39080459770115,22012,post_hoc_descriptive,9.913793103448276,,,not_computed_descriptive_point,Direct 60-day
+6.0,0.06,primary_31_60,historical_risk,696,177,25.43103448275862,22012,post_hoc_descriptive,9.913793103448276,,,not_computed_descriptive_point,Historical risk
+7.0,0.07,primary_31_60,multi_horizon,696,217,31.178160919540232,25667,post_hoc_descriptive,9.339080459770114,,,not_computed_descriptive_point,Multi-horizon
+7.0,0.07,primary_31_60,direct_60_day,696,152,21.839080459770116,25667,post_hoc_descriptive,9.339080459770114,,,not_computed_descriptive_point,Direct 60-day
+7.0,0.07,primary_31_60,historical_risk,696,207,29.74137931034483,25667,post_hoc_descriptive,9.339080459770114,,,not_computed_descriptive_point,Historical risk
+7.5,0.075,primary_31_60,multi_horizon,696,228,32.758620689655174,27495,post_hoc_descriptive,9.770114942528735,,,not_computed_descriptive_point,Multi-horizon
+7.5,0.075,primary_31_60,direct_60_day,696,160,22.988505747126435,27495,post_hoc_descriptive,9.770114942528735,,,not_computed_descriptive_point,Direct 60-day
+7.5,0.075,primary_31_60,historical_risk,696,231,33.189655172413794,27495,post_hoc_descriptive,9.770114942528735,,,not_computed_descriptive_point,Historical risk
+8.0,0.08,primary_31_60,multi_horizon,696,238,34.195402298850574,29323,post_hoc_descriptive,10.344827586206897,,,not_computed_descriptive_point,Multi-horizon
+8.0,0.08,primary_31_60,direct_60_day,696,166,23.850574712643677,29323,post_hoc_descriptive,10.344827586206897,,,not_computed_descriptive_point,Direct 60-day
+8.0,0.08,primary_31_60,historical_risk,696,243,34.91379310344828,29323,post_hoc_descriptive,10.344827586206897,,,not_computed_descriptive_point,Historical risk
+9.0,0.09,primary_31_60,multi_horizon,696,252,36.206896551724135,32980,post_hoc_descriptive,9.913793103448276,,,not_computed_descriptive_point,Multi-horizon
+9.0,0.09,primary_31_60,direct_60_day,696,183,26.29310344827586,32980,post_hoc_descriptive,9.913793103448276,,,not_computed_descriptive_point,Direct 60-day
+9.0,0.09,primary_31_60,historical_risk,696,259,37.21264367816091,32980,post_hoc_descriptive,9.913793103448276,,,not_computed_descriptive_point,Historical risk
+10.0,0.1,primary_31_60,multi_horizon,696,263,37.78735632183909,36631,formal_frozen_reference,8.045977011494253,4.362347530311066,12.223989704400475,existing_formal_10pct,Multi-horizon
+10.0,0.1,primary_31_60,direct_60_day,696,207,29.74137931034483,36631,formal_frozen_reference,8.045977011494253,4.362347530311066,12.223989704400475,existing_formal_10pct,Direct 60-day
+10.0,0.1,primary_31_60,historical_risk,696,277,39.798850574712645,36631,post_hoc_descriptive,8.045977011494253,4.362347530311066,12.223989704400475,existing_formal_10pct,Historical risk
+11.0,0.11,primary_31_60,multi_horizon,696,280,40.229885057471265,40292,post_hoc_descriptive,8.620689655172415,,,not_computed_descriptive_point,Multi-horizon
+11.0,0.11,primary_31_60,direct_60_day,696,220,31.60919540229885,40292,post_hoc_descriptive,8.620689655172415,,,not_computed_descriptive_point,Direct 60-day
+11.0,0.11,primary_31_60,historical_risk,696,300,43.103448275862064,40292,post_hoc_descriptive,8.620689655172415,,,not_computed_descriptive_point,Historical risk
+12.0,0.12,primary_31_60,multi_horizon,696,296,42.5287356321839,43949,post_hoc_descriptive,8.477011494252874,,,not_computed_descriptive_point,Multi-horizon
+12.0,0.12,primary_31_60,direct_60_day,696,237,34.05172413793103,43949,post_hoc_descriptive,8.477011494252874,,,not_computed_descriptive_point,Direct 60-day
+12.0,0.12,primary_31_60,historical_risk,696,318,45.689655172413794,43949,post_hoc_descriptive,8.477011494252874,,,not_computed_descriptive_point,Historical risk
+13.0,0.13,primary_31_60,multi_horizon,696,306,43.96551724137931,47609,post_hoc_descriptive,6.32183908045977,,,not_computed_descriptive_point,Multi-horizon
+13.0,0.13,primary_31_60,direct_60_day,696,262,37.64367816091954,47609,post_hoc_descriptive,6.32183908045977,,,not_computed_descriptive_point,Direct 60-day
+13.0,0.13,primary_31_60,historical_risk,696,334,47.98850574712644,47609,post_hoc_descriptive,6.32183908045977,,,not_computed_descriptive_point,Historical risk
+14.0,0.14,primary_31_60,multi_horizon,696,318,45.689655172413794,51267,post_hoc_descriptive,5.603448275862069,,,not_computed_descriptive_point,Multi-horizon
+14.0,0.14,primary_31_60,direct_60_day,696,279,40.08620689655172,51267,post_hoc_descriptive,5.603448275862069,,,not_computed_descriptive_point,Direct 60-day
+14.0,0.14,primary_31_60,historical_risk,696,350,50.28735632183909,51267,post_hoc_descriptive,5.603448275862069,,,not_computed_descriptive_point,Historical risk
+15.0,0.15,primary_31_60,multi_horizon,696,330,47.41379310344828,54921,post_hoc_descriptive,6.4655172413793105,2.4179129171389233,10.385853019384175,existing_capacity_sensitivity,Multi-horizon
+15.0,0.15,primary_31_60,direct_60_day,696,285,40.94827586206897,54921,post_hoc_descriptive,6.4655172413793105,2.4179129171389233,10.385853019384175,existing_capacity_sensitivity,Direct 60-day
+15.0,0.15,primary_31_60,historical_risk,696,368,52.87356321839081,54921,post_hoc_descriptive,6.4655172413793105,2.4179129171389233,10.385853019384175,existing_capacity_sensitivity,Historical risk
+16.0,0.16,primary_31_60,multi_horizon,696,345,49.56896551724138,58578,post_hoc_descriptive,6.752873563218391,,,not_computed_descriptive_point,Multi-horizon
+16.0,0.16,primary_31_60,direct_60_day,696,298,42.81609195402299,58578,post_hoc_descriptive,6.752873563218391,,,not_computed_descriptive_point,Direct 60-day
+16.0,0.16,primary_31_60,historical_risk,696,372,53.44827586206896,58578,post_hoc_descriptive,6.752873563218391,,,not_computed_descriptive_point,Historical risk
+17.0,0.17,primary_31_60,multi_horizon,696,355,51.00574712643679,62234,post_hoc_descriptive,7.183908045977011,,,not_computed_descriptive_point,Multi-horizon
+17.0,0.17,primary_31_60,direct_60_day,696,305,43.82183908045977,62234,post_hoc_descriptive,7.183908045977011,,,not_computed_descriptive_point,Direct 60-day
+17.0,0.17,primary_31_60,historical_risk,696,386,55.45977011494253,62234,post_hoc_descriptive,7.183908045977011,,,not_computed_descriptive_point,Historical risk
+18.0,0.18,primary_31_60,multi_horizon,696,371,53.304597701149426,65898,post_hoc_descriptive,7.902298850574713,,,not_computed_descriptive_point,Multi-horizon
+18.0,0.18,primary_31_60,direct_60_day,696,316,45.40229885057471,65898,post_hoc_descriptive,7.902298850574713,,,not_computed_descriptive_point,Direct 60-day
+18.0,0.18,primary_31_60,historical_risk,696,396,56.896551724137936,65898,post_hoc_descriptive,7.902298850574713,,,not_computed_descriptive_point,Historical risk
+19.0,0.19,primary_31_60,multi_horizon,696,382,54.88505747126437,69552,post_hoc_descriptive,7.758620689655173,,,not_computed_descriptive_point,Multi-horizon
+19.0,0.19,primary_31_60,direct_60_day,696,328,47.12643678160919,69552,post_hoc_descriptive,7.758620689655173,,,not_computed_descriptive_point,Direct 60-day
+19.0,0.19,primary_31_60,historical_risk,696,404,58.04597701149425,69552,post_hoc_descriptive,7.758620689655173,,,not_computed_descriptive_point,Historical risk
+20.0,0.2,primary_31_60,multi_horizon,696,388,55.74712643678161,73198,post_hoc_descriptive,5.603448275862069,2.0437211380902727,9.92629409825255,existing_capacity_sensitivity,Multi-horizon
+20.0,0.2,primary_31_60,direct_60_day,696,349,50.143678160919535,73198,post_hoc_descriptive,5.603448275862069,2.0437211380902727,9.92629409825255,existing_capacity_sensitivity,Direct 60-day
+20.0,0.2,primary_31_60,historical_risk,696,412,59.195402298850574,73198,post_hoc_descriptive,5.603448275862069,2.0437211380902727,9.92629409825255,existing_capacity_sensitivity,Historical risk
+21.0,0.21,primary_31_60,multi_horizon,696,397,57.04022988505747,76868,post_hoc_descriptive,5.316091954022989,,,not_computed_descriptive_point,Multi-horizon
+21.0,0.21,primary_31_60,direct_60_day,696,360,51.72413793103448,76868,post_hoc_descriptive,5.316091954022989,,,not_computed_descriptive_point,Direct 60-day
+21.0,0.21,primary_31_60,historical_risk,696,420,60.3448275862069,76868,post_hoc_descriptive,5.316091954022989,,,not_computed_descriptive_point,Historical risk
+22.0,0.22,primary_31_60,multi_horizon,696,402,57.758620689655174,80525,post_hoc_descriptive,4.597701149425287,,,not_computed_descriptive_point,Multi-horizon
+22.0,0.22,primary_31_60,direct_60_day,696,370,53.16091954022989,80525,post_hoc_descriptive,4.597701149425287,,,not_computed_descriptive_point,Direct 60-day
+22.0,0.22,primary_31_60,historical_risk,696,433,62.21264367816091,80525,post_hoc_descriptive,4.597701149425287,,,not_computed_descriptive_point,Historical risk
+23.0,0.23,primary_31_60,multi_horizon,696,411,59.05172413793104,84186,post_hoc_descriptive,4.310344827586207,,,not_computed_descriptive_point,Multi-horizon
+23.0,0.23,primary_31_60,direct_60_day,696,381,54.741379310344826,84186,post_hoc_descriptive,4.310344827586207,,,not_computed_descriptive_point,Direct 60-day
+23.0,0.23,primary_31_60,historical_risk,696,447,64.22413793103449,84186,post_hoc_descriptive,4.310344827586207,,,not_computed_descriptive_point,Historical risk
+24.0,0.24,primary_31_60,multi_horizon,696,421,60.48850574712644,87836,post_hoc_descriptive,4.310344827586207,,,not_computed_descriptive_point,Multi-horizon
+24.0,0.24,primary_31_60,direct_60_day,696,391,56.17816091954023,87836,post_hoc_descriptive,4.310344827586207,,,not_computed_descriptive_point,Direct 60-day
+24.0,0.24,primary_31_60,historical_risk,696,462,66.37931034482759,87836,post_hoc_descriptive,4.310344827586207,,,not_computed_descriptive_point,Historical risk
+25.0,0.25,primary_31_60,multi_horizon,696,430,61.7816091954023,91478,post_hoc_descriptive,4.741379310344827,,,not_computed_descriptive_point,Multi-horizon
+25.0,0.25,primary_31_60,direct_60_day,696,397,57.04022988505747,91478,post_hoc_descriptive,4.741379310344827,,,not_computed_descriptive_point,Direct 60-day
+25.0,0.25,primary_31_60,historical_risk,696,472,67.81609195402298,91478,post_hoc_descriptive,4.741379310344827,,,not_computed_descriptive_point,Historical risk
+26.0,0.26,primary_31_60,multi_horizon,696,438,62.93103448275862,95159,post_hoc_descriptive,4.597701149425287,,,not_computed_descriptive_point,Multi-horizon
+26.0,0.26,primary_31_60,direct_60_day,696,406,58.333333333333336,95159,post_hoc_descriptive,4.597701149425287,,,not_computed_descriptive_point,Direct 60-day
+26.0,0.26,primary_31_60,historical_risk,696,477,68.53448275862068,95159,post_hoc_descriptive,4.597701149425287,,,not_computed_descriptive_point,Historical risk
+27.0,0.27,primary_31_60,multi_horizon,696,443,63.64942528735632,98807,post_hoc_descriptive,4.454022988505747,,,not_computed_descriptive_point,Multi-horizon
+27.0,0.27,primary_31_60,direct_60_day,696,412,59.195402298850574,98807,post_hoc_descriptive,4.454022988505747,,,not_computed_descriptive_point,Direct 60-day
+27.0,0.27,primary_31_60,historical_risk,696,483,69.39655172413794,98807,post_hoc_descriptive,4.454022988505747,,,not_computed_descriptive_point,Historical risk
+28.0,0.28,primary_31_60,multi_horizon,696,450,64.65517241379311,102464,post_hoc_descriptive,4.597701149425287,,,not_computed_descriptive_point,Multi-horizon
+28.0,0.28,primary_31_60,direct_60_day,696,418,60.05747126436781,102464,post_hoc_descriptive,4.597701149425287,,,not_computed_descriptive_point,Direct 60-day
+28.0,0.28,primary_31_60,historical_risk,696,485,69.68390804597702,102464,post_hoc_descriptive,4.597701149425287,,,not_computed_descriptive_point,Historical risk
+29.0,0.29,primary_31_60,multi_horizon,696,453,65.08620689655173,106125,post_hoc_descriptive,3.5919540229885056,,,not_computed_descriptive_point,Multi-horizon
+29.0,0.29,primary_31_60,direct_60_day,696,428,61.49425287356321,106125,post_hoc_descriptive,3.5919540229885056,,,not_computed_descriptive_point,Direct 60-day
+29.0,0.29,primary_31_60,historical_risk,696,493,70.83333333333334,106125,post_hoc_descriptive,3.5919540229885056,,,not_computed_descriptive_point,Historical risk
+30.0,0.3,primary_31_60,multi_horizon,696,460,66.0919540229885,109783,post_hoc_descriptive,3.8793103448275863,0.4091256656251376,7.272783320255575,existing_capacity_sensitivity,Multi-horizon
+30.0,0.3,primary_31_60,direct_60_day,696,433,62.21264367816091,109783,post_hoc_descriptive,3.8793103448275863,0.4091256656251376,7.272783320255575,existing_capacity_sensitivity,Direct 60-day
+30.0,0.3,primary_31_60,historical_risk,696,500,71.83908045977012,109783,post_hoc_descriptive,3.8793103448275863,0.4091256656251376,7.272783320255575,existing_capacity_sensitivity,Historical risk

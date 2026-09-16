@@ -1,0 +1,5 @@
+endpoint,policy,all_events_denominator,captured_events,capture_rate,selected_candidate_selections
+primary_31_60,Multi-horizon ranking,696,263,0.377873563218391,36631
+primary_31_60,Direct 60-day,696,207,0.297413793103448,36631
+secondary_1_60,Multi-horizon ranking,696,443,0.636494252873563,36631
+secondary_1_60,Direct 60-day,696,290,0.416666666666667,36631

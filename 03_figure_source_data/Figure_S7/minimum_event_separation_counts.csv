@@ -1,0 +1,5 @@
+minimum_event_separation_days,temporal_evaluation_events,temporal_evaluation_lakes,events_2021,events_2022,events_2023,events_2024,events_2025
+30,900,355,95,67,248,326,164
+45,745,355,77,53,203,279,133
+60,696,355,71,47,195,259,124
+90,621,354,60,41,177,232,111

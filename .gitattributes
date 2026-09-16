@@ -1,0 +1,6 @@
+* -text
+*.py diff=python
+*.pdf binary
+*.png binary
+*.parquet binary
+*.joblib binary
