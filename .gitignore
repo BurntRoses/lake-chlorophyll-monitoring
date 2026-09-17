@@ -1,4 +1,6 @@
 /04_analysis_data/**
+!/04_analysis_data/
+!/04_analysis_data/README.md
 /05_models/**
 !/05_models/README.md
 !/05_models/direct_60_day/
