@@ -14,6 +14,12 @@ The multi-horizon strategy estimates cumulative 14-, 30- and 60-day risks using 
 
 The primary comparison is between these complete strategies. The historical-risk rule and the same-predictor 60-day base model have distinct identities in `07_metadata/policy_registry.json`. Historical risk is the proportion of retained pre-2021 observation days with chlorophyll-a at or above 75 micrograms per liter; availability is required before the first prediction date under the study's seven-day availability convention.
 
+## Frozen external evaluation and outcome linkage
+
+The external evaluation uses stored prediction scores and frozen monitoring queues generated without external event outcomes. In the release archive, these include `external_outcome_blind_scores.parquet` and `frozen_external_queues.parquet` for the multi-horizon strategy, with corresponding outcome-blind scores and frozen queues for the direct 60-day strategy. The primary capacity and endpoint definitions are also recorded in the released protocol, input-freeze and evaluation-contract files.
+
+During evaluation, `06_code/analysis/evaluate_strategies.py` hashes the consumed inputs and verifies them against `07_metadata/provenance/evaluation_inputs.json` before calculating event coverage. The script then links frozen queues to external event outcomes and checks that reconstructed 10% selections match the frozen queues exactly. This separation is the basis for describing the primary 10% comparison and the two lead-time windows as prespecified within the study workflow. Historical risk, list dynamics, observation-support strata and the full descriptive capacity curve are labeled post hoc; the same-predictor 60-day analysis is a component comparison.
+
 ## Endpoints and uncertainty
 
 An event is covered if its lake is selected on at least one eligible prediction date 31–60 days before the observed event date. This is the primary endpoint. The secondary endpoint uses 1–60 days and follows the primary comparison in a fixed sequence. Both endpoints use all 696 events as the denominator, including events without a valid prediction date.
@@ -30,4 +36,4 @@ Observation-support strata use retained 2021–2025 field-observation days: low,
 
 `06_code/run_pipeline.py` reproduces event coverage, bootstrap comparisons, result tables and figures from the included predictions and observations. `05_models/README.md` describes the fitted artifacts. Model fitting and external scoring are not executed by this entry point.
 
-Machine-readable analysis definitions are in `07_metadata/analysis_plan.json`. The primary protocol is in `04_analysis_data/primary_external_evaluation/protocol/`. Numerical data and their units are indexed in `07_metadata/table_catalog.csv` and `07_metadata/data_dictionary.md`.
+Machine-readable analysis definitions are in `07_metadata/analysis_plan.json`. The primary protocol and frozen evaluation files are distributed in the `04_analysis_data/primary_external_evaluation/` tree of the analysis-data release. Numerical data and their units are indexed in `07_metadata/table_catalog.csv` and `07_metadata/data_dictionary.md`. See `04_analysis_data/README.md` for restoring the complete release-only analysis tree.
