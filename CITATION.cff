@@ -3,6 +3,7 @@ message: "Please cite this version when using the study data or code."
 type: software
 title: "Lake chlorophyll-a monitoring priorities: code and data for multi-horizon risk ranking"
 version: 1.0.1
+doi: "10.5281/zenodo.22809124"
 authors:
   - family-names: Luo
     given-names: Siran
