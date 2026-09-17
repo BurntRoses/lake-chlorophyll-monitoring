@@ -1,0 +1,35 @@
+{
+  "title": "Lake chlorophyll-a monitoring priorities: code and data for multi-horizon risk ranking",
+  "upload_type": "software",
+  "version": "1.0.1",
+  "access_right": "open",
+  "license": "mit",
+  "language": "eng",
+  "creators": [
+    {
+      "name": "Luo, Siran",
+      "orcid": "0009-0004-7469-2414",
+      "affiliation": "Department of Environmental Science and Engineering, Fudan University, Shanghai, China"
+    },
+    {
+      "name": "Zhang, Jibiao",
+      "orcid": "0000-0003-2734-6477",
+      "affiliation": "Department of Environmental Science and Engineering, Fudan University, Shanghai, China"
+    }
+  ],
+  "description": "<p>Code, figure source tables and documentation for evaluating multi-horizon lake chlorophyll-a risk rankings under limited monitoring capacity. The external evaluation covers 2,844 lakes and 130 biweekly prediction dates during 2021–2025.</p><p>The executable workflow reproduces event-coverage evaluation and figures from stored predictions. The complete analysis inputs, stored predictions and fitted model artifacts are distributed in Analysis_Data_and_Models_v1.0.0.zip at <a href=\"https://github.com/BurntRoses/lake-chlorophyll-monitoring/releases/tag/v1.0.0\">GitHub release v1.0.0</a>. The same release provides Code_and_Figure_Data_v1.0.0.zip and SHA256SUMS.txt.</p><p>Version 1.0.1 updates archival and citation metadata. Research code, data and results are unchanged from version 1.0.0.</p><p>Original code is licensed under MIT. Original derived data, model parameters, figures and documentation are licensed under CC BY 4.0. Third-party materials retain their source terms.</p>",
+  "keywords": [
+    "lake monitoring",
+    "chlorophyll-a",
+    "risk ranking",
+    "monitoring capacity",
+    "ecological forecasting",
+    "event coverage"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/BurntRoses/lake-chlorophyll-monitoring/releases/tag/v1.0.0",
+      "relation": "isSupplementTo"
+    }
+  ]
+}

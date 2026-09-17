@@ -1,12 +1,14 @@
 # Lake chlorophyll-a monitoring priorities
 
-Code and data for evaluating lake-monitoring risk rankings under fixed sampling capacity. Version 1.0.0 contains the 2021–2025 external evaluation, its numerical source tables, fitted model artifacts and reproducible figures.
+Code and data for evaluating lake-monitoring risk rankings under fixed sampling capacity. Version 1.0.1 contains the 2021–2025 external evaluation, its numerical source tables, fitted model artifacts and reproducible figures.
 
 The study compares a multi-horizon strategy with a direct 60-day strategy across 2,844 lakes and 130 biweekly prediction dates. At 10% monitoring capacity, the strategies cover 263 and 207 of 696 observed high chlorophyll-a events in the primary 31–60-day window. The difference is 8.05 percentage points (95% confidence interval, 4.36–12.22). Both strategies use 36,631 lake–prediction-date selections. [Results](01_results/RESULTS.md) also reports the secondary endpoint and historical-risk comparisons.
 
+Version 1.0.1 updates archival and citation metadata; research code, data and results are unchanged from version 1.0.0.
+
 ## Reproduce the results
 
-The distribution has two complementary archives:
+Download the two complementary archives and their checksums from [GitHub release v1.0.0](https://github.com/BurntRoses/lake-chlorophyll-monitoring/releases/tag/v1.0.0):
 
 - `Code_and_Figure_Data_v1.0.0.zip`: code, figures, source tables and study documentation.
 - `Analysis_Data_and_Models_v1.0.0.zip`: analysis inputs, stored predictions, event observations, evaluation tables and model artifacts.
@@ -53,6 +55,8 @@ Field observations originate from USGS and the Water Quality Portal. Lake identi
 ## Authors and citation
 
 Siran Luo and Jibiao Zhang. Department of Environmental Science and Engineering, Fudan University, Shanghai, China.
+
+Siran Luo: https://orcid.org/0009-0004-7469-2414.
 
 Jibiao Zhang: https://orcid.org/0000-0003-2734-6477.
 

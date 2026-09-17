@@ -1,8 +1,8 @@
 cff-version: 1.2.0
 message: "Please cite this version when using the study data or code."
-type: dataset
+type: software
 title: "Lake chlorophyll-a monitoring priorities: code and data for multi-horizon risk ranking"
-version: 1.0.0
+version: 1.0.1
 authors:
   - family-names: Luo
     given-names: Siran
