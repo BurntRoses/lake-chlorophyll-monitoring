@@ -1,0 +1,134 @@
+{
+  "format": "UTF-8 CSV; decimal point",
+  "unit_definitions": {
+    "coverage_pct": "100 * covered events / opportunity-supported evaluable events",
+    "difference_pp": "percentage-point difference",
+    "lower_pp": "lower endpoint of paired interval",
+    "upper_pp": "upper endpoint of paired interval",
+    "nominal_capacity_pct": "eligible-candidate percentage retained per round with ceiling rounding",
+    "candidate_lakes": "all candidate lakes, including zero selections",
+    "evaluable_event_lakes": "lakes containing at least one evaluable event in this window",
+    "historical_q90_ug_L": "lake-specific pre-2011 Chl-a 90th percentile, micrograms/litre",
+    "confidence_level": "interval coverage as a fraction",
+    "lake_fraction": "cumulative fraction of all candidate lakes, ordered by selection count",
+    "slot_fraction": "cumulative fraction of monitoring slots"
+  },
+  "files": {
+    "capacity_coverage.csv": {
+      "sha256": "32ec346ea15c89dcf3bf251ced0b5c1ee7d3bbc81a3fcbd8ab0f03da3d731c93",
+      "role": "plotted input",
+      "rows": 468,
+      "columns": [
+        "endpoint_id",
+        "method_id",
+        "capacity_bp",
+        "nominal_capacity_pct",
+        "monitoring_slots",
+        "candidate_lake_periods",
+        "realized_slot_pct",
+        "events_covered",
+        "evaluable_events",
+        "coverage_pct",
+        "method",
+        "lead_window"
+      ]
+    },
+    "capacity_crossings.csv": {
+      "sha256": "f46ed7801dba86d48c237830d7560beb642fd01efec1b731854eb8c8a1b1c6af",
+      "role": "plotted input",
+      "rows": 4,
+      "columns": [
+        "method_id",
+        "method",
+        "minimum_capacity_pct",
+        "target_events",
+        "target_capacity_pct",
+        "grid_step_pct",
+        "actual_events_at_crossing",
+        "actual_coverage_pct"
+      ]
+    },
+    "capacity_window_gain.csv": {
+      "sha256": "134bbc3b106e37d70847955599771866c44e7510f5ad045b8197bccf197c5f70",
+      "role": "plotted input",
+      "rows": 585,
+      "columns": [
+        "endpoint_id",
+        "lead_window",
+        "capacity_bp",
+        "nominal_capacity_pct",
+        "single_events_covered",
+        "multi_events_covered",
+        "evaluable_events",
+        "difference_pp"
+      ]
+    },
+    "paired_differences.csv": {
+      "sha256": "0d1d1cb911bccd6c05e897a918edaabaf1967a8298d6750a85f0b8d1e1152167",
+      "role": "plotted input",
+      "rows": 4,
+      "columns": [
+        "endpoint_id",
+        "proposed_id",
+        "comparator_id",
+        "comparison_family",
+        "difference_pp",
+        "lower_pp",
+        "upper_pp",
+        "bootstrap_replicates",
+        "comparator",
+        "confidence_level"
+      ]
+    },
+    "paired_visit_transitions.csv": {
+      "sha256": "c50876083b7860956f0e66fe70523bcc2bc7891a3348db66629855a3d344944b",
+      "role": "supporting data",
+      "rows": 50,
+      "columns": [
+        "method_id",
+        "original_bin",
+        "history_bin",
+        "original_band",
+        "history_band",
+        "lakes"
+      ]
+    },
+    "rotation_event_lake_outcomes.csv": {
+      "sha256": "dd934e024d562ac01830d6148511e0658ee7b503873bd0371d977f8df6e6cbec",
+      "role": "plotted input",
+      "rows": 4,
+      "columns": [
+        "method_id",
+        "method",
+        "monitoring_slots",
+        "candidate_lakes",
+        "selected_lakes_original",
+        "selected_lakes_rotation",
+        "repeat_slot_pct_original",
+        "top_decile_slot_pct_original",
+        "top_decile_slot_pct_rotation",
+        "rotation_power",
+        "original_events_covered",
+        "rotation_events_covered",
+        "evaluable_events",
+        "original_coverage_pct",
+        "rotation_coverage_pct"
+      ]
+    },
+    "selection_frequency_all_lakes.csv": {
+      "sha256": "7c47b5eb96c64c0f6ee15d95a036697c3c7071af0c4fa9ff1c9fe1abd8ae4237",
+      "role": "supporting data",
+      "rows": 11376,
+      "columns": [
+        "method_id",
+        "schedule",
+        "lake_id",
+        "selected_rounds"
+      ]
+    },
+    "transition_metadata.json": {
+      "sha256": "05f628c295c0ada1abcc9808450bae7b3d2eaea439f9fef64e16b1c19a30e902",
+      "role": "supporting data"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "format": "UTF-8 CSV; decimal point",
+  "unit_definitions": {
+    "coverage_pct": "100 * covered events / opportunity-supported evaluable events",
+    "difference_pp": "percentage-point difference",
+    "lower_pp": "lower endpoint of paired interval",
+    "upper_pp": "upper endpoint of paired interval",
+    "nominal_capacity_pct": "eligible-candidate percentage retained per round with ceiling rounding",
+    "candidate_lakes": "all candidate lakes, including zero selections",
+    "evaluable_event_lakes": "lakes containing at least one evaluable event in this window",
+    "historical_q90_ug_L": "lake-specific pre-2011 Chl-a 90th percentile, micrograms/litre",
+    "confidence_level": "interval coverage as a fraction",
+    "lake_fraction": "cumulative fraction of all candidate lakes, ordered by selection count",
+    "slot_fraction": "cumulative fraction of monitoring slots"
+  },
+  "files": {
+    "all_lead_window_coverage.csv": {
+      "sha256": "b6d11240ebe9212bf4be40bac4cfe8695a9948cb61b3c000f7da3a59c641b5db",
+      "role": "supporting data",
+      "rows": 20,
+      "columns": [
+        "endpoint_id",
+        "lead_window",
+        "method_id",
+        "method",
+        "events_covered",
+        "evaluable_events",
+        "coverage_pct"
+      ]
+    },
+    "annual_coverage.csv": {
+      "sha256": "a64a4736f89fef4ff946c66928fec3ec5bc302eba61524640ee031722b0a4fbd",
+      "role": "plotted input",
+      "rows": 20,
+      "columns": [
+        "method_id",
+        "method",
+        "event_year",
+        "events_covered",
+        "evaluable_events",
+        "coverage_pct"
+      ]
+    },
+    "coverage_accumulation.csv": {
+      "sha256": "c2bf6cfd26f4fd33739fa29eac215e17bb26068835e92785be83a2329631a272",
+      "role": "plotted input",
+      "rows": 240,
+      "columns": [
+        "method_id",
+        "method",
+        "lead_days",
+        "events_selected_by_lead",
+        "cohort_events",
+        "cumulative_coverage_pct"
+      ]
+    },
+    "earliest_selection_events.csv": {
+      "sha256": "0ae3cefe0b7f277a891a746c56daf1846238bea44fa22e61d110eb4c29893d50",
+      "role": "supporting data",
+      "rows": 2724,
+      "columns": [
+        "episode_id",
+        "lake_id",
+        "event_date",
+        "method_id",
+        "method",
+        "first_lead_days",
+        "earliest_category"
+      ]
+    },
+    "earliest_selection_transition.csv": {
+      "sha256": "1a58f238c9c7d5dd0f8b9dde7338cdf94501ada82fc0d401925ea0852082fe6d",
+      "role": "plotted input",
+      "rows": 16,
+      "columns": [
+        "single_category",
+        "multi_category",
+        "count",
+        "cohort_events"
+      ]
+    }
+  }
+}

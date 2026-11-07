@@ -1,0 +1,7 @@
+region_id,strategy_id,endpoint_id,reference_group_id,method_id,evaluable_events,events_covered,evaluable_event_lakes,event_lakes_covered,method,region,lead_window,strategy,reference_group,coverage_pct,lake_coverage_pct
+china_2020_2022,absolute75_trained,31_60,below25,multi_window,485,0,174,0,Multi-window,China 2020–2022,31–60 d,Absolute-target training,<25 μg/L,0,0
+china_2020_2022,absolute75_trained,31_60,25to75,multi_window,215,50,77,28,Multi-window,China 2020–2022,31–60 d,Absolute-target training,25–<75 μg/L,23.2558139535,36.3636363636
+china_2020_2022,absolute75_trained,31_60,75plus,multi_window,18,12,7,6,Multi-window,China 2020–2022,31–60 d,Absolute-target training,≥75 μg/L,66.6666666667,85.7142857143
+china_2020_2022,q90_trained,31_60,below25,multi_window,485,256,174,144,Multi-window,China 2020–2022,31–60 d,Lake-relative training,<25 μg/L,52.7835051546,82.7586206897
+china_2020_2022,q90_trained,31_60,25to75,multi_window,215,89,77,49,Multi-window,China 2020–2022,31–60 d,Lake-relative training,25–<75 μg/L,41.3953488372,63.6363636364
+china_2020_2022,q90_trained,31_60,75plus,multi_window,18,4,7,3,Multi-window,China 2020–2022,31–60 d,Lake-relative training,≥75 μg/L,22.2222222222,42.8571428571

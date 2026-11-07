@@ -1,0 +1,10 @@
+﻿Period,Method,"31–60-day
+coverage (%)","1–60-day
+coverage (%)","Worst-year primary-window
+coverage (%)"
+2016–2018,Single-window,76.3,86.9,75.3
+2016–2018,Same-window multi-model control,75.9,86.2,73.1
+2016–2018,Multi-window,75.6,86.2,73.1
+2019–2020,Single-window,81.5,88.2,75.4
+2019–2020,Same-window multi-model control,83.6,89.9,77.0
+2019–2020,Multi-window,82.9,90.2,78.7

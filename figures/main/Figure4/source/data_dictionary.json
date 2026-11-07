@@ -1,0 +1,231 @@
+{
+  "figure": 4,
+  "format": "UTF-8 CSV, decimal point, no row index",
+  "identifiers": "lake_id and episode_id must be read as strings; region_id defines the target cohort.",
+  "unit_rules": {
+    "coverage_pct": "100 * captured independent events / evaluable independent events within the named cohort.",
+    "gained_lost_retained_neither": "Exact paired event counts relative to the named reference; they sum to the cohort denominator.",
+    "gained_pct_lost_pct": "100 * gained or lost events / the full same-cohort event denominator.",
+    "difference_pp_net_pp_coverage_change_pp": "Coverage differences in percentage points, not relative percent changes.",
+    "lower_pp_upper_pp": "Original 98.75% paired whole-lake bootstrap interval endpoints for coverage differences; 5,000 resamples.",
+    "evaluable_events": "Opportunity-supported independent event denominator, not number of lakes.",
+    "binary_capture_flags": "0 = event not captured; 1 = event captured, for the indicated method or source-training definition.",
+    "historical_q90_ug_L": "Pre-2011 lake Chl-a 90th percentile in micrograms per litre; positive continuous concentration.",
+    "cumulative_events_gained_lost": "Counts at all historical q90 values less than or equal to the current row value.",
+    "stratum": "below25: q90 <25; 25to75: 25 <=q90 <75; 75plus: q90 >=75 micrograms per litre.",
+    "bubble_area": "Circle size parameter is 11 square points per event. Triangle size is multiplied by pi/2 to correct unit-marker geometry and share the same actual area-per-event scale; no additive area term.",
+    "event_lake_reach": "Number of event-bearing lakes with at least one captured event; distinct from event coverage.",
+    "score": "Uncalibrated saved Multi-window output for one candidate lake and date. Scores are not interpreted as probabilities or compared directly across training strategies.",
+    "rank": "1-based within-date descending-score rank, breaking equal-score ties by lake_id.",
+    "queue_size": "All candidate lakes in the same date-specific queue, not only lakes with evaluated events.",
+    "quota": "Ceiling of 0.1 times queue_size; integer number of selected candidate lakes.",
+    "best_rank_over_quota": "Minimum rank/quota across all same-event 31-60-day opportunities, separately under each training strategy. Values <=1 reproduce original event capture exactly.",
+    "marginal_histograms": "Empirical counts, 24 fixed logarithmic bins spanning 0.009 to 25. Each marginal totals 718 events. No KDE or probability-density estimate."
+  },
+  "cohort_rule": "Panel a absolute-event cohorts and panel b relative-event cohorts differ. Training comparisons in panels b and c pair the same relative events.",
+  "data_files": [
+    {
+      "file": "data/absolute_event_coverage.csv",
+      "rows": 40,
+      "sha256": "cfcb314c90d70bd69458b63126c44d2dafc2fbde2c742249875916d75936f567",
+      "columns": [
+        "region_id",
+        "region",
+        "endpoint_id",
+        "lead_window",
+        "method_id",
+        "method",
+        "events_covered",
+        "evaluable_events",
+        "coverage_pct"
+      ],
+      "derivation": "Saved event-coverage results.",
+      "display_scope": "Sixteen target 31-60-day coverages validate event records and exchanges; source-validation and wider-window rows provide supporting data."
+    },
+    {
+      "file": "data/absolute_event_exchanges.csv",
+      "rows": 12,
+      "sha256": "ca1bfc97ccac366d35e3b9f45917bddf1f4a356ee5acf445369c339c729c622a",
+      "columns": [
+        "region_id",
+        "method_id",
+        "evaluable_events",
+        "reference_covered",
+        "method_covered",
+        "gained",
+        "lost",
+        "retained",
+        "neither",
+        "gained_pct",
+        "lost_pct",
+        "net_pp"
+      ],
+      "derivation": "Exact binary pairing of each comparator with XGBoost within each region; no statistical model.",
+      "display_scope": "All twelve gained/lost percentage pairs are drawn in panel a; counts and net differences are included as supporting data."
+    },
+    {
+      "file": "data/absolute_event_records.csv",
+      "rows": 529,
+      "sha256": "35e2cd0fb1c9189b2d8da37f009eeeb471ec403099d4677312052f82f0ed61c5",
+      "columns": [
+        "region_id",
+        "episode_id",
+        "lake_id",
+        "event_date",
+        "xgboost",
+        "elastic_net",
+        "single_window",
+        "multi_window"
+      ],
+      "derivation": "Selected region, event, lake, date and four binary capture fields from the saved target absolute-event records.",
+      "display_scope": "All 529 absolute-event records determine the twelve exact method-reference exchanges in panel a."
+    },
+    {
+      "file": "data/china_background_changes.csv",
+      "rows": 232,
+      "sha256": "31e9086730d4b972dd58cc792eafd199a8efddc0a74a5d530ff2e8e88602ce54",
+      "columns": [
+        "historical_q90_ug_L",
+        "events",
+        "gained",
+        "lost",
+        "cumulative_events",
+        "cumulative_gained",
+        "cumulative_lost"
+      ],
+      "derivation": "Exact grouping by historical q90 followed by cumulative sums; no fitted trend or density.",
+      "display_scope": "Cumulative event counts by historical Chl-a threshold."
+    },
+    {
+      "file": "data/china_lake_changes.csv",
+      "rows": 258,
+      "sha256": "a1a6d6f1131872e5b5c69901968a5b6a955a6f96cc18915a43ce9331fd1f1634",
+      "columns": [
+        "lake_id",
+        "historical_q90_ug_L",
+        "evaluable_events",
+        "absolute_events_covered",
+        "relative_events_covered",
+        "coverage_change_pp"
+      ],
+      "derivation": "Exact grouping of the 718 paired relative events by lake; coverage change = 100 * (relative count - absolute count) / event count.",
+      "display_scope": "All 258 lakes shown in panel d; point area proportional to event count, with triangle geometry corrected to the same area scale."
+    },
+    {
+      "file": "data/china_paired_relative_events.csv",
+      "rows": 718,
+      "sha256": "dce324c3d285df75150a2ec956fba7b8395aad3630475f3d32d21771833ce5d3",
+      "columns": [
+        "episode_id",
+        "lake_id",
+        "event_date",
+        "absolute_covered",
+        "relative_covered",
+        "historical_q90_ug_L"
+      ],
+      "derivation": "Paired relative-event records.",
+      "display_scope": "All 718 exact paired outcomes validate event-priority quadrants and all lake summaries."
+    },
+    {
+      "file": "data/event_opportunity_links.csv",
+      "rows": 1409,
+      "sha256": "9318428b10d007c75ed7c7ed5ff0f235719f9cd823bf315ba0b0eac235954b0a",
+      "columns": [
+        "episode_id",
+        "candidate_row_key",
+        "lead_days"
+      ],
+      "derivation": "Link each of the 718 original event records to all same-lake candidate dates 31-60 days before the event.",
+      "display_scope": "All 1,409 eligible links from events to candidate rows, with lead days; used to rebuild the best within-event priority ratios."
+    },
+    {
+      "file": "data/event_priority_pairs.csv",
+      "rows": 718,
+      "sha256": "7415a9e9a77331c2a21548131200b57d2046bd62744fc1eb7f6fa0b9ab996d59",
+      "columns": [
+        "episode_id",
+        "lake_id",
+        "event_date",
+        "historical_q90_ug_L",
+        "opportunity_count",
+        "absolute_best_rank_over_quota",
+        "relative_best_rank_over_quota",
+        "absolute_covered",
+        "relative_covered",
+        "status"
+      ],
+      "derivation": "For each event and training strategy, take the minimum rank/quota across its eligible links. Both coordinates are verified against original paired capture flags.",
+      "display_scope": "All 718 paired event priorities and four-state outcomes shown in panel c; original measured coordinates unchanged."
+    },
+    {
+      "file": "data/paired_candidate_ranks.csv",
+      "rows": 21148,
+      "sha256": "4ddb73e0bc5aac8da246a116212d0626d7216e901ff4c20a0e2c6f88d18f3617",
+      "columns": [
+        "candidate_row_key",
+        "lake_id",
+        "origin_date",
+        "queue_size",
+        "quota",
+        "absolute_score",
+        "absolute_rank",
+        "absolute_selected",
+        "relative_score",
+        "relative_rank",
+        "relative_selected"
+      ],
+      "derivation": "Select saved Multi-window scores for both training strategies. Sort by date then lake_id; within-date rank decreasing scores with identifier tie breaking. Quota is ceil(0.1 * complete queue size). Binary rank<=quota flags match both saved selection files exactly.",
+      "display_scope": "21,148 saved candidate score pairs, exact within-date ranks, complete queue sizes, ceiling quotas and capture flags; source records for the priority comparison."
+    },
+    {
+      "file": "data/paired_capture_transitions.csv",
+      "rows": 12,
+      "sha256": "0b6a20627ff3264f649623109fbb7fc61d08ab283c148b76d341278735551106",
+      "columns": [
+        "stratum",
+        "absolute_covered",
+        "relative_covered",
+        "events",
+        "stratum_events"
+      ],
+      "derivation": "Four-state transitions within three background intervals.",
+      "display_scope": "All twelve transition cells, including zeros, validate background-interval counts and the high-background losses; no table is drawn."
+    },
+    {
+      "file": "data/relative_training_effects.csv",
+      "rows": 8,
+      "sha256": "3006bcfe74a71187c8938c9d05dee8ecddb99e5038e0cb2e3ab3535b49f6e281",
+      "columns": [
+        "region_id",
+        "region",
+        "endpoint_id",
+        "lead_window",
+        "method_id",
+        "method",
+        "evaluable_events",
+        "absolute_events_covered",
+        "relative_events_covered",
+        "absolute_coverage_pct",
+        "relative_coverage_pct",
+        "difference_pp",
+        "lower_pp",
+        "upper_pp",
+        "confidence_level"
+      ],
+      "derivation": "Paired training effects and 98.75% intervals from 5,000 whole-lake resamples.",
+      "display_scope": "All eight paired effects and interval endpoints are drawn in panel b; baseline and retrained coverages remain in source data."
+    }
+  ],
+  "panel_roles": {
+    "a": "Absolute-event exchange",
+    "b": "Paired relative-training effects",
+    "c": "Event-priority diagnostic",
+    "d": "Lake background response"
+  },
+  "panels": {
+    "a": "All twelve absolute-event exchanges relative to XGBoost.",
+    "b": "All eight relative-training effects and original paired intervals.",
+    "c": "All 718 event-priority pairs and empirical marginal counts.",
+    "d": "All 258 lake responses with event-count area encoding."
+  }
+}

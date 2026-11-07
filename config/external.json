@@ -1,0 +1,187 @@
+{
+  "study": "External evaluation of the US capacity-constrained event-coverage method",
+  "training_cutoff": "2020-01-01",
+  "source_first_origin": "2011-01-01",
+  "source_last_origin": "2019-12-31",
+  "calendar_anchor": "1990-01-01",
+  "spacing_days": 14,
+  "threshold_ugL": 75.0,
+  "washout_days": 60,
+  "result_delay_days": 7,
+  "label_maturity_days": 67,
+  "excluded_source_countries": [
+    "China"
+  ],
+  "excluded_source_continents": [
+    "Oceania"
+  ],
+  "context_first_year": 2013,
+  "validation_years": [
+    2016,
+    2017,
+    2018,
+    2019
+  ],
+  "lake_folds": 5,
+  "fold_hash_salt": "biomass-cross-region-20261101",
+  "capacity": 0.1,
+  "bootstrap_reps": 5000,
+  "bootstrap_seed": 20261101,
+  "primary_endpoint": [
+    31,
+    60
+  ],
+  "secondary_endpoint": [
+    1,
+    60
+  ],
+  "comparison_families": {
+    "standard_controls": [
+      [
+        "multi_window",
+        "xgboost"
+      ],
+      [
+        "multi_window",
+        "elastic_net"
+      ],
+      [
+        "single_window",
+        "xgboost"
+      ],
+      [
+        "single_window",
+        "elastic_net"
+      ]
+    ],
+    "window_contribution": [
+      [
+        "multi_window",
+        "single_window"
+      ],
+      [
+        "multi_window",
+        "same_window_control"
+      ]
+    ]
+  },
+  "interval_adjustment": "Bonferroni within each declared family and panel; secondary exploratory",
+  "features": [
+    "latest",
+    "mean14",
+    "mean30",
+    "mean90",
+    "slope30",
+    "slope90",
+    "age",
+    "sample_count90",
+    "history_risk",
+    "history_n",
+    "known_severe_age",
+    "latest_relative90",
+    "mean14_relative90",
+    "mean30_relative90",
+    "slope30_relative90",
+    "latest_minus_log_threshold",
+    "mean30_minus_log_threshold",
+    "mean90_minus_log_threshold",
+    "temperature_mean14",
+    "temperature_mean30",
+    "temperature_mean90",
+    "turbidity_mean14",
+    "turbidity_mean30",
+    "turbidity_mean90",
+    "temperature_latest",
+    "turbidity_latest",
+    "temperature_shift14_90",
+    "temperature_shift30_90",
+    "turbidity_relative14_90",
+    "turbidity_relative30_90",
+    "log_area",
+    "log_depth",
+    "log_residence_days",
+    "log_volume",
+    "lake_type",
+    "abs_lat",
+    "season_sin",
+    "season_cos"
+  ],
+  "seasonal_features": true,
+  "expression": {
+    "training_quantile_clip": [
+      0.001,
+      0.999
+    ],
+    "spline_knots": 4,
+    "spline_degree": 2,
+    "spline_features": [
+      "history_risk",
+      "log_area",
+      "log_depth",
+      "temperature_mean30",
+      "mean30",
+      "seasonal_now_expected_log_chla",
+      "seasonal_1_14_expected_log_chla",
+      "seasonal_15_30_expected_log_chla",
+      "seasonal_31_60_expected_log_chla",
+      "latest_minus_seasonal_now"
+    ],
+    "interactions": [
+      [
+        "history_risk",
+        "season_sin"
+      ],
+      [
+        "history_risk",
+        "season_cos"
+      ],
+      [
+        "temperature_mean30",
+        "mean30"
+      ],
+      [
+        "seasonal_31_60_expected_log_chla",
+        "latest_minus_seasonal_now"
+      ]
+    ]
+  },
+  "expert_parameters_from": "base_models.json:xgb4",
+  "direct_parameters_from": "base_models.json:xgb2",
+  "elastic_net_parameters_from": "base_models.json:lr4",
+  "corrections_from": "monitoring_models.json:corrections",
+  "target_tuning": false,
+  "panels": {
+    "china_2020_2022": {
+      "country": "China",
+      "first_origin": "2020-01-01",
+      "last_origin": "2022-12-31",
+      "event_start": "2020-01-01",
+      "event_end": "2022-12-31",
+      "observation": "satellite_lake_mean"
+    },
+    "china_2023": {
+      "country": "China",
+      "first_origin": "2023-01-01",
+      "last_origin": "2023-12-31",
+      "event_start": "2023-01-01",
+      "event_end": "2023-12-31",
+      "observation": "satellite_lake_mean"
+    },
+    "oceania": {
+      "continent": "Oceania",
+      "first_origin": "2020-01-01",
+      "last_origin": "2022-12-31",
+      "event_start": "2020-01-01",
+      "event_end": "2022-12-31",
+      "observation": "satellite_lake_mean"
+    },
+    "new_zealand": {
+      "country": "New Zealand",
+      "first_origin": "2023-01-01",
+      "last_origin": "2024-12-31",
+      "event_start": "2023-01-01",
+      "event_end": "2024-12-31",
+      "observation": "field_lake_day"
+    }
+  }
+}

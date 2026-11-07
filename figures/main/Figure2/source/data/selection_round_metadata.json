@@ -1,0 +1,12 @@
+{
+  "selection_rule": "nearest saved round to fixed calendar date 2023-07-01; no outcome or score based selection",
+  "date": "2023-06-25",
+  "candidates": 2805,
+  "quota": 281,
+  "capacity": 0.1,
+  "actual_fraction": 0.10017825311942959,
+  "last_selected_score": -1.8301385435423836,
+  "first_unselected_score": -1.848718974543713,
+  "tie_break": "ascending lake_id",
+  "uses_future_outcomes": false
+}

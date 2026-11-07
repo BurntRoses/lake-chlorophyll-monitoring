@@ -1,0 +1,1081 @@
+method,tree,feature_group,split_count
+single_window,0,Algal observations,1
+single_window,1,Algal observations,2
+single_window,2,Algal observations,1
+single_window,3,Algal observations,0
+single_window,4,Algal observations,1
+single_window,5,Algal observations,2
+single_window,6,Algal observations,1
+single_window,7,Algal observations,1
+single_window,8,Algal observations,1
+single_window,9,Algal observations,1
+single_window,10,Algal observations,1
+single_window,11,Algal observations,3
+single_window,12,Algal observations,2
+single_window,13,Algal observations,1
+single_window,14,Algal observations,0
+single_window,15,Algal observations,0
+single_window,16,Algal observations,1
+single_window,17,Algal observations,0
+single_window,18,Algal observations,0
+single_window,19,Algal observations,1
+single_window,20,Algal observations,0
+single_window,21,Algal observations,0
+single_window,22,Algal observations,2
+single_window,23,Algal observations,0
+single_window,24,Algal observations,2
+single_window,25,Algal observations,1
+single_window,26,Algal observations,0
+single_window,27,Algal observations,0
+single_window,28,Algal observations,0
+single_window,29,Algal observations,0
+single_window,30,Algal observations,0
+single_window,31,Algal observations,1
+single_window,32,Algal observations,1
+single_window,33,Algal observations,1
+single_window,34,Algal observations,0
+single_window,35,Algal observations,0
+single_window,36,Algal observations,0
+single_window,37,Algal observations,0
+single_window,38,Algal observations,1
+single_window,39,Algal observations,1
+single_window,40,Algal observations,0
+single_window,41,Algal observations,0
+single_window,42,Algal observations,1
+single_window,43,Algal observations,1
+single_window,44,Algal observations,2
+single_window,45,Algal observations,1
+single_window,46,Algal observations,1
+single_window,47,Algal observations,1
+single_window,48,Algal observations,0
+single_window,49,Algal observations,0
+single_window,50,Algal observations,0
+single_window,51,Algal observations,0
+single_window,52,Algal observations,0
+single_window,53,Algal observations,1
+single_window,54,Algal observations,0
+single_window,55,Algal observations,1
+single_window,56,Algal observations,0
+single_window,57,Algal observations,0
+single_window,58,Algal observations,2
+single_window,59,Algal observations,0
+single_window,0,Other water quality,1
+single_window,1,Other water quality,0
+single_window,2,Other water quality,0
+single_window,3,Other water quality,1
+single_window,4,Other water quality,1
+single_window,5,Other water quality,1
+single_window,6,Other water quality,0
+single_window,7,Other water quality,1
+single_window,8,Other water quality,0
+single_window,9,Other water quality,0
+single_window,10,Other water quality,0
+single_window,11,Other water quality,0
+single_window,12,Other water quality,0
+single_window,13,Other water quality,2
+single_window,14,Other water quality,2
+single_window,15,Other water quality,1
+single_window,16,Other water quality,0
+single_window,17,Other water quality,2
+single_window,18,Other water quality,0
+single_window,19,Other water quality,1
+single_window,20,Other water quality,1
+single_window,21,Other water quality,0
+single_window,22,Other water quality,1
+single_window,23,Other water quality,0
+single_window,24,Other water quality,2
+single_window,25,Other water quality,0
+single_window,26,Other water quality,1
+single_window,27,Other water quality,1
+single_window,28,Other water quality,2
+single_window,29,Other water quality,1
+single_window,30,Other water quality,3
+single_window,31,Other water quality,3
+single_window,32,Other water quality,2
+single_window,33,Other water quality,3
+single_window,34,Other water quality,0
+single_window,35,Other water quality,0
+single_window,36,Other water quality,1
+single_window,37,Other water quality,0
+single_window,38,Other water quality,2
+single_window,39,Other water quality,0
+single_window,40,Other water quality,0
+single_window,41,Other water quality,0
+single_window,42,Other water quality,0
+single_window,43,Other water quality,1
+single_window,44,Other water quality,0
+single_window,45,Other water quality,2
+single_window,46,Other water quality,2
+single_window,47,Other water quality,3
+single_window,48,Other water quality,3
+single_window,49,Other water quality,1
+single_window,50,Other water quality,2
+single_window,51,Other water quality,3
+single_window,52,Other water quality,1
+single_window,53,Other water quality,1
+single_window,54,Other water quality,2
+single_window,55,Other water quality,0
+single_window,56,Other water quality,0
+single_window,57,Other water quality,2
+single_window,58,Other water quality,1
+single_window,59,Other water quality,1
+single_window,0,Weather,1
+single_window,1,Weather,1
+single_window,2,Weather,2
+single_window,3,Weather,1
+single_window,4,Weather,2
+single_window,5,Weather,2
+single_window,6,Weather,2
+single_window,7,Weather,3
+single_window,8,Weather,2
+single_window,9,Weather,4
+single_window,10,Weather,1
+single_window,11,Weather,2
+single_window,12,Weather,1
+single_window,13,Weather,3
+single_window,14,Weather,2
+single_window,15,Weather,2
+single_window,16,Weather,1
+single_window,17,Weather,2
+single_window,18,Weather,4
+single_window,19,Weather,4
+single_window,20,Weather,2
+single_window,21,Weather,3
+single_window,22,Weather,3
+single_window,23,Weather,4
+single_window,24,Weather,2
+single_window,25,Weather,2
+single_window,26,Weather,2
+single_window,27,Weather,4
+single_window,28,Weather,2
+single_window,29,Weather,3
+single_window,30,Weather,3
+single_window,31,Weather,2
+single_window,32,Weather,2
+single_window,33,Weather,0
+single_window,34,Weather,1
+single_window,35,Weather,6
+single_window,36,Weather,2
+single_window,37,Weather,2
+single_window,38,Weather,2
+single_window,39,Weather,3
+single_window,40,Weather,3
+single_window,41,Weather,4
+single_window,42,Weather,2
+single_window,43,Weather,0
+single_window,44,Weather,2
+single_window,45,Weather,1
+single_window,46,Weather,2
+single_window,47,Weather,1
+single_window,48,Weather,2
+single_window,49,Weather,3
+single_window,50,Weather,3
+single_window,51,Weather,3
+single_window,52,Weather,2
+single_window,53,Weather,3
+single_window,54,Weather,1
+single_window,55,Weather,4
+single_window,56,Weather,2
+single_window,57,Weather,1
+single_window,58,Weather,0
+single_window,59,Weather,1
+single_window,0,Fixed history,1
+single_window,1,Fixed history,1
+single_window,2,Fixed history,2
+single_window,3,Fixed history,1
+single_window,4,Fixed history,0
+single_window,5,Fixed history,0
+single_window,6,Fixed history,1
+single_window,7,Fixed history,0
+single_window,8,Fixed history,0
+single_window,9,Fixed history,1
+single_window,10,Fixed history,0
+single_window,11,Fixed history,1
+single_window,12,Fixed history,0
+single_window,13,Fixed history,0
+single_window,14,Fixed history,0
+single_window,15,Fixed history,0
+single_window,16,Fixed history,0
+single_window,17,Fixed history,1
+single_window,18,Fixed history,0
+single_window,19,Fixed history,1
+single_window,20,Fixed history,1
+single_window,21,Fixed history,0
+single_window,22,Fixed history,0
+single_window,23,Fixed history,0
+single_window,24,Fixed history,0
+single_window,25,Fixed history,1
+single_window,26,Fixed history,0
+single_window,27,Fixed history,0
+single_window,28,Fixed history,1
+single_window,29,Fixed history,1
+single_window,30,Fixed history,0
+single_window,31,Fixed history,0
+single_window,32,Fixed history,0
+single_window,33,Fixed history,0
+single_window,34,Fixed history,1
+single_window,35,Fixed history,0
+single_window,36,Fixed history,0
+single_window,37,Fixed history,0
+single_window,38,Fixed history,0
+single_window,39,Fixed history,0
+single_window,40,Fixed history,2
+single_window,41,Fixed history,0
+single_window,42,Fixed history,0
+single_window,43,Fixed history,1
+single_window,44,Fixed history,0
+single_window,45,Fixed history,1
+single_window,46,Fixed history,0
+single_window,47,Fixed history,0
+single_window,48,Fixed history,0
+single_window,49,Fixed history,0
+single_window,50,Fixed history,0
+single_window,51,Fixed history,1
+single_window,52,Fixed history,1
+single_window,53,Fixed history,0
+single_window,54,Fixed history,1
+single_window,55,Fixed history,0
+single_window,56,Fixed history,0
+single_window,57,Fixed history,0
+single_window,58,Fixed history,0
+single_window,59,Fixed history,0
+single_window,0,Seasonal context,1
+single_window,1,Seasonal context,2
+single_window,2,Seasonal context,1
+single_window,3,Seasonal context,3
+single_window,4,Seasonal context,1
+single_window,5,Seasonal context,0
+single_window,6,Seasonal context,2
+single_window,7,Seasonal context,0
+single_window,8,Seasonal context,1
+single_window,9,Seasonal context,0
+single_window,10,Seasonal context,2
+single_window,11,Seasonal context,0
+single_window,12,Seasonal context,1
+single_window,13,Seasonal context,0
+single_window,14,Seasonal context,1
+single_window,15,Seasonal context,2
+single_window,16,Seasonal context,1
+single_window,17,Seasonal context,0
+single_window,18,Seasonal context,2
+single_window,19,Seasonal context,0
+single_window,20,Seasonal context,0
+single_window,21,Seasonal context,2
+single_window,22,Seasonal context,0
+single_window,23,Seasonal context,1
+single_window,24,Seasonal context,0
+single_window,25,Seasonal context,0
+single_window,26,Seasonal context,3
+single_window,27,Seasonal context,0
+single_window,28,Seasonal context,0
+single_window,29,Seasonal context,1
+single_window,30,Seasonal context,0
+single_window,31,Seasonal context,0
+single_window,32,Seasonal context,1
+single_window,33,Seasonal context,1
+single_window,34,Seasonal context,1
+single_window,35,Seasonal context,0
+single_window,36,Seasonal context,0
+single_window,37,Seasonal context,1
+single_window,38,Seasonal context,1
+single_window,39,Seasonal context,0
+single_window,40,Seasonal context,0
+single_window,41,Seasonal context,1
+single_window,42,Seasonal context,0
+single_window,43,Seasonal context,2
+single_window,44,Seasonal context,1
+single_window,45,Seasonal context,0
+single_window,46,Seasonal context,0
+single_window,47,Seasonal context,0
+single_window,48,Seasonal context,2
+single_window,49,Seasonal context,1
+single_window,50,Seasonal context,0
+single_window,51,Seasonal context,0
+single_window,52,Seasonal context,0
+single_window,53,Seasonal context,1
+single_window,54,Seasonal context,0
+single_window,55,Seasonal context,1
+single_window,56,Seasonal context,0
+single_window,57,Seasonal context,0
+single_window,58,Seasonal context,1
+single_window,59,Seasonal context,1
+single_window,0,Lake / catchment,0
+single_window,1,Lake / catchment,0
+single_window,2,Lake / catchment,0
+single_window,3,Lake / catchment,0
+single_window,4,Lake / catchment,0
+single_window,5,Lake / catchment,1
+single_window,6,Lake / catchment,0
+single_window,7,Lake / catchment,0
+single_window,8,Lake / catchment,1
+single_window,9,Lake / catchment,0
+single_window,10,Lake / catchment,0
+single_window,11,Lake / catchment,0
+single_window,12,Lake / catchment,0
+single_window,13,Lake / catchment,0
+single_window,14,Lake / catchment,1
+single_window,15,Lake / catchment,1
+single_window,16,Lake / catchment,2
+single_window,17,Lake / catchment,0
+single_window,18,Lake / catchment,0
+single_window,19,Lake / catchment,0
+single_window,20,Lake / catchment,1
+single_window,21,Lake / catchment,0
+single_window,22,Lake / catchment,0
+single_window,23,Lake / catchment,1
+single_window,24,Lake / catchment,0
+single_window,25,Lake / catchment,0
+single_window,26,Lake / catchment,0
+single_window,27,Lake / catchment,0
+single_window,28,Lake / catchment,0
+single_window,29,Lake / catchment,1
+single_window,30,Lake / catchment,0
+single_window,31,Lake / catchment,0
+single_window,32,Lake / catchment,0
+single_window,33,Lake / catchment,1
+single_window,34,Lake / catchment,1
+single_window,35,Lake / catchment,0
+single_window,36,Lake / catchment,0
+single_window,37,Lake / catchment,0
+single_window,38,Lake / catchment,1
+single_window,39,Lake / catchment,0
+single_window,40,Lake / catchment,0
+single_window,41,Lake / catchment,1
+single_window,42,Lake / catchment,0
+single_window,43,Lake / catchment,1
+single_window,44,Lake / catchment,0
+single_window,45,Lake / catchment,0
+single_window,46,Lake / catchment,0
+single_window,47,Lake / catchment,1
+single_window,48,Lake / catchment,0
+single_window,49,Lake / catchment,1
+single_window,50,Lake / catchment,0
+single_window,51,Lake / catchment,0
+single_window,52,Lake / catchment,0
+single_window,53,Lake / catchment,0
+single_window,54,Lake / catchment,2
+single_window,55,Lake / catchment,0
+single_window,56,Lake / catchment,1
+single_window,57,Lake / catchment,1
+single_window,58,Lake / catchment,0
+single_window,59,Lake / catchment,0
+single_window,0,Interactions,2
+single_window,1,Interactions,1
+single_window,2,Interactions,1
+single_window,3,Interactions,1
+single_window,4,Interactions,0
+single_window,5,Interactions,0
+single_window,6,Interactions,0
+single_window,7,Interactions,0
+single_window,8,Interactions,2
+single_window,9,Interactions,0
+single_window,10,Interactions,2
+single_window,11,Interactions,0
+single_window,12,Interactions,3
+single_window,13,Interactions,0
+single_window,14,Interactions,1
+single_window,15,Interactions,1
+single_window,16,Interactions,2
+single_window,17,Interactions,1
+single_window,18,Interactions,1
+single_window,19,Interactions,0
+single_window,20,Interactions,1
+single_window,21,Interactions,0
+single_window,22,Interactions,0
+single_window,23,Interactions,0
+single_window,24,Interactions,1
+single_window,25,Interactions,0
+single_window,26,Interactions,1
+single_window,27,Interactions,2
+single_window,28,Interactions,1
+single_window,29,Interactions,0
+single_window,30,Interactions,0
+single_window,31,Interactions,0
+single_window,32,Interactions,0
+single_window,33,Interactions,1
+single_window,34,Interactions,0
+single_window,35,Interactions,1
+single_window,36,Interactions,0
+single_window,37,Interactions,2
+single_window,38,Interactions,0
+single_window,39,Interactions,3
+single_window,40,Interactions,2
+single_window,41,Interactions,0
+single_window,42,Interactions,3
+single_window,43,Interactions,1
+single_window,44,Interactions,1
+single_window,45,Interactions,1
+single_window,46,Interactions,2
+single_window,47,Interactions,0
+single_window,48,Interactions,0
+single_window,49,Interactions,1
+single_window,50,Interactions,1
+single_window,51,Interactions,0
+single_window,52,Interactions,3
+single_window,53,Interactions,0
+single_window,54,Interactions,0
+single_window,55,Interactions,0
+single_window,56,Interactions,3
+single_window,57,Interactions,0
+single_window,58,Interactions,0
+single_window,59,Interactions,1
+single_window,0,Base logits,0
+single_window,1,Base logits,0
+single_window,2,Base logits,0
+single_window,3,Base logits,0
+single_window,4,Base logits,2
+single_window,5,Base logits,1
+single_window,6,Base logits,1
+single_window,7,Base logits,1
+single_window,8,Base logits,0
+single_window,9,Base logits,1
+single_window,10,Base logits,1
+single_window,11,Base logits,0
+single_window,12,Base logits,0
+single_window,13,Base logits,1
+single_window,14,Base logits,0
+single_window,15,Base logits,0
+single_window,16,Base logits,0
+single_window,17,Base logits,1
+single_window,18,Base logits,0
+single_window,19,Base logits,0
+single_window,20,Base logits,0
+single_window,21,Base logits,1
+single_window,22,Base logits,1
+single_window,23,Base logits,0
+single_window,24,Base logits,0
+single_window,25,Base logits,0
+single_window,26,Base logits,0
+single_window,27,Base logits,0
+single_window,28,Base logits,1
+single_window,29,Base logits,0
+single_window,30,Base logits,1
+single_window,31,Base logits,0
+single_window,32,Base logits,0
+single_window,33,Base logits,0
+single_window,34,Base logits,2
+single_window,35,Base logits,0
+single_window,36,Base logits,1
+single_window,37,Base logits,2
+single_window,38,Base logits,0
+single_window,39,Base logits,0
+single_window,40,Base logits,0
+single_window,41,Base logits,1
+single_window,42,Base logits,1
+single_window,43,Base logits,0
+single_window,44,Base logits,1
+single_window,45,Base logits,0
+single_window,46,Base logits,0
+single_window,47,Base logits,0
+single_window,48,Base logits,0
+single_window,49,Base logits,0
+single_window,50,Base logits,1
+single_window,51,Base logits,0
+single_window,52,Base logits,0
+single_window,53,Base logits,0
+single_window,54,Base logits,0
+single_window,55,Base logits,1
+single_window,56,Base logits,0
+single_window,57,Base logits,0
+single_window,58,Base logits,0
+single_window,59,Base logits,0
+single_window,0,Window ID,0
+single_window,1,Window ID,0
+single_window,2,Window ID,0
+single_window,3,Window ID,0
+single_window,4,Window ID,0
+single_window,5,Window ID,0
+single_window,6,Window ID,0
+single_window,7,Window ID,0
+single_window,8,Window ID,0
+single_window,9,Window ID,0
+single_window,10,Window ID,0
+single_window,11,Window ID,0
+single_window,12,Window ID,0
+single_window,13,Window ID,0
+single_window,14,Window ID,0
+single_window,15,Window ID,0
+single_window,16,Window ID,0
+single_window,17,Window ID,0
+single_window,18,Window ID,0
+single_window,19,Window ID,0
+single_window,20,Window ID,0
+single_window,21,Window ID,0
+single_window,22,Window ID,0
+single_window,23,Window ID,0
+single_window,24,Window ID,0
+single_window,25,Window ID,0
+single_window,26,Window ID,0
+single_window,27,Window ID,0
+single_window,28,Window ID,0
+single_window,29,Window ID,0
+single_window,30,Window ID,0
+single_window,31,Window ID,0
+single_window,32,Window ID,0
+single_window,33,Window ID,0
+single_window,34,Window ID,0
+single_window,35,Window ID,0
+single_window,36,Window ID,0
+single_window,37,Window ID,0
+single_window,38,Window ID,0
+single_window,39,Window ID,0
+single_window,40,Window ID,0
+single_window,41,Window ID,0
+single_window,42,Window ID,0
+single_window,43,Window ID,0
+single_window,44,Window ID,0
+single_window,45,Window ID,0
+single_window,46,Window ID,0
+single_window,47,Window ID,0
+single_window,48,Window ID,0
+single_window,49,Window ID,0
+single_window,50,Window ID,0
+single_window,51,Window ID,0
+single_window,52,Window ID,0
+single_window,53,Window ID,0
+single_window,54,Window ID,0
+single_window,55,Window ID,0
+single_window,56,Window ID,0
+single_window,57,Window ID,0
+single_window,58,Window ID,0
+single_window,59,Window ID,0
+multi_window,0,Algal observations,1
+multi_window,1,Algal observations,1
+multi_window,2,Algal observations,1
+multi_window,3,Algal observations,2
+multi_window,4,Algal observations,1
+multi_window,5,Algal observations,1
+multi_window,6,Algal observations,0
+multi_window,7,Algal observations,1
+multi_window,8,Algal observations,1
+multi_window,9,Algal observations,0
+multi_window,10,Algal observations,1
+multi_window,11,Algal observations,1
+multi_window,12,Algal observations,0
+multi_window,13,Algal observations,1
+multi_window,14,Algal observations,1
+multi_window,15,Algal observations,1
+multi_window,16,Algal observations,1
+multi_window,17,Algal observations,1
+multi_window,18,Algal observations,1
+multi_window,19,Algal observations,1
+multi_window,20,Algal observations,2
+multi_window,21,Algal observations,1
+multi_window,22,Algal observations,1
+multi_window,23,Algal observations,1
+multi_window,24,Algal observations,0
+multi_window,25,Algal observations,1
+multi_window,26,Algal observations,2
+multi_window,27,Algal observations,1
+multi_window,28,Algal observations,1
+multi_window,29,Algal observations,1
+multi_window,30,Algal observations,0
+multi_window,31,Algal observations,1
+multi_window,32,Algal observations,1
+multi_window,33,Algal observations,1
+multi_window,34,Algal observations,0
+multi_window,35,Algal observations,1
+multi_window,36,Algal observations,1
+multi_window,37,Algal observations,1
+multi_window,38,Algal observations,2
+multi_window,39,Algal observations,0
+multi_window,40,Algal observations,1
+multi_window,41,Algal observations,0
+multi_window,42,Algal observations,1
+multi_window,43,Algal observations,0
+multi_window,44,Algal observations,0
+multi_window,45,Algal observations,1
+multi_window,46,Algal observations,0
+multi_window,47,Algal observations,1
+multi_window,48,Algal observations,1
+multi_window,49,Algal observations,1
+multi_window,50,Algal observations,1
+multi_window,51,Algal observations,2
+multi_window,52,Algal observations,1
+multi_window,53,Algal observations,1
+multi_window,54,Algal observations,0
+multi_window,55,Algal observations,0
+multi_window,56,Algal observations,0
+multi_window,57,Algal observations,0
+multi_window,58,Algal observations,1
+multi_window,59,Algal observations,0
+multi_window,0,Other water quality,1
+multi_window,1,Other water quality,0
+multi_window,2,Other water quality,1
+multi_window,3,Other water quality,0
+multi_window,4,Other water quality,0
+multi_window,5,Other water quality,0
+multi_window,6,Other water quality,1
+multi_window,7,Other water quality,0
+multi_window,8,Other water quality,0
+multi_window,9,Other water quality,2
+multi_window,10,Other water quality,1
+multi_window,11,Other water quality,1
+multi_window,12,Other water quality,1
+multi_window,13,Other water quality,1
+multi_window,14,Other water quality,0
+multi_window,15,Other water quality,1
+multi_window,16,Other water quality,1
+multi_window,17,Other water quality,0
+multi_window,18,Other water quality,0
+multi_window,19,Other water quality,0
+multi_window,20,Other water quality,0
+multi_window,21,Other water quality,0
+multi_window,22,Other water quality,1
+multi_window,23,Other water quality,0
+multi_window,24,Other water quality,1
+multi_window,25,Other water quality,1
+multi_window,26,Other water quality,0
+multi_window,27,Other water quality,3
+multi_window,28,Other water quality,2
+multi_window,29,Other water quality,0
+multi_window,30,Other water quality,1
+multi_window,31,Other water quality,1
+multi_window,32,Other water quality,0
+multi_window,33,Other water quality,1
+multi_window,34,Other water quality,1
+multi_window,35,Other water quality,0
+multi_window,36,Other water quality,1
+multi_window,37,Other water quality,1
+multi_window,38,Other water quality,0
+multi_window,39,Other water quality,1
+multi_window,40,Other water quality,1
+multi_window,41,Other water quality,1
+multi_window,42,Other water quality,1
+multi_window,43,Other water quality,0
+multi_window,44,Other water quality,1
+multi_window,45,Other water quality,1
+multi_window,46,Other water quality,1
+multi_window,47,Other water quality,0
+multi_window,48,Other water quality,1
+multi_window,49,Other water quality,0
+multi_window,50,Other water quality,1
+multi_window,51,Other water quality,0
+multi_window,52,Other water quality,1
+multi_window,53,Other water quality,3
+multi_window,54,Other water quality,1
+multi_window,55,Other water quality,0
+multi_window,56,Other water quality,0
+multi_window,57,Other water quality,0
+multi_window,58,Other water quality,0
+multi_window,59,Other water quality,3
+multi_window,0,Weather,0
+multi_window,1,Weather,0
+multi_window,2,Weather,1
+multi_window,3,Weather,0
+multi_window,4,Weather,1
+multi_window,5,Weather,1
+multi_window,6,Weather,3
+multi_window,7,Weather,2
+multi_window,8,Weather,2
+multi_window,9,Weather,2
+multi_window,10,Weather,1
+multi_window,11,Weather,0
+multi_window,12,Weather,1
+multi_window,13,Weather,1
+multi_window,14,Weather,2
+multi_window,15,Weather,3
+multi_window,16,Weather,3
+multi_window,17,Weather,1
+multi_window,18,Weather,1
+multi_window,19,Weather,2
+multi_window,20,Weather,2
+multi_window,21,Weather,4
+multi_window,22,Weather,2
+multi_window,23,Weather,1
+multi_window,24,Weather,2
+multi_window,25,Weather,2
+multi_window,26,Weather,3
+multi_window,27,Weather,1
+multi_window,28,Weather,2
+multi_window,29,Weather,2
+multi_window,30,Weather,2
+multi_window,31,Weather,1
+multi_window,32,Weather,3
+multi_window,33,Weather,2
+multi_window,34,Weather,1
+multi_window,35,Weather,1
+multi_window,36,Weather,1
+multi_window,37,Weather,3
+multi_window,38,Weather,3
+multi_window,39,Weather,1
+multi_window,40,Weather,2
+multi_window,41,Weather,2
+multi_window,42,Weather,2
+multi_window,43,Weather,2
+multi_window,44,Weather,3
+multi_window,45,Weather,1
+multi_window,46,Weather,0
+multi_window,47,Weather,4
+multi_window,48,Weather,1
+multi_window,49,Weather,1
+multi_window,50,Weather,2
+multi_window,51,Weather,2
+multi_window,52,Weather,1
+multi_window,53,Weather,2
+multi_window,54,Weather,5
+multi_window,55,Weather,2
+multi_window,56,Weather,5
+multi_window,57,Weather,5
+multi_window,58,Weather,4
+multi_window,59,Weather,0
+multi_window,0,Fixed history,1
+multi_window,1,Fixed history,0
+multi_window,2,Fixed history,2
+multi_window,3,Fixed history,1
+multi_window,4,Fixed history,1
+multi_window,5,Fixed history,1
+multi_window,6,Fixed history,1
+multi_window,7,Fixed history,1
+multi_window,8,Fixed history,0
+multi_window,9,Fixed history,1
+multi_window,10,Fixed history,1
+multi_window,11,Fixed history,0
+multi_window,12,Fixed history,1
+multi_window,13,Fixed history,1
+multi_window,14,Fixed history,0
+multi_window,15,Fixed history,1
+multi_window,16,Fixed history,0
+multi_window,17,Fixed history,1
+multi_window,18,Fixed history,0
+multi_window,19,Fixed history,0
+multi_window,20,Fixed history,0
+multi_window,21,Fixed history,1
+multi_window,22,Fixed history,0
+multi_window,23,Fixed history,0
+multi_window,24,Fixed history,1
+multi_window,25,Fixed history,0
+multi_window,26,Fixed history,1
+multi_window,27,Fixed history,0
+multi_window,28,Fixed history,0
+multi_window,29,Fixed history,0
+multi_window,30,Fixed history,1
+multi_window,31,Fixed history,0
+multi_window,32,Fixed history,0
+multi_window,33,Fixed history,0
+multi_window,34,Fixed history,1
+multi_window,35,Fixed history,0
+multi_window,36,Fixed history,0
+multi_window,37,Fixed history,1
+multi_window,38,Fixed history,1
+multi_window,39,Fixed history,0
+multi_window,40,Fixed history,0
+multi_window,41,Fixed history,0
+multi_window,42,Fixed history,0
+multi_window,43,Fixed history,1
+multi_window,44,Fixed history,0
+multi_window,45,Fixed history,0
+multi_window,46,Fixed history,1
+multi_window,47,Fixed history,0
+multi_window,48,Fixed history,2
+multi_window,49,Fixed history,2
+multi_window,50,Fixed history,1
+multi_window,51,Fixed history,0
+multi_window,52,Fixed history,1
+multi_window,53,Fixed history,0
+multi_window,54,Fixed history,0
+multi_window,55,Fixed history,0
+multi_window,56,Fixed history,1
+multi_window,57,Fixed history,1
+multi_window,58,Fixed history,1
+multi_window,59,Fixed history,1
+multi_window,0,Seasonal context,1
+multi_window,1,Seasonal context,2
+multi_window,2,Seasonal context,0
+multi_window,3,Seasonal context,3
+multi_window,4,Seasonal context,1
+multi_window,5,Seasonal context,2
+multi_window,6,Seasonal context,1
+multi_window,7,Seasonal context,2
+multi_window,8,Seasonal context,2
+multi_window,9,Seasonal context,1
+multi_window,10,Seasonal context,2
+multi_window,11,Seasonal context,1
+multi_window,12,Seasonal context,1
+multi_window,13,Seasonal context,0
+multi_window,14,Seasonal context,2
+multi_window,15,Seasonal context,0
+multi_window,16,Seasonal context,0
+multi_window,17,Seasonal context,2
+multi_window,18,Seasonal context,2
+multi_window,19,Seasonal context,1
+multi_window,20,Seasonal context,1
+multi_window,21,Seasonal context,1
+multi_window,22,Seasonal context,3
+multi_window,23,Seasonal context,2
+multi_window,24,Seasonal context,1
+multi_window,25,Seasonal context,2
+multi_window,26,Seasonal context,0
+multi_window,27,Seasonal context,0
+multi_window,28,Seasonal context,0
+multi_window,29,Seasonal context,3
+multi_window,30,Seasonal context,0
+multi_window,31,Seasonal context,1
+multi_window,32,Seasonal context,0
+multi_window,33,Seasonal context,1
+multi_window,34,Seasonal context,2
+multi_window,35,Seasonal context,2
+multi_window,36,Seasonal context,2
+multi_window,37,Seasonal context,1
+multi_window,38,Seasonal context,1
+multi_window,39,Seasonal context,2
+multi_window,40,Seasonal context,0
+multi_window,41,Seasonal context,1
+multi_window,42,Seasonal context,0
+multi_window,43,Seasonal context,0
+multi_window,44,Seasonal context,1
+multi_window,45,Seasonal context,0
+multi_window,46,Seasonal context,2
+multi_window,47,Seasonal context,0
+multi_window,48,Seasonal context,0
+multi_window,49,Seasonal context,1
+multi_window,50,Seasonal context,1
+multi_window,51,Seasonal context,0
+multi_window,52,Seasonal context,0
+multi_window,53,Seasonal context,0
+multi_window,54,Seasonal context,0
+multi_window,55,Seasonal context,1
+multi_window,56,Seasonal context,0
+multi_window,57,Seasonal context,0
+multi_window,58,Seasonal context,1
+multi_window,59,Seasonal context,1
+multi_window,0,Lake / catchment,0
+multi_window,1,Lake / catchment,0
+multi_window,2,Lake / catchment,0
+multi_window,3,Lake / catchment,0
+multi_window,4,Lake / catchment,1
+multi_window,5,Lake / catchment,0
+multi_window,6,Lake / catchment,0
+multi_window,7,Lake / catchment,0
+multi_window,8,Lake / catchment,0
+multi_window,9,Lake / catchment,0
+multi_window,10,Lake / catchment,0
+multi_window,11,Lake / catchment,0
+multi_window,12,Lake / catchment,1
+multi_window,13,Lake / catchment,1
+multi_window,14,Lake / catchment,0
+multi_window,15,Lake / catchment,0
+multi_window,16,Lake / catchment,1
+multi_window,17,Lake / catchment,0
+multi_window,18,Lake / catchment,0
+multi_window,19,Lake / catchment,0
+multi_window,20,Lake / catchment,0
+multi_window,21,Lake / catchment,0
+multi_window,22,Lake / catchment,0
+multi_window,23,Lake / catchment,1
+multi_window,24,Lake / catchment,0
+multi_window,25,Lake / catchment,0
+multi_window,26,Lake / catchment,0
+multi_window,27,Lake / catchment,0
+multi_window,28,Lake / catchment,0
+multi_window,29,Lake / catchment,1
+multi_window,30,Lake / catchment,1
+multi_window,31,Lake / catchment,0
+multi_window,32,Lake / catchment,1
+multi_window,33,Lake / catchment,1
+multi_window,34,Lake / catchment,0
+multi_window,35,Lake / catchment,0
+multi_window,36,Lake / catchment,1
+multi_window,37,Lake / catchment,0
+multi_window,38,Lake / catchment,0
+multi_window,39,Lake / catchment,0
+multi_window,40,Lake / catchment,1
+multi_window,41,Lake / catchment,1
+multi_window,42,Lake / catchment,2
+multi_window,43,Lake / catchment,1
+multi_window,44,Lake / catchment,0
+multi_window,45,Lake / catchment,3
+multi_window,46,Lake / catchment,1
+multi_window,47,Lake / catchment,1
+multi_window,48,Lake / catchment,1
+multi_window,49,Lake / catchment,0
+multi_window,50,Lake / catchment,0
+multi_window,51,Lake / catchment,0
+multi_window,52,Lake / catchment,0
+multi_window,53,Lake / catchment,0
+multi_window,54,Lake / catchment,0
+multi_window,55,Lake / catchment,1
+multi_window,56,Lake / catchment,1
+multi_window,57,Lake / catchment,1
+multi_window,58,Lake / catchment,0
+multi_window,59,Lake / catchment,1
+multi_window,0,Interactions,2
+multi_window,1,Interactions,2
+multi_window,2,Interactions,1
+multi_window,3,Interactions,1
+multi_window,4,Interactions,0
+multi_window,5,Interactions,1
+multi_window,6,Interactions,1
+multi_window,7,Interactions,0
+multi_window,8,Interactions,1
+multi_window,9,Interactions,0
+multi_window,10,Interactions,0
+multi_window,11,Interactions,0
+multi_window,12,Interactions,0
+multi_window,13,Interactions,0
+multi_window,14,Interactions,0
+multi_window,15,Interactions,0
+multi_window,16,Interactions,0
+multi_window,17,Interactions,0
+multi_window,18,Interactions,0
+multi_window,19,Interactions,2
+multi_window,20,Interactions,0
+multi_window,21,Interactions,0
+multi_window,22,Interactions,0
+multi_window,23,Interactions,1
+multi_window,24,Interactions,0
+multi_window,25,Interactions,0
+multi_window,26,Interactions,0
+multi_window,27,Interactions,1
+multi_window,28,Interactions,0
+multi_window,29,Interactions,0
+multi_window,30,Interactions,0
+multi_window,31,Interactions,1
+multi_window,32,Interactions,1
+multi_window,33,Interactions,0
+multi_window,34,Interactions,1
+multi_window,35,Interactions,0
+multi_window,36,Interactions,1
+multi_window,37,Interactions,0
+multi_window,38,Interactions,0
+multi_window,39,Interactions,2
+multi_window,40,Interactions,1
+multi_window,41,Interactions,1
+multi_window,42,Interactions,0
+multi_window,43,Interactions,1
+multi_window,44,Interactions,1
+multi_window,45,Interactions,0
+multi_window,46,Interactions,0
+multi_window,47,Interactions,1
+multi_window,48,Interactions,1
+multi_window,49,Interactions,1
+multi_window,50,Interactions,0
+multi_window,51,Interactions,0
+multi_window,52,Interactions,0
+multi_window,53,Interactions,0
+multi_window,54,Interactions,1
+multi_window,55,Interactions,2
+multi_window,56,Interactions,0
+multi_window,57,Interactions,0
+multi_window,58,Interactions,0
+multi_window,59,Interactions,0
+multi_window,0,Base logits,0
+multi_window,1,Base logits,1
+multi_window,2,Base logits,0
+multi_window,3,Base logits,0
+multi_window,4,Base logits,2
+multi_window,5,Base logits,1
+multi_window,6,Base logits,0
+multi_window,7,Base logits,1
+multi_window,8,Base logits,1
+multi_window,9,Base logits,0
+multi_window,10,Base logits,1
+multi_window,11,Base logits,3
+multi_window,12,Base logits,1
+multi_window,13,Base logits,0
+multi_window,14,Base logits,2
+multi_window,15,Base logits,1
+multi_window,16,Base logits,1
+multi_window,17,Base logits,1
+multi_window,18,Base logits,2
+multi_window,19,Base logits,0
+multi_window,20,Base logits,2
+multi_window,21,Base logits,0
+multi_window,22,Base logits,0
+multi_window,23,Base logits,0
+multi_window,24,Base logits,1
+multi_window,25,Base logits,0
+multi_window,26,Base logits,1
+multi_window,27,Base logits,0
+multi_window,28,Base logits,0
+multi_window,29,Base logits,0
+multi_window,30,Base logits,1
+multi_window,31,Base logits,1
+multi_window,32,Base logits,1
+multi_window,33,Base logits,0
+multi_window,34,Base logits,0
+multi_window,35,Base logits,2
+multi_window,36,Base logits,0
+multi_window,37,Base logits,0
+multi_window,38,Base logits,0
+multi_window,39,Base logits,1
+multi_window,40,Base logits,1
+multi_window,41,Base logits,0
+multi_window,42,Base logits,1
+multi_window,43,Base logits,1
+multi_window,44,Base logits,0
+multi_window,45,Base logits,0
+multi_window,46,Base logits,1
+multi_window,47,Base logits,0
+multi_window,48,Base logits,0
+multi_window,49,Base logits,0
+multi_window,50,Base logits,1
+multi_window,51,Base logits,1
+multi_window,52,Base logits,2
+multi_window,53,Base logits,0
+multi_window,54,Base logits,0
+multi_window,55,Base logits,0
+multi_window,56,Base logits,0
+multi_window,57,Base logits,0
+multi_window,58,Base logits,0
+multi_window,59,Base logits,1
+multi_window,0,Window ID,1
+multi_window,1,Window ID,1
+multi_window,2,Window ID,1
+multi_window,3,Window ID,0
+multi_window,4,Window ID,0
+multi_window,5,Window ID,0
+multi_window,6,Window ID,0
+multi_window,7,Window ID,0
+multi_window,8,Window ID,0
+multi_window,9,Window ID,0
+multi_window,10,Window ID,0
+multi_window,11,Window ID,1
+multi_window,12,Window ID,1
+multi_window,13,Window ID,1
+multi_window,14,Window ID,0
+multi_window,15,Window ID,0
+multi_window,16,Window ID,0
+multi_window,17,Window ID,0
+multi_window,18,Window ID,0
+multi_window,19,Window ID,1
+multi_window,20,Window ID,0
+multi_window,21,Window ID,0
+multi_window,22,Window ID,0
+multi_window,23,Window ID,0
+multi_window,24,Window ID,1
+multi_window,25,Window ID,0
+multi_window,26,Window ID,0
+multi_window,27,Window ID,1
+multi_window,28,Window ID,2
+multi_window,29,Window ID,0
+multi_window,30,Window ID,1
+multi_window,31,Window ID,0
+multi_window,32,Window ID,0
+multi_window,33,Window ID,0
+multi_window,34,Window ID,1
+multi_window,35,Window ID,1
+multi_window,36,Window ID,0
+multi_window,37,Window ID,0
+multi_window,38,Window ID,0
+multi_window,39,Window ID,0
+multi_window,40,Window ID,0
+multi_window,41,Window ID,0
+multi_window,42,Window ID,0
+multi_window,43,Window ID,0
+multi_window,44,Window ID,0
+multi_window,45,Window ID,0
+multi_window,46,Window ID,1
+multi_window,47,Window ID,0
+multi_window,48,Window ID,0
+multi_window,49,Window ID,1
+multi_window,50,Window ID,0
+multi_window,51,Window ID,1
+multi_window,52,Window ID,0
+multi_window,53,Window ID,0
+multi_window,54,Window ID,0
+multi_window,55,Window ID,1
+multi_window,56,Window ID,0
+multi_window,57,Window ID,0
+multi_window,58,Window ID,0
+multi_window,59,Window ID,0

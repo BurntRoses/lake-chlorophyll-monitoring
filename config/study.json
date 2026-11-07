@@ -1,0 +1,79 @@
+{
+  "study": "Capacity-limited monitoring of severe lake chlorophyll events",
+  "chla_threshold_ugL": 75,
+  "washout_days": 60,
+  "result_delay_days": 7,
+  "satellite_release_delay_days": 2,
+  "development_years": [
+    2016,
+    2017,
+    2018,
+    2019,
+    2020
+  ],
+  "discovery_years": [
+    2016,
+    2017,
+    2018
+  ],
+  "stability_years": [
+    2019,
+    2020
+  ],
+  "initial_training_years": [
+    2011,
+    2012,
+    2013,
+    2014,
+    2015
+  ],
+  "lake_folds": 5,
+  "retrospective_evaluation_years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "capacity_fraction": 0.1,
+  "capacity_rounding": "ceil",
+  "primary_endpoint": "31_60",
+  "secondary_endpoint": "1_60_same_queue",
+  "event_time_bins": [
+    [
+      1,
+      14
+    ],
+    [
+      15,
+      30
+    ],
+    [
+      31,
+      60
+    ]
+  ],
+  "common_primary_training": "known 31-60-day outcome; mature before January 1 of validation year",
+  "correction_context": "all eligible prior-year candidates from 2013; unknown outcomes retain prior anchor",
+  "nested_experts": "earlier-year prediction excluding both outer validation lake fold and row lake fold",
+  "final_refit_cutoff": "2021-01-01",
+  "final_expert_training_rows": 136122,
+  "final_correction_context_rows": 573461,
+  "expert_seed": 20261015,
+  "coverage_seed": 20261064,
+  "bootstrap_seed": 20261065,
+  "bootstrap_reps": 5000,
+  "bootstrap_unit": "whole lake with multiplicity; rebuild complete queues",
+  "paired_interval_level": 0.975,
+  "selection": [
+    "maximum pooled primary capture",
+    "maximum worst-year primary capture",
+    "maximum secondary capture",
+    "lexical name"
+  ],
+  "evaluation_scope": "Previously inspected retrospective panel; fixed parameters, no target-year refitting",
+  "primary_model_family": "joint",
+  "primary_policy": "multi_window",
+  "primary_model_specification": "monitoring_models.json",
+  "supporting_analysis_specification": "analysis.json"
+}

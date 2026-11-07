@@ -1,0 +1,4 @@
+example_id,sample_day,available_day,available_before_day0
+available,-10,-3,True
+pending,-4,3,False
+known_active,-20,-13,True

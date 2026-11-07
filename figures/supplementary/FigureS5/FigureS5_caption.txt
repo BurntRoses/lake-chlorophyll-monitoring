@@ -1,0 +1,3 @@
+Figure S5. Regional capacity responses and paired absolute-event comparisons.
+(a–d) Absolute-event coverage in the 31–60-day window at capacities from 1% to 30%, in 0.25-percentage-point increments. Event cohorts are China 2020–2022, China 2023, Oceania 2020–2022 and New Zealand 2023–2024, with 337, 86, 29 and 77 events, respectively. Ochre lines mark 10% capacity. Model scores remain fixed as quotas change.
+(e) Multi-window minus XGBoost (black squares) and Elastic Net (grey open diamonds) coverage at 10% capacity. Bars show 98.75% paired whole-lake bootstrap intervals from 5,000 resamples, adjusted within the four-comparison regional families. The dashed line marks zero. These estimates use absolute events; Figure 4b evaluates refitting effects on relative events.

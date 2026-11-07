@@ -1,0 +1,36 @@
+{
+  "question": "Does training for lake-specific high chlorophyll extend monitoring coverage across lakes?",
+  "quantile": 0.9,
+  "reference_cutoff": "2011-01-01",
+  "minimum_observations": 50,
+  "minimum_span_days": 365,
+  "training_cutoff": "2020-01-01",
+  "capacity": 0.1,
+  "event_gap_days": 60,
+  "unsupported_reference": "Keep competitors; all event labels and threshold-derived features remain unknown",
+  "regimes": [
+    "source",
+    "china_adapted"
+  ],
+  "evaluation_panels": [
+    "china_2020_2022",
+    "china_2023",
+    "oceania",
+    "new_zealand"
+  ],
+  "bootstrap_reps": 5000,
+  "bootstrap_seed": 20261101,
+  "hyperparameters": "Frozen US choices, unchanged for the relative endpoint",
+  "matched_baseline": "Absolute75-trained models scored with their original feature definitions on the same relative-event queues",
+  "primary_endpoint": [
+    31,
+    60
+  ],
+  "comparison_methods": [
+    "xgboost",
+    "elastic_net",
+    "single_window",
+    "multi_window"
+  ],
+  "comparison_intervals": "98.75% for four within-method retraining effects at primary endpoint; exploratory 95% otherwise"
+}

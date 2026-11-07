@@ -1,0 +1,11 @@
+﻿Model or stage,Parameters
+Main XGBoost comparator,500 trees; depth 2; minimum child weight 5; learning rate 0.05; row subsampling 0.8; column subsampling 0.8; L2 weight 5; L1 weight 0.05; hist algorithm; maximum bins 127
+XGBoost base model for capacity learners,"Same tree count, depth, learning rate and subsampling fractions as the main comparator; minimum child weight 15"
+Elastic Net logistic regression,Inverse regularisation strength C = 0.03; L1 mixing fraction 0.75
+Single-window and Multi-window ranking trees,Up to 60 rounds; depth 3; minimum leaf size 100 records; initial learning rate 0.5; per-round increment clipped to −2 to 2
+Complete same-window predictor control,60 rounds; depth 4; minimum leaf size 100 records; auxiliary loss weights 0.5 each
+Capacity loss,Temperature 0.75; logarithmic coverage weight 0.1; classification weight 0.1; unknown-label constraint weight 0.1
+Multi-window loss,Primary-window weight 1; two auxiliary-window weights 0.1 each; ranking trees shared across three outputs
+Preprocessing,"Within-training clipping at the 0.1%–99.9% quantiles, median imputation, missingness indicators and standardisation; quadratic splines with 4 knots and interactions for specified variables"
+Fixed US random seeds,Base models 20261015; capacity ranking 20261064; whole-lake bootstrap 20261065
+Cross-region bootstrap seed,20261101

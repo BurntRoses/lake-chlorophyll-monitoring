@@ -1,0 +1,96 @@
+{
+  "format": "UTF-8 CSV; decimal point",
+  "unit_definitions": {
+    "coverage_pct": "100 * covered events / opportunity-supported evaluable events",
+    "difference_pp": "percentage-point difference",
+    "lower_pp": "lower endpoint of paired interval",
+    "upper_pp": "upper endpoint of paired interval",
+    "nominal_capacity_pct": "eligible-candidate percentage retained per round with ceiling rounding",
+    "candidate_lakes": "all candidate lakes, including zero selections",
+    "evaluable_event_lakes": "lakes containing at least one evaluable event in this window",
+    "historical_q90_ug_L": "lake-specific pre-2011 Chl-a 90th percentile, micrograms/litre",
+    "confidence_level": "interval coverage as a fraction",
+    "lake_fraction": "cumulative fraction of all candidate lakes, ordered by selection count",
+    "slot_fraction": "cumulative fraction of monitoring slots"
+  },
+  "files": {
+    "china_background_accumulation.csv": {
+      "sha256": "050e95a8072161ece60f0bafb2b3aa05ed4012512f3d8fe398f0bf50b3efe9e1",
+      "role": "plotted input",
+      "rows": 236,
+      "columns": [
+        "historical_q90_ug_L",
+        "cumulative_evaluable_events",
+        "cumulative_absolute_covered",
+        "cumulative_relative_covered"
+      ]
+    },
+    "china_background_strata.csv": {
+      "sha256": "0d971d007f6829db664018a37db997ee7826d4fa410c78a4972b06085be9362f",
+      "role": "supporting data",
+      "rows": 6,
+      "columns": [
+        "region_id",
+        "strategy_id",
+        "endpoint_id",
+        "reference_group_id",
+        "method_id",
+        "evaluable_events",
+        "events_covered",
+        "evaluable_event_lakes",
+        "event_lakes_covered",
+        "method",
+        "region",
+        "lead_window",
+        "strategy",
+        "reference_group",
+        "coverage_pct",
+        "lake_coverage_pct"
+      ]
+    },
+    "historical_reference_support.csv": {
+      "sha256": "ca69090cec188c9ecf83570fba9b1dfa2fc6e805810179640ce08278ddd031b0",
+      "role": "plotted input",
+      "rows": 4,
+      "columns": [
+        "region_id",
+        "region",
+        "candidate_lakes",
+        "supported_reference_lakes",
+        "reference_support_pct"
+      ]
+    },
+    "pre2020_concentration_quantiles.csv": {
+      "sha256": "bd86b511d8de7ce3092f584bb611e790af4bc49f179949bd7f34a93cfc658ced",
+      "role": "plotted input",
+      "rows": 12,
+      "columns": [
+        "region_id",
+        "region",
+        "percentile",
+        "chl_a_ug_L",
+        "observations",
+        "lakes"
+      ]
+    },
+    "regional_relative_reach.csv": {
+      "sha256": "8a659d5621a35504818d58e80c5b09b53942791920fae4eee6fd652cd907f74e",
+      "role": "plotted input",
+      "rows": 8,
+      "columns": [
+        "region_id",
+        "region",
+        "endpoint_id",
+        "lead_window",
+        "method_id",
+        "method",
+        "events_covered",
+        "evaluable_events",
+        "coverage_pct",
+        "event_lakes_covered",
+        "evaluable_event_lakes",
+        "lake_coverage_pct"
+      ]
+    }
+  }
+}

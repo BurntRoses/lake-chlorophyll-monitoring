@@ -1,0 +1,8 @@
+{
+  "absolute75_trained/predictions.parquet": "de001f7b4c6a714414e3b7287bd522e78f4bc191c4a01be356c8907a9cba0d4c",
+  "absolute75_trained/selected_candidates.parquet": "7bf616f69b85eac8d7c233d651aaf09dec1ece799b16297beea5572a8a7f50e9",
+  "absolute75_trained/31_60_event_coverage.csv": "508738ed0a16b1b819d426974cea4e10e95f368e7614f4c8dab4dbf12889c552",
+  "q90_trained/predictions.parquet": "6926f0132acfc912d64262c873942bd0f18073ca729ca750523abe35018cd2e2",
+  "q90_trained/selected_candidates.parquet": "1f2e4c63ea3863cd1d2d9251c216ff187c7df94eeb33afd16d94f60be6431f8c",
+  "q90_trained/31_60_event_coverage.csv": "4109c12d8ea1db1536553fb20b2afc85974bd435c687c764d8f69cc498f0b8d0"
+}

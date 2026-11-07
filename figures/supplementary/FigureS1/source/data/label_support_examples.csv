@@ -1,0 +1,5 @@
+state,future_support_day,qualifying_event_day,competes_for_capacity,supervision
+Observed positive,40,40,True,Positive target event in 31–60 d
+Observed negative,45,,True,"Future sample support, no qualifying next event in 31–60 d"
+Unknown,,,True,No negative supervision; baseline-score anchor
+Known active event,,,False,Excluded from eligible competition

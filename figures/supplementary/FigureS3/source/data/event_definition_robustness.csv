@@ -1,0 +1,25 @@
+threshold_id,endpoint_id,method_id,events_covered,evaluable_events,coverage_pct,method,lead_window,threshold_label
+absolute25,31_60,xgboost,544,2077,26.1916225325,XGBoost,31–60 d,25 μg/L
+absolute25,31_60,elastic_net,538,2077,25.9027443428,Elastic Net,31–60 d,25 μg/L
+absolute25,31_60,single_window,1026,2077,49.3981704381,Single-window,31–60 d,25 μg/L
+absolute25,31_60,multi_window,1014,2077,48.8204140587,Multi-window,31–60 d,25 μg/L
+absolute50,31_60,xgboost,447,985,45.3807106599,XGBoost,31–60 d,50 μg/L
+absolute50,31_60,elastic_net,435,985,44.1624365482,Elastic Net,31–60 d,50 μg/L
+absolute50,31_60,single_window,687,985,69.7461928934,Single-window,31–60 d,50 μg/L
+absolute50,31_60,multi_window,695,985,70.5583756345,Multi-window,31–60 d,50 μg/L
+absolute75,31_60,xgboost,344,593,58.0101180438,XGBoost,31–60 d,75 μg/L
+absolute75,31_60,elastic_net,332,593,55.9865092749,Elastic Net,31–60 d,75 μg/L
+absolute75,31_60,single_window,461,593,77.7403035413,Single-window,31–60 d,75 μg/L
+absolute75,31_60,multi_window,463,593,78.0775716695,Multi-window,31–60 d,75 μg/L
+absolute100,31_60,xgboost,243,373,65.1474530831,XGBoost,31–60 d,100 μg/L
+absolute100,31_60,elastic_net,235,373,63.0026809651,Elastic Net,31–60 d,100 μg/L
+absolute100,31_60,single_window,298,373,79.8927613941,Single-window,31–60 d,100 μg/L
+absolute100,31_60,multi_window,295,373,79.0884718499,Multi-window,31–60 d,100 μg/L
+absolute75_gap30,31_60,xgboost,437,713,61.2903225806,XGBoost,31–60 d,30-day grouping gap
+absolute75_gap30,31_60,elastic_net,428,713,60.0280504909,Elastic Net,31–60 d,30-day grouping gap
+absolute75_gap30,31_60,single_window,563,713,78.9621318373,Single-window,31–60 d,30-day grouping gap
+absolute75_gap30,31_60,multi_window,568,713,79.6633941094,Multi-window,31–60 d,30-day grouping gap
+absolute75_gap90,31_60,xgboost,339,587,57.7512776831,XGBoost,31–60 d,90-day grouping gap
+absolute75_gap90,31_60,elastic_net,328,587,55.8773424191,Elastic Net,31–60 d,90-day grouping gap
+absolute75_gap90,31_60,single_window,455,587,77.5127768313,Single-window,31–60 d,90-day grouping gap
+absolute75_gap90,31_60,multi_window,457,587,77.8534923339,Multi-window,31–60 d,90-day grouping gap

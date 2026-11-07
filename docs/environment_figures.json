@@ -1,0 +1,18 @@
+{
+  "python": "3.12.10",
+  "packages": {
+    "matplotlib": "3.10.9",
+    "numpy": "2.2.4",
+    "pandas": "3.0.2",
+    "scipy": "1.17.1",
+    "Pillow": "11.1.0",
+    "pyproj": "3.7.2",
+    "rasterio": "1.5.0",
+    "geopandas": "1.1.4",
+    "shapely": "2.1.2",
+    "requests": "2.34.2",
+    "resvg-py": "0.5.0",
+    "fonttools": "4.63.0"
+  },
+  "font": "Times New Roman"
+}

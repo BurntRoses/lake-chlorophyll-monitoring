@@ -1,0 +1,81 @@
+[
+  {
+    "file": "ne_50m_lakes.zip",
+    "source": "https://naturalearth.s3.amazonaws.com/50m_physical/ne_50m_lakes.zip",
+    "sha256": "f28d42c286d96b57a17aac2cbeb432f8c65532c20063495711fbc64e24666df3"
+  },
+  {
+    "file": "florida_dem_5070.tif",
+    "source": "https://elevation.nationalmap.gov/arcgis/rest/services/3DEPElevation/ImageServer",
+    "display_bbox_wgs84": [
+      -85.4,
+      25.0,
+      -79.6,
+      31.0
+    ],
+    "crs": "EPSG:5070",
+    "shape": [
+      700,
+      550
+    ],
+    "units": "metres",
+    "min": -3.7632627487182617,
+    "max": 184.00637817382812,
+    "pixel_size_metres": [
+      1200.5961897847574,
+      1200.5961897847574
+    ],
+    "sha256": "ff4004382c20b4eef09c7c98828d114e60177f5c74fdced8263cf168440bdceb"
+  },
+  {
+    "file": "conus_dem_5070.tif",
+    "source": "https://elevation.nationalmap.gov/arcgis/rest/services/3DEPElevation/ImageServer",
+    "display_bbox_wgs84": [
+      -125,
+      24,
+      -66,
+      50.5
+    ],
+    "crs": "EPSG:5070",
+    "shape": [
+      1380,
+      2200
+    ],
+    "units": "metres",
+    "min": -159.30838012695312,
+    "max": 3973.1142578125,
+    "pixel_size_metres": [
+      2726.874953141467,
+      2726.874953141467
+    ],
+    "sha256": "4119876e43ed1c5a0966218e59bfb13b55cdcbbaaded35fa26525b4270a7d263"
+  },
+  {
+    "file": "ne_50m_land.zip",
+    "source": "https://naturalearth.s3.amazonaws.com/50m_physical/ne_50m_land.zip",
+    "sha256": "0b8e670cf80dce9cbebe2a193bc44ba5602758c22e1fa603980553646d7ff162"
+  },
+  {
+    "file": "midwest_dem_5070.tif",
+    "source": "https://elevation.nationalmap.gov/arcgis/rest/services/3DEPElevation/ImageServer",
+    "display_bbox_wgs84": [
+      -98.0,
+      43.0,
+      -85.0,
+      49.5
+    ],
+    "crs": "EPSG:5070",
+    "shape": [
+      650,
+      900
+    ],
+    "units": "metres",
+    "min": 142.06246948242188,
+    "max": 657.9930419921875,
+    "pixel_size_metres": [
+      1180.1899304574392,
+      1180.1899304574392
+    ],
+    "sha256": "8315f851f75be89a488297aa7045f5a48a25d77a4c46656f39df766fda509c23"
+  }
+]

@@ -1,0 +1,1041 @@
+method_id,method,schedule_id,schedule,round_index,round_date,round_slots,cumulative_slots,cumulative_selected_lakes
+xgboost,XGBoost,original,Original,1,2021-01-10,285,285,285
+xgboost,XGBoost,original,Original,2,2021-01-24,285,570,312
+xgboost,XGBoost,original,Original,3,2021-02-07,284,854,321
+xgboost,XGBoost,original,Original,4,2021-02-21,284,1138,342
+xgboost,XGBoost,original,Original,5,2021-03-07,284,1422,347
+xgboost,XGBoost,original,Original,6,2021-03-21,284,1706,372
+xgboost,XGBoost,original,Original,7,2021-04-04,284,1990,389
+xgboost,XGBoost,original,Original,8,2021-04-18,284,2274,402
+xgboost,XGBoost,original,Original,9,2021-05-02,284,2558,418
+xgboost,XGBoost,original,Original,10,2021-05-16,284,2842,424
+xgboost,XGBoost,original,Original,11,2021-05-30,284,3126,432
+xgboost,XGBoost,original,Original,12,2021-06-13,283,3409,437
+xgboost,XGBoost,original,Original,13,2021-06-27,283,3692,447
+xgboost,XGBoost,original,Original,14,2021-07-11,282,3974,459
+xgboost,XGBoost,original,Original,15,2021-07-25,282,4256,472
+xgboost,XGBoost,original,Original,16,2021-08-08,282,4538,472
+xgboost,XGBoost,original,Original,17,2021-08-22,282,4820,473
+xgboost,XGBoost,original,Original,18,2021-09-05,282,5102,477
+xgboost,XGBoost,original,Original,19,2021-09-19,282,5384,478
+xgboost,XGBoost,original,Original,20,2021-10-03,283,5667,480
+xgboost,XGBoost,original,Original,21,2021-10-17,283,5950,481
+xgboost,XGBoost,original,Original,22,2021-10-31,284,6234,481
+xgboost,XGBoost,original,Original,23,2021-11-14,284,6518,481
+xgboost,XGBoost,original,Original,24,2021-11-28,284,6802,481
+xgboost,XGBoost,original,Original,25,2021-12-12,284,7086,481
+xgboost,XGBoost,original,Original,26,2021-12-26,284,7370,483
+xgboost,XGBoost,original,Original,27,2022-01-09,284,7654,483
+xgboost,XGBoost,original,Original,28,2022-01-23,284,7938,483
+xgboost,XGBoost,original,Original,29,2022-02-06,284,8222,483
+xgboost,XGBoost,original,Original,30,2022-02-20,284,8506,483
+xgboost,XGBoost,original,Original,31,2022-03-06,284,8790,492
+xgboost,XGBoost,original,Original,32,2022-03-20,284,9074,495
+xgboost,XGBoost,original,Original,33,2022-04-03,284,9358,499
+xgboost,XGBoost,original,Original,34,2022-04-17,284,9642,509
+xgboost,XGBoost,original,Original,35,2022-05-01,284,9926,524
+xgboost,XGBoost,original,Original,36,2022-05-15,284,10210,524
+xgboost,XGBoost,original,Original,37,2022-05-29,284,10494,524
+xgboost,XGBoost,original,Original,38,2022-06-12,284,10778,527
+xgboost,XGBoost,original,Original,39,2022-06-26,283,11061,528
+xgboost,XGBoost,original,Original,40,2022-07-10,283,11344,529
+xgboost,XGBoost,original,Original,41,2022-07-24,283,11627,530
+xgboost,XGBoost,original,Original,42,2022-08-07,283,11910,530
+xgboost,XGBoost,original,Original,43,2022-08-21,283,12193,532
+xgboost,XGBoost,original,Original,44,2022-09-04,283,12476,532
+xgboost,XGBoost,original,Original,45,2022-09-18,283,12759,533
+xgboost,XGBoost,original,Original,46,2022-10-02,283,13042,533
+xgboost,XGBoost,original,Original,47,2022-10-16,283,13325,533
+xgboost,XGBoost,original,Original,48,2022-10-30,284,13609,533
+xgboost,XGBoost,original,Original,49,2022-11-13,284,13893,534
+xgboost,XGBoost,original,Original,50,2022-11-27,284,14177,534
+xgboost,XGBoost,original,Original,51,2022-12-11,284,14461,534
+xgboost,XGBoost,original,Original,52,2022-12-25,285,14746,535
+xgboost,XGBoost,original,Original,53,2023-01-08,285,15031,535
+xgboost,XGBoost,original,Original,54,2023-01-22,284,15315,535
+xgboost,XGBoost,original,Original,55,2023-02-05,284,15599,536
+xgboost,XGBoost,original,Original,56,2023-02-19,284,15883,537
+xgboost,XGBoost,original,Original,57,2023-03-05,284,16167,549
+xgboost,XGBoost,original,Original,58,2023-03-19,283,16450,554
+xgboost,XGBoost,original,Original,59,2023-04-02,283,16733,560
+xgboost,XGBoost,original,Original,60,2023-04-16,283,17016,565
+xgboost,XGBoost,original,Original,61,2023-04-30,284,17300,566
+xgboost,XGBoost,original,Original,62,2023-05-14,283,17583,567
+xgboost,XGBoost,original,Original,63,2023-05-28,282,17865,569
+xgboost,XGBoost,original,Original,64,2023-06-11,282,18147,572
+xgboost,XGBoost,original,Original,65,2023-06-25,281,18428,572
+xgboost,XGBoost,original,Original,66,2023-07-09,280,18708,572
+xgboost,XGBoost,original,Original,67,2023-07-23,279,18987,572
+xgboost,XGBoost,original,Original,68,2023-08-06,278,19265,572
+xgboost,XGBoost,original,Original,69,2023-08-20,276,19541,579
+xgboost,XGBoost,original,Original,70,2023-09-03,275,19816,580
+xgboost,XGBoost,original,Original,71,2023-09-17,274,20090,583
+xgboost,XGBoost,original,Original,72,2023-10-01,273,20363,585
+xgboost,XGBoost,original,Original,73,2023-10-15,274,20637,589
+xgboost,XGBoost,original,Original,74,2023-10-29,276,20913,590
+xgboost,XGBoost,original,Original,75,2023-11-12,278,21191,590
+xgboost,XGBoost,original,Original,76,2023-11-26,282,21473,590
+xgboost,XGBoost,original,Original,77,2023-12-10,284,21757,592
+xgboost,XGBoost,original,Original,78,2023-12-24,284,22041,592
+xgboost,XGBoost,original,Original,79,2024-01-07,284,22325,592
+xgboost,XGBoost,original,Original,80,2024-01-21,284,22609,592
+xgboost,XGBoost,original,Original,81,2024-02-04,284,22893,592
+xgboost,XGBoost,original,Original,82,2024-02-18,284,23177,593
+xgboost,XGBoost,original,Original,83,2024-03-03,284,23461,593
+xgboost,XGBoost,original,Original,84,2024-03-17,284,23745,593
+xgboost,XGBoost,original,Original,85,2024-03-31,283,24028,594
+xgboost,XGBoost,original,Original,86,2024-04-14,283,24311,594
+xgboost,XGBoost,original,Original,87,2024-04-28,283,24594,594
+xgboost,XGBoost,original,Original,88,2024-05-12,282,24876,594
+xgboost,XGBoost,original,Original,89,2024-05-26,282,25158,594
+xgboost,XGBoost,original,Original,90,2024-06-09,281,25439,594
+xgboost,XGBoost,original,Original,91,2024-06-23,280,25719,594
+xgboost,XGBoost,original,Original,92,2024-07-07,278,25997,599
+xgboost,XGBoost,original,Original,93,2024-07-21,276,26273,599
+xgboost,XGBoost,original,Original,94,2024-08-04,275,26548,599
+xgboost,XGBoost,original,Original,95,2024-08-18,274,26822,599
+xgboost,XGBoost,original,Original,96,2024-09-01,272,27094,601
+xgboost,XGBoost,original,Original,97,2024-09-15,272,27366,604
+xgboost,XGBoost,original,Original,98,2024-09-29,270,27636,608
+xgboost,XGBoost,original,Original,99,2024-10-13,270,27906,611
+xgboost,XGBoost,original,Original,100,2024-10-27,273,28179,612
+xgboost,XGBoost,original,Original,101,2024-11-10,274,28453,614
+xgboost,XGBoost,original,Original,102,2024-11-24,279,28732,616
+xgboost,XGBoost,original,Original,103,2024-12-08,283,29015,616
+xgboost,XGBoost,original,Original,104,2024-12-22,283,29298,616
+xgboost,XGBoost,original,Original,105,2025-01-05,284,29582,616
+xgboost,XGBoost,original,Original,106,2025-01-19,284,29866,616
+xgboost,XGBoost,original,Original,107,2025-02-02,284,30150,616
+xgboost,XGBoost,original,Original,108,2025-02-16,284,30434,616
+xgboost,XGBoost,original,Original,109,2025-03-02,284,30718,617
+xgboost,XGBoost,original,Original,110,2025-03-16,284,31002,617
+xgboost,XGBoost,original,Original,111,2025-03-30,284,31286,617
+xgboost,XGBoost,original,Original,112,2025-04-13,284,31570,618
+xgboost,XGBoost,original,Original,113,2025-04-27,284,31854,618
+xgboost,XGBoost,original,Original,114,2025-05-11,283,32137,620
+xgboost,XGBoost,original,Original,115,2025-05-25,284,32421,620
+xgboost,XGBoost,original,Original,116,2025-06-08,283,32704,621
+xgboost,XGBoost,original,Original,117,2025-06-22,283,32987,622
+xgboost,XGBoost,original,Original,118,2025-07-06,282,33269,623
+xgboost,XGBoost,original,Original,119,2025-07-20,281,33550,624
+xgboost,XGBoost,original,Original,120,2025-08-03,279,33829,625
+xgboost,XGBoost,original,Original,121,2025-08-17,279,34108,625
+xgboost,XGBoost,original,Original,122,2025-08-31,278,34386,625
+xgboost,XGBoost,original,Original,123,2025-09-14,277,34663,625
+xgboost,XGBoost,original,Original,124,2025-09-28,277,34940,625
+xgboost,XGBoost,original,Original,125,2025-10-12,277,35217,626
+xgboost,XGBoost,original,Original,126,2025-10-26,279,35496,626
+xgboost,XGBoost,original,Original,127,2025-11-09,281,35777,626
+xgboost,XGBoost,original,Original,128,2025-11-23,284,36061,627
+xgboost,XGBoost,original,Original,129,2025-12-07,285,36346,627
+xgboost,XGBoost,original,Original,130,2025-12-21,285,36631,627
+xgboost,XGBoost,rotation,Rotation,1,2021-01-10,285,285,285
+xgboost,XGBoost,rotation,Rotation,2,2021-01-24,285,570,570
+xgboost,XGBoost,rotation,Rotation,3,2021-02-07,284,854,575
+xgboost,XGBoost,rotation,Rotation,4,2021-02-21,284,1138,666
+xgboost,XGBoost,rotation,Rotation,5,2021-03-07,284,1422,666
+xgboost,XGBoost,rotation,Rotation,6,2021-03-21,284,1706,717
+xgboost,XGBoost,rotation,Rotation,7,2021-04-04,284,1990,720
+xgboost,XGBoost,rotation,Rotation,8,2021-04-18,284,2274,747
+xgboost,XGBoost,rotation,Rotation,9,2021-05-02,284,2558,750
+xgboost,XGBoost,rotation,Rotation,10,2021-05-16,284,2842,760
+xgboost,XGBoost,rotation,Rotation,11,2021-05-30,284,3126,761
+xgboost,XGBoost,rotation,Rotation,12,2021-06-13,283,3409,774
+xgboost,XGBoost,rotation,Rotation,13,2021-06-27,283,3692,774
+xgboost,XGBoost,rotation,Rotation,14,2021-07-11,282,3974,780
+xgboost,XGBoost,rotation,Rotation,15,2021-07-25,282,4256,781
+xgboost,XGBoost,rotation,Rotation,16,2021-08-08,282,4538,783
+xgboost,XGBoost,rotation,Rotation,17,2021-08-22,282,4820,783
+xgboost,XGBoost,rotation,Rotation,18,2021-09-05,282,5102,788
+xgboost,XGBoost,rotation,Rotation,19,2021-09-19,282,5384,789
+xgboost,XGBoost,rotation,Rotation,20,2021-10-03,283,5667,790
+xgboost,XGBoost,rotation,Rotation,21,2021-10-17,283,5950,791
+xgboost,XGBoost,rotation,Rotation,22,2021-10-31,284,6234,798
+xgboost,XGBoost,rotation,Rotation,23,2021-11-14,284,6518,798
+xgboost,XGBoost,rotation,Rotation,24,2021-11-28,284,6802,800
+xgboost,XGBoost,rotation,Rotation,25,2021-12-12,284,7086,800
+xgboost,XGBoost,rotation,Rotation,26,2021-12-26,284,7370,804
+xgboost,XGBoost,rotation,Rotation,27,2022-01-09,284,7654,804
+xgboost,XGBoost,rotation,Rotation,28,2022-01-23,284,7938,806
+xgboost,XGBoost,rotation,Rotation,29,2022-02-06,284,8222,806
+xgboost,XGBoost,rotation,Rotation,30,2022-02-20,284,8506,808
+xgboost,XGBoost,rotation,Rotation,31,2022-03-06,284,8790,812
+xgboost,XGBoost,rotation,Rotation,32,2022-03-20,284,9074,814
+xgboost,XGBoost,rotation,Rotation,33,2022-04-03,284,9358,815
+xgboost,XGBoost,rotation,Rotation,34,2022-04-17,284,9642,826
+xgboost,XGBoost,rotation,Rotation,35,2022-05-01,284,9926,827
+xgboost,XGBoost,rotation,Rotation,36,2022-05-15,284,10210,827
+xgboost,XGBoost,rotation,Rotation,37,2022-05-29,284,10494,828
+xgboost,XGBoost,rotation,Rotation,38,2022-06-12,284,10778,832
+xgboost,XGBoost,rotation,Rotation,39,2022-06-26,283,11061,832
+xgboost,XGBoost,rotation,Rotation,40,2022-07-10,283,11344,832
+xgboost,XGBoost,rotation,Rotation,41,2022-07-24,283,11627,832
+xgboost,XGBoost,rotation,Rotation,42,2022-08-07,283,11910,834
+xgboost,XGBoost,rotation,Rotation,43,2022-08-21,283,12193,834
+xgboost,XGBoost,rotation,Rotation,44,2022-09-04,283,12476,835
+xgboost,XGBoost,rotation,Rotation,45,2022-09-18,283,12759,836
+xgboost,XGBoost,rotation,Rotation,46,2022-10-02,283,13042,836
+xgboost,XGBoost,rotation,Rotation,47,2022-10-16,283,13325,836
+xgboost,XGBoost,rotation,Rotation,48,2022-10-30,284,13609,837
+xgboost,XGBoost,rotation,Rotation,49,2022-11-13,284,13893,838
+xgboost,XGBoost,rotation,Rotation,50,2022-11-27,284,14177,838
+xgboost,XGBoost,rotation,Rotation,51,2022-12-11,284,14461,838
+xgboost,XGBoost,rotation,Rotation,52,2022-12-25,285,14746,838
+xgboost,XGBoost,rotation,Rotation,53,2023-01-08,285,15031,838
+xgboost,XGBoost,rotation,Rotation,54,2023-01-22,284,15315,838
+xgboost,XGBoost,rotation,Rotation,55,2023-02-05,284,15599,839
+xgboost,XGBoost,rotation,Rotation,56,2023-02-19,284,15883,846
+xgboost,XGBoost,rotation,Rotation,57,2023-03-05,284,16167,851
+xgboost,XGBoost,rotation,Rotation,58,2023-03-19,283,16450,858
+xgboost,XGBoost,rotation,Rotation,59,2023-04-02,283,16733,859
+xgboost,XGBoost,rotation,Rotation,60,2023-04-16,283,17016,867
+xgboost,XGBoost,rotation,Rotation,61,2023-04-30,284,17300,869
+xgboost,XGBoost,rotation,Rotation,62,2023-05-14,283,17583,869
+xgboost,XGBoost,rotation,Rotation,63,2023-05-28,282,17865,869
+xgboost,XGBoost,rotation,Rotation,64,2023-06-11,282,18147,875
+xgboost,XGBoost,rotation,Rotation,65,2023-06-25,281,18428,875
+xgboost,XGBoost,rotation,Rotation,66,2023-07-09,280,18708,875
+xgboost,XGBoost,rotation,Rotation,67,2023-07-23,279,18987,875
+xgboost,XGBoost,rotation,Rotation,68,2023-08-06,278,19265,875
+xgboost,XGBoost,rotation,Rotation,69,2023-08-20,276,19541,878
+xgboost,XGBoost,rotation,Rotation,70,2023-09-03,275,19816,878
+xgboost,XGBoost,rotation,Rotation,71,2023-09-17,274,20090,881
+xgboost,XGBoost,rotation,Rotation,72,2023-10-01,273,20363,883
+xgboost,XGBoost,rotation,Rotation,73,2023-10-15,274,20637,884
+xgboost,XGBoost,rotation,Rotation,74,2023-10-29,276,20913,889
+xgboost,XGBoost,rotation,Rotation,75,2023-11-12,278,21191,890
+xgboost,XGBoost,rotation,Rotation,76,2023-11-26,282,21473,891
+xgboost,XGBoost,rotation,Rotation,77,2023-12-10,284,21757,891
+xgboost,XGBoost,rotation,Rotation,78,2023-12-24,284,22041,891
+xgboost,XGBoost,rotation,Rotation,79,2024-01-07,284,22325,891
+xgboost,XGBoost,rotation,Rotation,80,2024-01-21,284,22609,891
+xgboost,XGBoost,rotation,Rotation,81,2024-02-04,284,22893,896
+xgboost,XGBoost,rotation,Rotation,82,2024-02-18,284,23177,897
+xgboost,XGBoost,rotation,Rotation,83,2024-03-03,284,23461,898
+xgboost,XGBoost,rotation,Rotation,84,2024-03-17,284,23745,899
+xgboost,XGBoost,rotation,Rotation,85,2024-03-31,283,24028,899
+xgboost,XGBoost,rotation,Rotation,86,2024-04-14,283,24311,899
+xgboost,XGBoost,rotation,Rotation,87,2024-04-28,283,24594,899
+xgboost,XGBoost,rotation,Rotation,88,2024-05-12,282,24876,900
+xgboost,XGBoost,rotation,Rotation,89,2024-05-26,282,25158,900
+xgboost,XGBoost,rotation,Rotation,90,2024-06-09,281,25439,900
+xgboost,XGBoost,rotation,Rotation,91,2024-06-23,280,25719,900
+xgboost,XGBoost,rotation,Rotation,92,2024-07-07,278,25997,900
+xgboost,XGBoost,rotation,Rotation,93,2024-07-21,276,26273,902
+xgboost,XGBoost,rotation,Rotation,94,2024-08-04,275,26548,903
+xgboost,XGBoost,rotation,Rotation,95,2024-08-18,274,26822,904
+xgboost,XGBoost,rotation,Rotation,96,2024-09-01,272,27094,907
+xgboost,XGBoost,rotation,Rotation,97,2024-09-15,272,27366,912
+xgboost,XGBoost,rotation,Rotation,98,2024-09-29,270,27636,916
+xgboost,XGBoost,rotation,Rotation,99,2024-10-13,270,27906,919
+xgboost,XGBoost,rotation,Rotation,100,2024-10-27,273,28179,922
+xgboost,XGBoost,rotation,Rotation,101,2024-11-10,274,28453,922
+xgboost,XGBoost,rotation,Rotation,102,2024-11-24,279,28732,923
+xgboost,XGBoost,rotation,Rotation,103,2024-12-08,283,29015,925
+xgboost,XGBoost,rotation,Rotation,104,2024-12-22,283,29298,925
+xgboost,XGBoost,rotation,Rotation,105,2025-01-05,284,29582,925
+xgboost,XGBoost,rotation,Rotation,106,2025-01-19,284,29866,925
+xgboost,XGBoost,rotation,Rotation,107,2025-02-02,284,30150,925
+xgboost,XGBoost,rotation,Rotation,108,2025-02-16,284,30434,926
+xgboost,XGBoost,rotation,Rotation,109,2025-03-02,284,30718,926
+xgboost,XGBoost,rotation,Rotation,110,2025-03-16,284,31002,927
+xgboost,XGBoost,rotation,Rotation,111,2025-03-30,284,31286,929
+xgboost,XGBoost,rotation,Rotation,112,2025-04-13,284,31570,929
+xgboost,XGBoost,rotation,Rotation,113,2025-04-27,284,31854,929
+xgboost,XGBoost,rotation,Rotation,114,2025-05-11,283,32137,929
+xgboost,XGBoost,rotation,Rotation,115,2025-05-25,284,32421,929
+xgboost,XGBoost,rotation,Rotation,116,2025-06-08,283,32704,929
+xgboost,XGBoost,rotation,Rotation,117,2025-06-22,283,32987,929
+xgboost,XGBoost,rotation,Rotation,118,2025-07-06,282,33269,930
+xgboost,XGBoost,rotation,Rotation,119,2025-07-20,281,33550,930
+xgboost,XGBoost,rotation,Rotation,120,2025-08-03,279,33829,930
+xgboost,XGBoost,rotation,Rotation,121,2025-08-17,279,34108,931
+xgboost,XGBoost,rotation,Rotation,122,2025-08-31,278,34386,934
+xgboost,XGBoost,rotation,Rotation,123,2025-09-14,277,34663,934
+xgboost,XGBoost,rotation,Rotation,124,2025-09-28,277,34940,934
+xgboost,XGBoost,rotation,Rotation,125,2025-10-12,277,35217,935
+xgboost,XGBoost,rotation,Rotation,126,2025-10-26,279,35496,936
+xgboost,XGBoost,rotation,Rotation,127,2025-11-09,281,35777,937
+xgboost,XGBoost,rotation,Rotation,128,2025-11-23,284,36061,937
+xgboost,XGBoost,rotation,Rotation,129,2025-12-07,285,36346,937
+xgboost,XGBoost,rotation,Rotation,130,2025-12-21,285,36631,937
+elastic_net,Elastic Net,original,Original,1,2021-01-10,285,285,285
+elastic_net,Elastic Net,original,Original,2,2021-01-24,285,570,297
+elastic_net,Elastic Net,original,Original,3,2021-02-07,284,854,310
+elastic_net,Elastic Net,original,Original,4,2021-02-21,284,1138,336
+elastic_net,Elastic Net,original,Original,5,2021-03-07,284,1422,348
+elastic_net,Elastic Net,original,Original,6,2021-03-21,284,1706,384
+elastic_net,Elastic Net,original,Original,7,2021-04-04,284,1990,408
+elastic_net,Elastic Net,original,Original,8,2021-04-18,284,2274,416
+elastic_net,Elastic Net,original,Original,9,2021-05-02,284,2558,432
+elastic_net,Elastic Net,original,Original,10,2021-05-16,284,2842,433
+elastic_net,Elastic Net,original,Original,11,2021-05-30,284,3126,440
+elastic_net,Elastic Net,original,Original,12,2021-06-13,283,3409,450
+elastic_net,Elastic Net,original,Original,13,2021-06-27,283,3692,456
+elastic_net,Elastic Net,original,Original,14,2021-07-11,282,3974,467
+elastic_net,Elastic Net,original,Original,15,2021-07-25,282,4256,474
+elastic_net,Elastic Net,original,Original,16,2021-08-08,282,4538,480
+elastic_net,Elastic Net,original,Original,17,2021-08-22,282,4820,484
+elastic_net,Elastic Net,original,Original,18,2021-09-05,282,5102,488
+elastic_net,Elastic Net,original,Original,19,2021-09-19,282,5384,489
+elastic_net,Elastic Net,original,Original,20,2021-10-03,283,5667,490
+elastic_net,Elastic Net,original,Original,21,2021-10-17,283,5950,490
+elastic_net,Elastic Net,original,Original,22,2021-10-31,284,6234,492
+elastic_net,Elastic Net,original,Original,23,2021-11-14,284,6518,496
+elastic_net,Elastic Net,original,Original,24,2021-11-28,284,6802,496
+elastic_net,Elastic Net,original,Original,25,2021-12-12,284,7086,496
+elastic_net,Elastic Net,original,Original,26,2021-12-26,284,7370,496
+elastic_net,Elastic Net,original,Original,27,2022-01-09,284,7654,503
+elastic_net,Elastic Net,original,Original,28,2022-01-23,284,7938,507
+elastic_net,Elastic Net,original,Original,29,2022-02-06,284,8222,509
+elastic_net,Elastic Net,original,Original,30,2022-02-20,284,8506,511
+elastic_net,Elastic Net,original,Original,31,2022-03-06,284,8790,515
+elastic_net,Elastic Net,original,Original,32,2022-03-20,284,9074,517
+elastic_net,Elastic Net,original,Original,33,2022-04-03,284,9358,522
+elastic_net,Elastic Net,original,Original,34,2022-04-17,284,9642,530
+elastic_net,Elastic Net,original,Original,35,2022-05-01,284,9926,532
+elastic_net,Elastic Net,original,Original,36,2022-05-15,284,10210,536
+elastic_net,Elastic Net,original,Original,37,2022-05-29,284,10494,539
+elastic_net,Elastic Net,original,Original,38,2022-06-12,284,10778,542
+elastic_net,Elastic Net,original,Original,39,2022-06-26,283,11061,543
+elastic_net,Elastic Net,original,Original,40,2022-07-10,283,11344,543
+elastic_net,Elastic Net,original,Original,41,2022-07-24,283,11627,543
+elastic_net,Elastic Net,original,Original,42,2022-08-07,283,11910,544
+elastic_net,Elastic Net,original,Original,43,2022-08-21,283,12193,545
+elastic_net,Elastic Net,original,Original,44,2022-09-04,283,12476,546
+elastic_net,Elastic Net,original,Original,45,2022-09-18,283,12759,546
+elastic_net,Elastic Net,original,Original,46,2022-10-02,283,13042,546
+elastic_net,Elastic Net,original,Original,47,2022-10-16,283,13325,547
+elastic_net,Elastic Net,original,Original,48,2022-10-30,284,13609,547
+elastic_net,Elastic Net,original,Original,49,2022-11-13,284,13893,547
+elastic_net,Elastic Net,original,Original,50,2022-11-27,284,14177,547
+elastic_net,Elastic Net,original,Original,51,2022-12-11,284,14461,549
+elastic_net,Elastic Net,original,Original,52,2022-12-25,285,14746,552
+elastic_net,Elastic Net,original,Original,53,2023-01-08,285,15031,552
+elastic_net,Elastic Net,original,Original,54,2023-01-22,284,15315,552
+elastic_net,Elastic Net,original,Original,55,2023-02-05,284,15599,552
+elastic_net,Elastic Net,original,Original,56,2023-02-19,284,15883,552
+elastic_net,Elastic Net,original,Original,57,2023-03-05,284,16167,553
+elastic_net,Elastic Net,original,Original,58,2023-03-19,283,16450,554
+elastic_net,Elastic Net,original,Original,59,2023-04-02,283,16733,554
+elastic_net,Elastic Net,original,Original,60,2023-04-16,283,17016,554
+elastic_net,Elastic Net,original,Original,61,2023-04-30,284,17300,554
+elastic_net,Elastic Net,original,Original,62,2023-05-14,283,17583,555
+elastic_net,Elastic Net,original,Original,63,2023-05-28,282,17865,558
+elastic_net,Elastic Net,original,Original,64,2023-06-11,282,18147,560
+elastic_net,Elastic Net,original,Original,65,2023-06-25,281,18428,561
+elastic_net,Elastic Net,original,Original,66,2023-07-09,280,18708,563
+elastic_net,Elastic Net,original,Original,67,2023-07-23,279,18987,564
+elastic_net,Elastic Net,original,Original,68,2023-08-06,278,19265,566
+elastic_net,Elastic Net,original,Original,69,2023-08-20,276,19541,574
+elastic_net,Elastic Net,original,Original,70,2023-09-03,275,19816,576
+elastic_net,Elastic Net,original,Original,71,2023-09-17,274,20090,579
+elastic_net,Elastic Net,original,Original,72,2023-10-01,273,20363,581
+elastic_net,Elastic Net,original,Original,73,2023-10-15,274,20637,583
+elastic_net,Elastic Net,original,Original,74,2023-10-29,276,20913,583
+elastic_net,Elastic Net,original,Original,75,2023-11-12,278,21191,583
+elastic_net,Elastic Net,original,Original,76,2023-11-26,282,21473,583
+elastic_net,Elastic Net,original,Original,77,2023-12-10,284,21757,584
+elastic_net,Elastic Net,original,Original,78,2023-12-24,284,22041,584
+elastic_net,Elastic Net,original,Original,79,2024-01-07,284,22325,584
+elastic_net,Elastic Net,original,Original,80,2024-01-21,284,22609,584
+elastic_net,Elastic Net,original,Original,81,2024-02-04,284,22893,584
+elastic_net,Elastic Net,original,Original,82,2024-02-18,284,23177,585
+elastic_net,Elastic Net,original,Original,83,2024-03-03,284,23461,587
+elastic_net,Elastic Net,original,Original,84,2024-03-17,284,23745,588
+elastic_net,Elastic Net,original,Original,85,2024-03-31,283,24028,589
+elastic_net,Elastic Net,original,Original,86,2024-04-14,283,24311,590
+elastic_net,Elastic Net,original,Original,87,2024-04-28,283,24594,591
+elastic_net,Elastic Net,original,Original,88,2024-05-12,282,24876,593
+elastic_net,Elastic Net,original,Original,89,2024-05-26,282,25158,593
+elastic_net,Elastic Net,original,Original,90,2024-06-09,281,25439,594
+elastic_net,Elastic Net,original,Original,91,2024-06-23,280,25719,594
+elastic_net,Elastic Net,original,Original,92,2024-07-07,278,25997,598
+elastic_net,Elastic Net,original,Original,93,2024-07-21,276,26273,601
+elastic_net,Elastic Net,original,Original,94,2024-08-04,275,26548,602
+elastic_net,Elastic Net,original,Original,95,2024-08-18,274,26822,602
+elastic_net,Elastic Net,original,Original,96,2024-09-01,272,27094,603
+elastic_net,Elastic Net,original,Original,97,2024-09-15,272,27366,604
+elastic_net,Elastic Net,original,Original,98,2024-09-29,270,27636,607
+elastic_net,Elastic Net,original,Original,99,2024-10-13,270,27906,611
+elastic_net,Elastic Net,original,Original,100,2024-10-27,273,28179,611
+elastic_net,Elastic Net,original,Original,101,2024-11-10,274,28453,611
+elastic_net,Elastic Net,original,Original,102,2024-11-24,279,28732,613
+elastic_net,Elastic Net,original,Original,103,2024-12-08,283,29015,613
+elastic_net,Elastic Net,original,Original,104,2024-12-22,283,29298,613
+elastic_net,Elastic Net,original,Original,105,2025-01-05,284,29582,613
+elastic_net,Elastic Net,original,Original,106,2025-01-19,284,29866,613
+elastic_net,Elastic Net,original,Original,107,2025-02-02,284,30150,613
+elastic_net,Elastic Net,original,Original,108,2025-02-16,284,30434,613
+elastic_net,Elastic Net,original,Original,109,2025-03-02,284,30718,614
+elastic_net,Elastic Net,original,Original,110,2025-03-16,284,31002,614
+elastic_net,Elastic Net,original,Original,111,2025-03-30,284,31286,614
+elastic_net,Elastic Net,original,Original,112,2025-04-13,284,31570,615
+elastic_net,Elastic Net,original,Original,113,2025-04-27,284,31854,615
+elastic_net,Elastic Net,original,Original,114,2025-05-11,283,32137,615
+elastic_net,Elastic Net,original,Original,115,2025-05-25,284,32421,615
+elastic_net,Elastic Net,original,Original,116,2025-06-08,283,32704,615
+elastic_net,Elastic Net,original,Original,117,2025-06-22,283,32987,615
+elastic_net,Elastic Net,original,Original,118,2025-07-06,282,33269,615
+elastic_net,Elastic Net,original,Original,119,2025-07-20,281,33550,616
+elastic_net,Elastic Net,original,Original,120,2025-08-03,279,33829,616
+elastic_net,Elastic Net,original,Original,121,2025-08-17,279,34108,616
+elastic_net,Elastic Net,original,Original,122,2025-08-31,278,34386,616
+elastic_net,Elastic Net,original,Original,123,2025-09-14,277,34663,618
+elastic_net,Elastic Net,original,Original,124,2025-09-28,277,34940,618
+elastic_net,Elastic Net,original,Original,125,2025-10-12,277,35217,618
+elastic_net,Elastic Net,original,Original,126,2025-10-26,279,35496,618
+elastic_net,Elastic Net,original,Original,127,2025-11-09,281,35777,619
+elastic_net,Elastic Net,original,Original,128,2025-11-23,284,36061,619
+elastic_net,Elastic Net,original,Original,129,2025-12-07,285,36346,620
+elastic_net,Elastic Net,original,Original,130,2025-12-21,285,36631,620
+elastic_net,Elastic Net,rotation,Rotation,1,2021-01-10,285,285,285
+elastic_net,Elastic Net,rotation,Rotation,2,2021-01-24,285,570,570
+elastic_net,Elastic Net,rotation,Rotation,3,2021-02-07,284,854,578
+elastic_net,Elastic Net,rotation,Rotation,4,2021-02-21,284,1138,678
+elastic_net,Elastic Net,rotation,Rotation,5,2021-03-07,284,1422,681
+elastic_net,Elastic Net,rotation,Rotation,6,2021-03-21,284,1706,789
+elastic_net,Elastic Net,rotation,Rotation,7,2021-04-04,284,1990,802
+elastic_net,Elastic Net,rotation,Rotation,8,2021-04-18,284,2274,836
+elastic_net,Elastic Net,rotation,Rotation,9,2021-05-02,284,2558,837
+elastic_net,Elastic Net,rotation,Rotation,10,2021-05-16,284,2842,852
+elastic_net,Elastic Net,rotation,Rotation,11,2021-05-30,284,3126,854
+elastic_net,Elastic Net,rotation,Rotation,12,2021-06-13,283,3409,873
+elastic_net,Elastic Net,rotation,Rotation,13,2021-06-27,283,3692,875
+elastic_net,Elastic Net,rotation,Rotation,14,2021-07-11,282,3974,885
+elastic_net,Elastic Net,rotation,Rotation,15,2021-07-25,282,4256,886
+elastic_net,Elastic Net,rotation,Rotation,16,2021-08-08,282,4538,889
+elastic_net,Elastic Net,rotation,Rotation,17,2021-08-22,282,4820,890
+elastic_net,Elastic Net,rotation,Rotation,18,2021-09-05,282,5102,893
+elastic_net,Elastic Net,rotation,Rotation,19,2021-09-19,282,5384,895
+elastic_net,Elastic Net,rotation,Rotation,20,2021-10-03,283,5667,900
+elastic_net,Elastic Net,rotation,Rotation,21,2021-10-17,283,5950,901
+elastic_net,Elastic Net,rotation,Rotation,22,2021-10-31,284,6234,903
+elastic_net,Elastic Net,rotation,Rotation,23,2021-11-14,284,6518,903
+elastic_net,Elastic Net,rotation,Rotation,24,2021-11-28,284,6802,907
+elastic_net,Elastic Net,rotation,Rotation,25,2021-12-12,284,7086,909
+elastic_net,Elastic Net,rotation,Rotation,26,2021-12-26,284,7370,910
+elastic_net,Elastic Net,rotation,Rotation,27,2022-01-09,284,7654,918
+elastic_net,Elastic Net,rotation,Rotation,28,2022-01-23,284,7938,924
+elastic_net,Elastic Net,rotation,Rotation,29,2022-02-06,284,8222,925
+elastic_net,Elastic Net,rotation,Rotation,30,2022-02-20,284,8506,926
+elastic_net,Elastic Net,rotation,Rotation,31,2022-03-06,284,8790,929
+elastic_net,Elastic Net,rotation,Rotation,32,2022-03-20,284,9074,941
+elastic_net,Elastic Net,rotation,Rotation,33,2022-04-03,284,9358,942
+elastic_net,Elastic Net,rotation,Rotation,34,2022-04-17,284,9642,956
+elastic_net,Elastic Net,rotation,Rotation,35,2022-05-01,284,9926,958
+elastic_net,Elastic Net,rotation,Rotation,36,2022-05-15,284,10210,959
+elastic_net,Elastic Net,rotation,Rotation,37,2022-05-29,284,10494,960
+elastic_net,Elastic Net,rotation,Rotation,38,2022-06-12,284,10778,968
+elastic_net,Elastic Net,rotation,Rotation,39,2022-06-26,283,11061,968
+elastic_net,Elastic Net,rotation,Rotation,40,2022-07-10,283,11344,970
+elastic_net,Elastic Net,rotation,Rotation,41,2022-07-24,283,11627,970
+elastic_net,Elastic Net,rotation,Rotation,42,2022-08-07,283,11910,971
+elastic_net,Elastic Net,rotation,Rotation,43,2022-08-21,283,12193,971
+elastic_net,Elastic Net,rotation,Rotation,44,2022-09-04,283,12476,971
+elastic_net,Elastic Net,rotation,Rotation,45,2022-09-18,283,12759,971
+elastic_net,Elastic Net,rotation,Rotation,46,2022-10-02,283,13042,971
+elastic_net,Elastic Net,rotation,Rotation,47,2022-10-16,283,13325,971
+elastic_net,Elastic Net,rotation,Rotation,48,2022-10-30,284,13609,971
+elastic_net,Elastic Net,rotation,Rotation,49,2022-11-13,284,13893,971
+elastic_net,Elastic Net,rotation,Rotation,50,2022-11-27,284,14177,971
+elastic_net,Elastic Net,rotation,Rotation,51,2022-12-11,284,14461,972
+elastic_net,Elastic Net,rotation,Rotation,52,2022-12-25,285,14746,975
+elastic_net,Elastic Net,rotation,Rotation,53,2023-01-08,285,15031,976
+elastic_net,Elastic Net,rotation,Rotation,54,2023-01-22,284,15315,976
+elastic_net,Elastic Net,rotation,Rotation,55,2023-02-05,284,15599,976
+elastic_net,Elastic Net,rotation,Rotation,56,2023-02-19,284,15883,976
+elastic_net,Elastic Net,rotation,Rotation,57,2023-03-05,284,16167,976
+elastic_net,Elastic Net,rotation,Rotation,58,2023-03-19,283,16450,983
+elastic_net,Elastic Net,rotation,Rotation,59,2023-04-02,283,16733,983
+elastic_net,Elastic Net,rotation,Rotation,60,2023-04-16,283,17016,984
+elastic_net,Elastic Net,rotation,Rotation,61,2023-04-30,284,17300,984
+elastic_net,Elastic Net,rotation,Rotation,62,2023-05-14,283,17583,985
+elastic_net,Elastic Net,rotation,Rotation,63,2023-05-28,282,17865,986
+elastic_net,Elastic Net,rotation,Rotation,64,2023-06-11,282,18147,986
+elastic_net,Elastic Net,rotation,Rotation,65,2023-06-25,281,18428,986
+elastic_net,Elastic Net,rotation,Rotation,66,2023-07-09,280,18708,989
+elastic_net,Elastic Net,rotation,Rotation,67,2023-07-23,279,18987,989
+elastic_net,Elastic Net,rotation,Rotation,68,2023-08-06,278,19265,991
+elastic_net,Elastic Net,rotation,Rotation,69,2023-08-20,276,19541,991
+elastic_net,Elastic Net,rotation,Rotation,70,2023-09-03,275,19816,992
+elastic_net,Elastic Net,rotation,Rotation,71,2023-09-17,274,20090,994
+elastic_net,Elastic Net,rotation,Rotation,72,2023-10-01,273,20363,997
+elastic_net,Elastic Net,rotation,Rotation,73,2023-10-15,274,20637,997
+elastic_net,Elastic Net,rotation,Rotation,74,2023-10-29,276,20913,1001
+elastic_net,Elastic Net,rotation,Rotation,75,2023-11-12,278,21191,1001
+elastic_net,Elastic Net,rotation,Rotation,76,2023-11-26,282,21473,1001
+elastic_net,Elastic Net,rotation,Rotation,77,2023-12-10,284,21757,1001
+elastic_net,Elastic Net,rotation,Rotation,78,2023-12-24,284,22041,1002
+elastic_net,Elastic Net,rotation,Rotation,79,2024-01-07,284,22325,1003
+elastic_net,Elastic Net,rotation,Rotation,80,2024-01-21,284,22609,1003
+elastic_net,Elastic Net,rotation,Rotation,81,2024-02-04,284,22893,1003
+elastic_net,Elastic Net,rotation,Rotation,82,2024-02-18,284,23177,1003
+elastic_net,Elastic Net,rotation,Rotation,83,2024-03-03,284,23461,1004
+elastic_net,Elastic Net,rotation,Rotation,84,2024-03-17,284,23745,1008
+elastic_net,Elastic Net,rotation,Rotation,85,2024-03-31,283,24028,1010
+elastic_net,Elastic Net,rotation,Rotation,86,2024-04-14,283,24311,1017
+elastic_net,Elastic Net,rotation,Rotation,87,2024-04-28,283,24594,1020
+elastic_net,Elastic Net,rotation,Rotation,88,2024-05-12,282,24876,1020
+elastic_net,Elastic Net,rotation,Rotation,89,2024-05-26,282,25158,1021
+elastic_net,Elastic Net,rotation,Rotation,90,2024-06-09,281,25439,1021
+elastic_net,Elastic Net,rotation,Rotation,91,2024-06-23,280,25719,1023
+elastic_net,Elastic Net,rotation,Rotation,92,2024-07-07,278,25997,1023
+elastic_net,Elastic Net,rotation,Rotation,93,2024-07-21,276,26273,1023
+elastic_net,Elastic Net,rotation,Rotation,94,2024-08-04,275,26548,1023
+elastic_net,Elastic Net,rotation,Rotation,95,2024-08-18,274,26822,1024
+elastic_net,Elastic Net,rotation,Rotation,96,2024-09-01,272,27094,1026
+elastic_net,Elastic Net,rotation,Rotation,97,2024-09-15,272,27366,1029
+elastic_net,Elastic Net,rotation,Rotation,98,2024-09-29,270,27636,1031
+elastic_net,Elastic Net,rotation,Rotation,99,2024-10-13,270,27906,1032
+elastic_net,Elastic Net,rotation,Rotation,100,2024-10-27,273,28179,1033
+elastic_net,Elastic Net,rotation,Rotation,101,2024-11-10,274,28453,1033
+elastic_net,Elastic Net,rotation,Rotation,102,2024-11-24,279,28732,1034
+elastic_net,Elastic Net,rotation,Rotation,103,2024-12-08,283,29015,1034
+elastic_net,Elastic Net,rotation,Rotation,104,2024-12-22,283,29298,1034
+elastic_net,Elastic Net,rotation,Rotation,105,2025-01-05,284,29582,1034
+elastic_net,Elastic Net,rotation,Rotation,106,2025-01-19,284,29866,1035
+elastic_net,Elastic Net,rotation,Rotation,107,2025-02-02,284,30150,1035
+elastic_net,Elastic Net,rotation,Rotation,108,2025-02-16,284,30434,1035
+elastic_net,Elastic Net,rotation,Rotation,109,2025-03-02,284,30718,1036
+elastic_net,Elastic Net,rotation,Rotation,110,2025-03-16,284,31002,1039
+elastic_net,Elastic Net,rotation,Rotation,111,2025-03-30,284,31286,1044
+elastic_net,Elastic Net,rotation,Rotation,112,2025-04-13,284,31570,1049
+elastic_net,Elastic Net,rotation,Rotation,113,2025-04-27,284,31854,1049
+elastic_net,Elastic Net,rotation,Rotation,114,2025-05-11,283,32137,1050
+elastic_net,Elastic Net,rotation,Rotation,115,2025-05-25,284,32421,1050
+elastic_net,Elastic Net,rotation,Rotation,116,2025-06-08,283,32704,1050
+elastic_net,Elastic Net,rotation,Rotation,117,2025-06-22,283,32987,1050
+elastic_net,Elastic Net,rotation,Rotation,118,2025-07-06,282,33269,1051
+elastic_net,Elastic Net,rotation,Rotation,119,2025-07-20,281,33550,1051
+elastic_net,Elastic Net,rotation,Rotation,120,2025-08-03,279,33829,1052
+elastic_net,Elastic Net,rotation,Rotation,121,2025-08-17,279,34108,1052
+elastic_net,Elastic Net,rotation,Rotation,122,2025-08-31,278,34386,1054
+elastic_net,Elastic Net,rotation,Rotation,123,2025-09-14,277,34663,1055
+elastic_net,Elastic Net,rotation,Rotation,124,2025-09-28,277,34940,1055
+elastic_net,Elastic Net,rotation,Rotation,125,2025-10-12,277,35217,1055
+elastic_net,Elastic Net,rotation,Rotation,126,2025-10-26,279,35496,1055
+elastic_net,Elastic Net,rotation,Rotation,127,2025-11-09,281,35777,1058
+elastic_net,Elastic Net,rotation,Rotation,128,2025-11-23,284,36061,1058
+elastic_net,Elastic Net,rotation,Rotation,129,2025-12-07,285,36346,1058
+elastic_net,Elastic Net,rotation,Rotation,130,2025-12-21,285,36631,1058
+single_window,Single-window,original,Original,1,2021-01-10,285,285,285
+single_window,Single-window,original,Original,2,2021-01-24,285,570,326
+single_window,Single-window,original,Original,3,2021-02-07,284,854,353
+single_window,Single-window,original,Original,4,2021-02-21,284,1138,382
+single_window,Single-window,original,Original,5,2021-03-07,284,1422,404
+single_window,Single-window,original,Original,6,2021-03-21,284,1706,433
+single_window,Single-window,original,Original,7,2021-04-04,284,1990,451
+single_window,Single-window,original,Original,8,2021-04-18,284,2274,471
+single_window,Single-window,original,Original,9,2021-05-02,284,2558,510
+single_window,Single-window,original,Original,10,2021-05-16,284,2842,540
+single_window,Single-window,original,Original,11,2021-05-30,284,3126,583
+single_window,Single-window,original,Original,12,2021-06-13,283,3409,616
+single_window,Single-window,original,Original,13,2021-06-27,283,3692,648
+single_window,Single-window,original,Original,14,2021-07-11,282,3974,685
+single_window,Single-window,original,Original,15,2021-07-25,282,4256,709
+single_window,Single-window,original,Original,16,2021-08-08,282,4538,734
+single_window,Single-window,original,Original,17,2021-08-22,282,4820,754
+single_window,Single-window,original,Original,18,2021-09-05,282,5102,761
+single_window,Single-window,original,Original,19,2021-09-19,282,5384,766
+single_window,Single-window,original,Original,20,2021-10-03,283,5667,771
+single_window,Single-window,original,Original,21,2021-10-17,283,5950,776
+single_window,Single-window,original,Original,22,2021-10-31,284,6234,778
+single_window,Single-window,original,Original,23,2021-11-14,284,6518,779
+single_window,Single-window,original,Original,24,2021-11-28,284,6802,780
+single_window,Single-window,original,Original,25,2021-12-12,284,7086,783
+single_window,Single-window,original,Original,26,2021-12-26,284,7370,784
+single_window,Single-window,original,Original,27,2022-01-09,284,7654,784
+single_window,Single-window,original,Original,28,2022-01-23,284,7938,786
+single_window,Single-window,original,Original,29,2022-02-06,284,8222,793
+single_window,Single-window,original,Original,30,2022-02-20,284,8506,800
+single_window,Single-window,original,Original,31,2022-03-06,284,8790,814
+single_window,Single-window,original,Original,32,2022-03-20,284,9074,816
+single_window,Single-window,original,Original,33,2022-04-03,284,9358,817
+single_window,Single-window,original,Original,34,2022-04-17,284,9642,822
+single_window,Single-window,original,Original,35,2022-05-01,284,9926,823
+single_window,Single-window,original,Original,36,2022-05-15,284,10210,828
+single_window,Single-window,original,Original,37,2022-05-29,284,10494,843
+single_window,Single-window,original,Original,38,2022-06-12,284,10778,858
+single_window,Single-window,original,Original,39,2022-06-26,283,11061,865
+single_window,Single-window,original,Original,40,2022-07-10,283,11344,877
+single_window,Single-window,original,Original,41,2022-07-24,283,11627,886
+single_window,Single-window,original,Original,42,2022-08-07,283,11910,898
+single_window,Single-window,original,Original,43,2022-08-21,283,12193,903
+single_window,Single-window,original,Original,44,2022-09-04,283,12476,909
+single_window,Single-window,original,Original,45,2022-09-18,283,12759,913
+single_window,Single-window,original,Original,46,2022-10-02,283,13042,915
+single_window,Single-window,original,Original,47,2022-10-16,283,13325,916
+single_window,Single-window,original,Original,48,2022-10-30,284,13609,917
+single_window,Single-window,original,Original,49,2022-11-13,284,13893,917
+single_window,Single-window,original,Original,50,2022-11-27,284,14177,918
+single_window,Single-window,original,Original,51,2022-12-11,284,14461,918
+single_window,Single-window,original,Original,52,2022-12-25,285,14746,918
+single_window,Single-window,original,Original,53,2023-01-08,285,15031,918
+single_window,Single-window,original,Original,54,2023-01-22,284,15315,919
+single_window,Single-window,original,Original,55,2023-02-05,284,15599,920
+single_window,Single-window,original,Original,56,2023-02-19,284,15883,922
+single_window,Single-window,original,Original,57,2023-03-05,284,16167,924
+single_window,Single-window,original,Original,58,2023-03-19,283,16450,926
+single_window,Single-window,original,Original,59,2023-04-02,283,16733,926
+single_window,Single-window,original,Original,60,2023-04-16,283,17016,929
+single_window,Single-window,original,Original,61,2023-04-30,284,17300,931
+single_window,Single-window,original,Original,62,2023-05-14,283,17583,935
+single_window,Single-window,original,Original,63,2023-05-28,282,17865,941
+single_window,Single-window,original,Original,64,2023-06-11,282,18147,959
+single_window,Single-window,original,Original,65,2023-06-25,281,18428,974
+single_window,Single-window,original,Original,66,2023-07-09,280,18708,983
+single_window,Single-window,original,Original,67,2023-07-23,279,18987,985
+single_window,Single-window,original,Original,68,2023-08-06,278,19265,993
+single_window,Single-window,original,Original,69,2023-08-20,276,19541,1004
+single_window,Single-window,original,Original,70,2023-09-03,275,19816,1008
+single_window,Single-window,original,Original,71,2023-09-17,274,20090,1014
+single_window,Single-window,original,Original,72,2023-10-01,273,20363,1020
+single_window,Single-window,original,Original,73,2023-10-15,274,20637,1021
+single_window,Single-window,original,Original,74,2023-10-29,276,20913,1023
+single_window,Single-window,original,Original,75,2023-11-12,278,21191,1024
+single_window,Single-window,original,Original,76,2023-11-26,282,21473,1024
+single_window,Single-window,original,Original,77,2023-12-10,284,21757,1025
+single_window,Single-window,original,Original,78,2023-12-24,284,22041,1026
+single_window,Single-window,original,Original,79,2024-01-07,284,22325,1026
+single_window,Single-window,original,Original,80,2024-01-21,284,22609,1026
+single_window,Single-window,original,Original,81,2024-02-04,284,22893,1028
+single_window,Single-window,original,Original,82,2024-02-18,284,23177,1030
+single_window,Single-window,original,Original,83,2024-03-03,284,23461,1031
+single_window,Single-window,original,Original,84,2024-03-17,284,23745,1031
+single_window,Single-window,original,Original,85,2024-03-31,283,24028,1031
+single_window,Single-window,original,Original,86,2024-04-14,283,24311,1031
+single_window,Single-window,original,Original,87,2024-04-28,283,24594,1031
+single_window,Single-window,original,Original,88,2024-05-12,282,24876,1037
+single_window,Single-window,original,Original,89,2024-05-26,282,25158,1042
+single_window,Single-window,original,Original,90,2024-06-09,281,25439,1049
+single_window,Single-window,original,Original,91,2024-06-23,280,25719,1060
+single_window,Single-window,original,Original,92,2024-07-07,278,25997,1066
+single_window,Single-window,original,Original,93,2024-07-21,276,26273,1071
+single_window,Single-window,original,Original,94,2024-08-04,275,26548,1075
+single_window,Single-window,original,Original,95,2024-08-18,274,26822,1082
+single_window,Single-window,original,Original,96,2024-09-01,272,27094,1090
+single_window,Single-window,original,Original,97,2024-09-15,272,27366,1096
+single_window,Single-window,original,Original,98,2024-09-29,270,27636,1103
+single_window,Single-window,original,Original,99,2024-10-13,270,27906,1106
+single_window,Single-window,original,Original,100,2024-10-27,273,28179,1108
+single_window,Single-window,original,Original,101,2024-11-10,274,28453,1111
+single_window,Single-window,original,Original,102,2024-11-24,279,28732,1113
+single_window,Single-window,original,Original,103,2024-12-08,283,29015,1116
+single_window,Single-window,original,Original,104,2024-12-22,283,29298,1116
+single_window,Single-window,original,Original,105,2025-01-05,284,29582,1116
+single_window,Single-window,original,Original,106,2025-01-19,284,29866,1116
+single_window,Single-window,original,Original,107,2025-02-02,284,30150,1117
+single_window,Single-window,original,Original,108,2025-02-16,284,30434,1118
+single_window,Single-window,original,Original,109,2025-03-02,284,30718,1118
+single_window,Single-window,original,Original,110,2025-03-16,284,31002,1118
+single_window,Single-window,original,Original,111,2025-03-30,284,31286,1119
+single_window,Single-window,original,Original,112,2025-04-13,284,31570,1119
+single_window,Single-window,original,Original,113,2025-04-27,284,31854,1119
+single_window,Single-window,original,Original,114,2025-05-11,283,32137,1119
+single_window,Single-window,original,Original,115,2025-05-25,284,32421,1120
+single_window,Single-window,original,Original,116,2025-06-08,283,32704,1121
+single_window,Single-window,original,Original,117,2025-06-22,283,32987,1123
+single_window,Single-window,original,Original,118,2025-07-06,282,33269,1127
+single_window,Single-window,original,Original,119,2025-07-20,281,33550,1133
+single_window,Single-window,original,Original,120,2025-08-03,279,33829,1137
+single_window,Single-window,original,Original,121,2025-08-17,279,34108,1138
+single_window,Single-window,original,Original,122,2025-08-31,278,34386,1141
+single_window,Single-window,original,Original,123,2025-09-14,277,34663,1141
+single_window,Single-window,original,Original,124,2025-09-28,277,34940,1144
+single_window,Single-window,original,Original,125,2025-10-12,277,35217,1145
+single_window,Single-window,original,Original,126,2025-10-26,279,35496,1146
+single_window,Single-window,original,Original,127,2025-11-09,281,35777,1148
+single_window,Single-window,original,Original,128,2025-11-23,284,36061,1148
+single_window,Single-window,original,Original,129,2025-12-07,285,36346,1148
+single_window,Single-window,original,Original,130,2025-12-21,285,36631,1148
+single_window,Single-window,rotation,Rotation,1,2021-01-10,285,285,285
+single_window,Single-window,rotation,Rotation,2,2021-01-24,285,570,570
+single_window,Single-window,rotation,Rotation,3,2021-02-07,284,854,584
+single_window,Single-window,rotation,Rotation,4,2021-02-21,284,1138,680
+single_window,Single-window,rotation,Rotation,5,2021-03-07,284,1422,702
+single_window,Single-window,rotation,Rotation,6,2021-03-21,284,1706,761
+single_window,Single-window,rotation,Rotation,7,2021-04-04,284,1990,776
+single_window,Single-window,rotation,Rotation,8,2021-04-18,284,2274,800
+single_window,Single-window,rotation,Rotation,9,2021-05-02,284,2558,806
+single_window,Single-window,rotation,Rotation,10,2021-05-16,284,2842,837
+single_window,Single-window,rotation,Rotation,11,2021-05-30,284,3126,860
+single_window,Single-window,rotation,Rotation,12,2021-06-13,283,3409,887
+single_window,Single-window,rotation,Rotation,13,2021-06-27,283,3692,918
+single_window,Single-window,rotation,Rotation,14,2021-07-11,282,3974,961
+single_window,Single-window,rotation,Rotation,15,2021-07-25,282,4256,973
+single_window,Single-window,rotation,Rotation,16,2021-08-08,282,4538,998
+single_window,Single-window,rotation,Rotation,17,2021-08-22,282,4820,1012
+single_window,Single-window,rotation,Rotation,18,2021-09-05,282,5102,1018
+single_window,Single-window,rotation,Rotation,19,2021-09-19,282,5384,1023
+single_window,Single-window,rotation,Rotation,20,2021-10-03,283,5667,1029
+single_window,Single-window,rotation,Rotation,21,2021-10-17,283,5950,1034
+single_window,Single-window,rotation,Rotation,22,2021-10-31,284,6234,1038
+single_window,Single-window,rotation,Rotation,23,2021-11-14,284,6518,1042
+single_window,Single-window,rotation,Rotation,24,2021-11-28,284,6802,1043
+single_window,Single-window,rotation,Rotation,25,2021-12-12,284,7086,1046
+single_window,Single-window,rotation,Rotation,26,2021-12-26,284,7370,1048
+single_window,Single-window,rotation,Rotation,27,2022-01-09,284,7654,1049
+single_window,Single-window,rotation,Rotation,28,2022-01-23,284,7938,1052
+single_window,Single-window,rotation,Rotation,29,2022-02-06,284,8222,1057
+single_window,Single-window,rotation,Rotation,30,2022-02-20,284,8506,1063
+single_window,Single-window,rotation,Rotation,31,2022-03-06,284,8790,1075
+single_window,Single-window,rotation,Rotation,32,2022-03-20,284,9074,1080
+single_window,Single-window,rotation,Rotation,33,2022-04-03,284,9358,1083
+single_window,Single-window,rotation,Rotation,34,2022-04-17,284,9642,1085
+single_window,Single-window,rotation,Rotation,35,2022-05-01,284,9926,1091
+single_window,Single-window,rotation,Rotation,36,2022-05-15,284,10210,1096
+single_window,Single-window,rotation,Rotation,37,2022-05-29,284,10494,1102
+single_window,Single-window,rotation,Rotation,38,2022-06-12,284,10778,1108
+single_window,Single-window,rotation,Rotation,39,2022-06-26,283,11061,1113
+single_window,Single-window,rotation,Rotation,40,2022-07-10,283,11344,1133
+single_window,Single-window,rotation,Rotation,41,2022-07-24,283,11627,1148
+single_window,Single-window,rotation,Rotation,42,2022-08-07,283,11910,1159
+single_window,Single-window,rotation,Rotation,43,2022-08-21,283,12193,1163
+single_window,Single-window,rotation,Rotation,44,2022-09-04,283,12476,1166
+single_window,Single-window,rotation,Rotation,45,2022-09-18,283,12759,1170
+single_window,Single-window,rotation,Rotation,46,2022-10-02,283,13042,1171
+single_window,Single-window,rotation,Rotation,47,2022-10-16,283,13325,1173
+single_window,Single-window,rotation,Rotation,48,2022-10-30,284,13609,1175
+single_window,Single-window,rotation,Rotation,49,2022-11-13,284,13893,1176
+single_window,Single-window,rotation,Rotation,50,2022-11-27,284,14177,1178
+single_window,Single-window,rotation,Rotation,51,2022-12-11,284,14461,1178
+single_window,Single-window,rotation,Rotation,52,2022-12-25,285,14746,1181
+single_window,Single-window,rotation,Rotation,53,2023-01-08,285,15031,1182
+single_window,Single-window,rotation,Rotation,54,2023-01-22,284,15315,1187
+single_window,Single-window,rotation,Rotation,55,2023-02-05,284,15599,1188
+single_window,Single-window,rotation,Rotation,56,2023-02-19,284,15883,1190
+single_window,Single-window,rotation,Rotation,57,2023-03-05,284,16167,1192
+single_window,Single-window,rotation,Rotation,58,2023-03-19,283,16450,1195
+single_window,Single-window,rotation,Rotation,59,2023-04-02,283,16733,1196
+single_window,Single-window,rotation,Rotation,60,2023-04-16,283,17016,1200
+single_window,Single-window,rotation,Rotation,61,2023-04-30,284,17300,1201
+single_window,Single-window,rotation,Rotation,62,2023-05-14,283,17583,1205
+single_window,Single-window,rotation,Rotation,63,2023-05-28,282,17865,1210
+single_window,Single-window,rotation,Rotation,64,2023-06-11,282,18147,1231
+single_window,Single-window,rotation,Rotation,65,2023-06-25,281,18428,1239
+single_window,Single-window,rotation,Rotation,66,2023-07-09,280,18708,1245
+single_window,Single-window,rotation,Rotation,67,2023-07-23,279,18987,1253
+single_window,Single-window,rotation,Rotation,68,2023-08-06,278,19265,1264
+single_window,Single-window,rotation,Rotation,69,2023-08-20,276,19541,1273
+single_window,Single-window,rotation,Rotation,70,2023-09-03,275,19816,1277
+single_window,Single-window,rotation,Rotation,71,2023-09-17,274,20090,1280
+single_window,Single-window,rotation,Rotation,72,2023-10-01,273,20363,1284
+single_window,Single-window,rotation,Rotation,73,2023-10-15,274,20637,1288
+single_window,Single-window,rotation,Rotation,74,2023-10-29,276,20913,1290
+single_window,Single-window,rotation,Rotation,75,2023-11-12,278,21191,1291
+single_window,Single-window,rotation,Rotation,76,2023-11-26,282,21473,1292
+single_window,Single-window,rotation,Rotation,77,2023-12-10,284,21757,1293
+single_window,Single-window,rotation,Rotation,78,2023-12-24,284,22041,1293
+single_window,Single-window,rotation,Rotation,79,2024-01-07,284,22325,1293
+single_window,Single-window,rotation,Rotation,80,2024-01-21,284,22609,1293
+single_window,Single-window,rotation,Rotation,81,2024-02-04,284,22893,1294
+single_window,Single-window,rotation,Rotation,82,2024-02-18,284,23177,1294
+single_window,Single-window,rotation,Rotation,83,2024-03-03,284,23461,1295
+single_window,Single-window,rotation,Rotation,84,2024-03-17,284,23745,1295
+single_window,Single-window,rotation,Rotation,85,2024-03-31,283,24028,1295
+single_window,Single-window,rotation,Rotation,86,2024-04-14,283,24311,1295
+single_window,Single-window,rotation,Rotation,87,2024-04-28,283,24594,1295
+single_window,Single-window,rotation,Rotation,88,2024-05-12,282,24876,1298
+single_window,Single-window,rotation,Rotation,89,2024-05-26,282,25158,1302
+single_window,Single-window,rotation,Rotation,90,2024-06-09,281,25439,1312
+single_window,Single-window,rotation,Rotation,91,2024-06-23,280,25719,1323
+single_window,Single-window,rotation,Rotation,92,2024-07-07,278,25997,1341
+single_window,Single-window,rotation,Rotation,93,2024-07-21,276,26273,1347
+single_window,Single-window,rotation,Rotation,94,2024-08-04,275,26548,1352
+single_window,Single-window,rotation,Rotation,95,2024-08-18,274,26822,1358
+single_window,Single-window,rotation,Rotation,96,2024-09-01,272,27094,1367
+single_window,Single-window,rotation,Rotation,97,2024-09-15,272,27366,1372
+single_window,Single-window,rotation,Rotation,98,2024-09-29,270,27636,1376
+single_window,Single-window,rotation,Rotation,99,2024-10-13,270,27906,1379
+single_window,Single-window,rotation,Rotation,100,2024-10-27,273,28179,1383
+single_window,Single-window,rotation,Rotation,101,2024-11-10,274,28453,1386
+single_window,Single-window,rotation,Rotation,102,2024-11-24,279,28732,1386
+single_window,Single-window,rotation,Rotation,103,2024-12-08,283,29015,1388
+single_window,Single-window,rotation,Rotation,104,2024-12-22,283,29298,1388
+single_window,Single-window,rotation,Rotation,105,2025-01-05,284,29582,1389
+single_window,Single-window,rotation,Rotation,106,2025-01-19,284,29866,1391
+single_window,Single-window,rotation,Rotation,107,2025-02-02,284,30150,1393
+single_window,Single-window,rotation,Rotation,108,2025-02-16,284,30434,1393
+single_window,Single-window,rotation,Rotation,109,2025-03-02,284,30718,1393
+single_window,Single-window,rotation,Rotation,110,2025-03-16,284,31002,1393
+single_window,Single-window,rotation,Rotation,111,2025-03-30,284,31286,1394
+single_window,Single-window,rotation,Rotation,112,2025-04-13,284,31570,1394
+single_window,Single-window,rotation,Rotation,113,2025-04-27,284,31854,1394
+single_window,Single-window,rotation,Rotation,114,2025-05-11,283,32137,1395
+single_window,Single-window,rotation,Rotation,115,2025-05-25,284,32421,1397
+single_window,Single-window,rotation,Rotation,116,2025-06-08,283,32704,1402
+single_window,Single-window,rotation,Rotation,117,2025-06-22,283,32987,1404
+single_window,Single-window,rotation,Rotation,118,2025-07-06,282,33269,1409
+single_window,Single-window,rotation,Rotation,119,2025-07-20,281,33550,1409
+single_window,Single-window,rotation,Rotation,120,2025-08-03,279,33829,1413
+single_window,Single-window,rotation,Rotation,121,2025-08-17,279,34108,1415
+single_window,Single-window,rotation,Rotation,122,2025-08-31,278,34386,1416
+single_window,Single-window,rotation,Rotation,123,2025-09-14,277,34663,1417
+single_window,Single-window,rotation,Rotation,124,2025-09-28,277,34940,1423
+single_window,Single-window,rotation,Rotation,125,2025-10-12,277,35217,1428
+single_window,Single-window,rotation,Rotation,126,2025-10-26,279,35496,1428
+single_window,Single-window,rotation,Rotation,127,2025-11-09,281,35777,1429
+single_window,Single-window,rotation,Rotation,128,2025-11-23,284,36061,1429
+single_window,Single-window,rotation,Rotation,129,2025-12-07,285,36346,1429
+single_window,Single-window,rotation,Rotation,130,2025-12-21,285,36631,1429
+multi_window,Multi-window,original,Original,1,2021-01-10,285,285,285
+multi_window,Multi-window,original,Original,2,2021-01-24,285,570,321
+multi_window,Multi-window,original,Original,3,2021-02-07,284,854,339
+multi_window,Multi-window,original,Original,4,2021-02-21,284,1138,358
+multi_window,Multi-window,original,Original,5,2021-03-07,284,1422,373
+multi_window,Multi-window,original,Original,6,2021-03-21,284,1706,401
+multi_window,Multi-window,original,Original,7,2021-04-04,284,1990,425
+multi_window,Multi-window,original,Original,8,2021-04-18,284,2274,436
+multi_window,Multi-window,original,Original,9,2021-05-02,284,2558,460
+multi_window,Multi-window,original,Original,10,2021-05-16,284,2842,485
+multi_window,Multi-window,original,Original,11,2021-05-30,284,3126,519
+multi_window,Multi-window,original,Original,12,2021-06-13,283,3409,572
+multi_window,Multi-window,original,Original,13,2021-06-27,283,3692,590
+multi_window,Multi-window,original,Original,14,2021-07-11,282,3974,623
+multi_window,Multi-window,original,Original,15,2021-07-25,282,4256,644
+multi_window,Multi-window,original,Original,16,2021-08-08,282,4538,663
+multi_window,Multi-window,original,Original,17,2021-08-22,282,4820,674
+multi_window,Multi-window,original,Original,18,2021-09-05,282,5102,688
+multi_window,Multi-window,original,Original,19,2021-09-19,282,5384,689
+multi_window,Multi-window,original,Original,20,2021-10-03,283,5667,694
+multi_window,Multi-window,original,Original,21,2021-10-17,283,5950,699
+multi_window,Multi-window,original,Original,22,2021-10-31,284,6234,701
+multi_window,Multi-window,original,Original,23,2021-11-14,284,6518,701
+multi_window,Multi-window,original,Original,24,2021-11-28,284,6802,702
+multi_window,Multi-window,original,Original,25,2021-12-12,284,7086,702
+multi_window,Multi-window,original,Original,26,2021-12-26,284,7370,703
+multi_window,Multi-window,original,Original,27,2022-01-09,284,7654,703
+multi_window,Multi-window,original,Original,28,2022-01-23,284,7938,703
+multi_window,Multi-window,original,Original,29,2022-02-06,284,8222,703
+multi_window,Multi-window,original,Original,30,2022-02-20,284,8506,707
+multi_window,Multi-window,original,Original,31,2022-03-06,284,8790,710
+multi_window,Multi-window,original,Original,32,2022-03-20,284,9074,712
+multi_window,Multi-window,original,Original,33,2022-04-03,284,9358,712
+multi_window,Multi-window,original,Original,34,2022-04-17,284,9642,712
+multi_window,Multi-window,original,Original,35,2022-05-01,284,9926,716
+multi_window,Multi-window,original,Original,36,2022-05-15,284,10210,719
+multi_window,Multi-window,original,Original,37,2022-05-29,284,10494,734
+multi_window,Multi-window,original,Original,38,2022-06-12,284,10778,741
+multi_window,Multi-window,original,Original,39,2022-06-26,283,11061,759
+multi_window,Multi-window,original,Original,40,2022-07-10,283,11344,771
+multi_window,Multi-window,original,Original,41,2022-07-24,283,11627,779
+multi_window,Multi-window,original,Original,42,2022-08-07,283,11910,788
+multi_window,Multi-window,original,Original,43,2022-08-21,283,12193,789
+multi_window,Multi-window,original,Original,44,2022-09-04,283,12476,797
+multi_window,Multi-window,original,Original,45,2022-09-18,283,12759,799
+multi_window,Multi-window,original,Original,46,2022-10-02,283,13042,802
+multi_window,Multi-window,original,Original,47,2022-10-16,283,13325,803
+multi_window,Multi-window,original,Original,48,2022-10-30,284,13609,803
+multi_window,Multi-window,original,Original,49,2022-11-13,284,13893,803
+multi_window,Multi-window,original,Original,50,2022-11-27,284,14177,804
+multi_window,Multi-window,original,Original,51,2022-12-11,284,14461,806
+multi_window,Multi-window,original,Original,52,2022-12-25,285,14746,807
+multi_window,Multi-window,original,Original,53,2023-01-08,285,15031,809
+multi_window,Multi-window,original,Original,54,2023-01-22,284,15315,810
+multi_window,Multi-window,original,Original,55,2023-02-05,284,15599,814
+multi_window,Multi-window,original,Original,56,2023-02-19,284,15883,817
+multi_window,Multi-window,original,Original,57,2023-03-05,284,16167,822
+multi_window,Multi-window,original,Original,58,2023-03-19,283,16450,826
+multi_window,Multi-window,original,Original,59,2023-04-02,283,16733,827
+multi_window,Multi-window,original,Original,60,2023-04-16,283,17016,832
+multi_window,Multi-window,original,Original,61,2023-04-30,284,17300,833
+multi_window,Multi-window,original,Original,62,2023-05-14,283,17583,837
+multi_window,Multi-window,original,Original,63,2023-05-28,282,17865,851
+multi_window,Multi-window,original,Original,64,2023-06-11,282,18147,863
+multi_window,Multi-window,original,Original,65,2023-06-25,281,18428,882
+multi_window,Multi-window,original,Original,66,2023-07-09,280,18708,890
+multi_window,Multi-window,original,Original,67,2023-07-23,279,18987,892
+multi_window,Multi-window,original,Original,68,2023-08-06,278,19265,898
+multi_window,Multi-window,original,Original,69,2023-08-20,276,19541,905
+multi_window,Multi-window,original,Original,70,2023-09-03,275,19816,908
+multi_window,Multi-window,original,Original,71,2023-09-17,274,20090,910
+multi_window,Multi-window,original,Original,72,2023-10-01,273,20363,913
+multi_window,Multi-window,original,Original,73,2023-10-15,274,20637,924
+multi_window,Multi-window,original,Original,74,2023-10-29,276,20913,925
+multi_window,Multi-window,original,Original,75,2023-11-12,278,21191,926
+multi_window,Multi-window,original,Original,76,2023-11-26,282,21473,926
+multi_window,Multi-window,original,Original,77,2023-12-10,284,21757,927
+multi_window,Multi-window,original,Original,78,2023-12-24,284,22041,927
+multi_window,Multi-window,original,Original,79,2024-01-07,284,22325,927
+multi_window,Multi-window,original,Original,80,2024-01-21,284,22609,927
+multi_window,Multi-window,original,Original,81,2024-02-04,284,22893,929
+multi_window,Multi-window,original,Original,82,2024-02-18,284,23177,932
+multi_window,Multi-window,original,Original,83,2024-03-03,284,23461,932
+multi_window,Multi-window,original,Original,84,2024-03-17,284,23745,932
+multi_window,Multi-window,original,Original,85,2024-03-31,283,24028,932
+multi_window,Multi-window,original,Original,86,2024-04-14,283,24311,933
+multi_window,Multi-window,original,Original,87,2024-04-28,283,24594,934
+multi_window,Multi-window,original,Original,88,2024-05-12,282,24876,936
+multi_window,Multi-window,original,Original,89,2024-05-26,282,25158,942
+multi_window,Multi-window,original,Original,90,2024-06-09,281,25439,950
+multi_window,Multi-window,original,Original,91,2024-06-23,280,25719,963
+multi_window,Multi-window,original,Original,92,2024-07-07,278,25997,971
+multi_window,Multi-window,original,Original,93,2024-07-21,276,26273,975
+multi_window,Multi-window,original,Original,94,2024-08-04,275,26548,981
+multi_window,Multi-window,original,Original,95,2024-08-18,274,26822,988
+multi_window,Multi-window,original,Original,96,2024-09-01,272,27094,990
+multi_window,Multi-window,original,Original,97,2024-09-15,272,27366,992
+multi_window,Multi-window,original,Original,98,2024-09-29,270,27636,997
+multi_window,Multi-window,original,Original,99,2024-10-13,270,27906,999
+multi_window,Multi-window,original,Original,100,2024-10-27,273,28179,1001
+multi_window,Multi-window,original,Original,101,2024-11-10,274,28453,1001
+multi_window,Multi-window,original,Original,102,2024-11-24,279,28732,1002
+multi_window,Multi-window,original,Original,103,2024-12-08,283,29015,1003
+multi_window,Multi-window,original,Original,104,2024-12-22,283,29298,1003
+multi_window,Multi-window,original,Original,105,2025-01-05,284,29582,1003
+multi_window,Multi-window,original,Original,106,2025-01-19,284,29866,1003
+multi_window,Multi-window,original,Original,107,2025-02-02,284,30150,1003
+multi_window,Multi-window,original,Original,108,2025-02-16,284,30434,1004
+multi_window,Multi-window,original,Original,109,2025-03-02,284,30718,1004
+multi_window,Multi-window,original,Original,110,2025-03-16,284,31002,1005
+multi_window,Multi-window,original,Original,111,2025-03-30,284,31286,1006
+multi_window,Multi-window,original,Original,112,2025-04-13,284,31570,1006
+multi_window,Multi-window,original,Original,113,2025-04-27,284,31854,1006
+multi_window,Multi-window,original,Original,114,2025-05-11,283,32137,1006
+multi_window,Multi-window,original,Original,115,2025-05-25,284,32421,1007
+multi_window,Multi-window,original,Original,116,2025-06-08,283,32704,1011
+multi_window,Multi-window,original,Original,117,2025-06-22,283,32987,1012
+multi_window,Multi-window,original,Original,118,2025-07-06,282,33269,1016
+multi_window,Multi-window,original,Original,119,2025-07-20,281,33550,1023
+multi_window,Multi-window,original,Original,120,2025-08-03,279,33829,1029
+multi_window,Multi-window,original,Original,121,2025-08-17,279,34108,1031
+multi_window,Multi-window,original,Original,122,2025-08-31,278,34386,1033
+multi_window,Multi-window,original,Original,123,2025-09-14,277,34663,1033
+multi_window,Multi-window,original,Original,124,2025-09-28,277,34940,1035
+multi_window,Multi-window,original,Original,125,2025-10-12,277,35217,1037
+multi_window,Multi-window,original,Original,126,2025-10-26,279,35496,1038
+multi_window,Multi-window,original,Original,127,2025-11-09,281,35777,1040
+multi_window,Multi-window,original,Original,128,2025-11-23,284,36061,1040
+multi_window,Multi-window,original,Original,129,2025-12-07,285,36346,1040
+multi_window,Multi-window,original,Original,130,2025-12-21,285,36631,1040
+multi_window,Multi-window,rotation,Rotation,1,2021-01-10,285,285,285
+multi_window,Multi-window,rotation,Rotation,2,2021-01-24,285,570,570
+multi_window,Multi-window,rotation,Rotation,3,2021-02-07,284,854,583
+multi_window,Multi-window,rotation,Rotation,4,2021-02-21,284,1138,674
+multi_window,Multi-window,rotation,Rotation,5,2021-03-07,284,1422,686
+multi_window,Multi-window,rotation,Rotation,6,2021-03-21,284,1706,747
+multi_window,Multi-window,rotation,Rotation,7,2021-04-04,284,1990,760
+multi_window,Multi-window,rotation,Rotation,8,2021-04-18,284,2274,788
+multi_window,Multi-window,rotation,Rotation,9,2021-05-02,284,2558,799
+multi_window,Multi-window,rotation,Rotation,10,2021-05-16,284,2842,813
+multi_window,Multi-window,rotation,Rotation,11,2021-05-30,284,3126,831
+multi_window,Multi-window,rotation,Rotation,12,2021-06-13,283,3409,878
+multi_window,Multi-window,rotation,Rotation,13,2021-06-27,283,3692,899
+multi_window,Multi-window,rotation,Rotation,14,2021-07-11,282,3974,928
+multi_window,Multi-window,rotation,Rotation,15,2021-07-25,282,4256,941
+multi_window,Multi-window,rotation,Rotation,16,2021-08-08,282,4538,970
+multi_window,Multi-window,rotation,Rotation,17,2021-08-22,282,4820,976
+multi_window,Multi-window,rotation,Rotation,18,2021-09-05,282,5102,987
+multi_window,Multi-window,rotation,Rotation,19,2021-09-19,282,5384,987
+multi_window,Multi-window,rotation,Rotation,20,2021-10-03,283,5667,995
+multi_window,Multi-window,rotation,Rotation,21,2021-10-17,283,5950,998
+multi_window,Multi-window,rotation,Rotation,22,2021-10-31,284,6234,1002
+multi_window,Multi-window,rotation,Rotation,23,2021-11-14,284,6518,1005
+multi_window,Multi-window,rotation,Rotation,24,2021-11-28,284,6802,1008
+multi_window,Multi-window,rotation,Rotation,25,2021-12-12,284,7086,1010
+multi_window,Multi-window,rotation,Rotation,26,2021-12-26,284,7370,1013
+multi_window,Multi-window,rotation,Rotation,27,2022-01-09,284,7654,1013
+multi_window,Multi-window,rotation,Rotation,28,2022-01-23,284,7938,1013
+multi_window,Multi-window,rotation,Rotation,29,2022-02-06,284,8222,1016
+multi_window,Multi-window,rotation,Rotation,30,2022-02-20,284,8506,1020
+multi_window,Multi-window,rotation,Rotation,31,2022-03-06,284,8790,1023
+multi_window,Multi-window,rotation,Rotation,32,2022-03-20,284,9074,1025
+multi_window,Multi-window,rotation,Rotation,33,2022-04-03,284,9358,1025
+multi_window,Multi-window,rotation,Rotation,34,2022-04-17,284,9642,1027
+multi_window,Multi-window,rotation,Rotation,35,2022-05-01,284,9926,1032
+multi_window,Multi-window,rotation,Rotation,36,2022-05-15,284,10210,1036
+multi_window,Multi-window,rotation,Rotation,37,2022-05-29,284,10494,1045
+multi_window,Multi-window,rotation,Rotation,38,2022-06-12,284,10778,1052
+multi_window,Multi-window,rotation,Rotation,39,2022-06-26,283,11061,1059
+multi_window,Multi-window,rotation,Rotation,40,2022-07-10,283,11344,1070
+multi_window,Multi-window,rotation,Rotation,41,2022-07-24,283,11627,1077
+multi_window,Multi-window,rotation,Rotation,42,2022-08-07,283,11910,1088
+multi_window,Multi-window,rotation,Rotation,43,2022-08-21,283,12193,1088
+multi_window,Multi-window,rotation,Rotation,44,2022-09-04,283,12476,1091
+multi_window,Multi-window,rotation,Rotation,45,2022-09-18,283,12759,1093
+multi_window,Multi-window,rotation,Rotation,46,2022-10-02,283,13042,1095
+multi_window,Multi-window,rotation,Rotation,47,2022-10-16,283,13325,1095
+multi_window,Multi-window,rotation,Rotation,48,2022-10-30,284,13609,1097
+multi_window,Multi-window,rotation,Rotation,49,2022-11-13,284,13893,1098
+multi_window,Multi-window,rotation,Rotation,50,2022-11-27,284,14177,1098
+multi_window,Multi-window,rotation,Rotation,51,2022-12-11,284,14461,1099
+multi_window,Multi-window,rotation,Rotation,52,2022-12-25,285,14746,1099
+multi_window,Multi-window,rotation,Rotation,53,2023-01-08,285,15031,1100
+multi_window,Multi-window,rotation,Rotation,54,2023-01-22,284,15315,1100
+multi_window,Multi-window,rotation,Rotation,55,2023-02-05,284,15599,1102
+multi_window,Multi-window,rotation,Rotation,56,2023-02-19,284,15883,1104
+multi_window,Multi-window,rotation,Rotation,57,2023-03-05,284,16167,1107
+multi_window,Multi-window,rotation,Rotation,58,2023-03-19,283,16450,1113
+multi_window,Multi-window,rotation,Rotation,59,2023-04-02,283,16733,1114
+multi_window,Multi-window,rotation,Rotation,60,2023-04-16,283,17016,1120
+multi_window,Multi-window,rotation,Rotation,61,2023-04-30,284,17300,1122
+multi_window,Multi-window,rotation,Rotation,62,2023-05-14,283,17583,1127
+multi_window,Multi-window,rotation,Rotation,63,2023-05-28,282,17865,1136
+multi_window,Multi-window,rotation,Rotation,64,2023-06-11,282,18147,1139
+multi_window,Multi-window,rotation,Rotation,65,2023-06-25,281,18428,1147
+multi_window,Multi-window,rotation,Rotation,66,2023-07-09,280,18708,1153
+multi_window,Multi-window,rotation,Rotation,67,2023-07-23,279,18987,1157
+multi_window,Multi-window,rotation,Rotation,68,2023-08-06,278,19265,1167
+multi_window,Multi-window,rotation,Rotation,69,2023-08-20,276,19541,1172
+multi_window,Multi-window,rotation,Rotation,70,2023-09-03,275,19816,1174
+multi_window,Multi-window,rotation,Rotation,71,2023-09-17,274,20090,1178
+multi_window,Multi-window,rotation,Rotation,72,2023-10-01,273,20363,1181
+multi_window,Multi-window,rotation,Rotation,73,2023-10-15,274,20637,1189
+multi_window,Multi-window,rotation,Rotation,74,2023-10-29,276,20913,1191
+multi_window,Multi-window,rotation,Rotation,75,2023-11-12,278,21191,1191
+multi_window,Multi-window,rotation,Rotation,76,2023-11-26,282,21473,1191
+multi_window,Multi-window,rotation,Rotation,77,2023-12-10,284,21757,1192
+multi_window,Multi-window,rotation,Rotation,78,2023-12-24,284,22041,1192
+multi_window,Multi-window,rotation,Rotation,79,2024-01-07,284,22325,1192
+multi_window,Multi-window,rotation,Rotation,80,2024-01-21,284,22609,1193
+multi_window,Multi-window,rotation,Rotation,81,2024-02-04,284,22893,1197
+multi_window,Multi-window,rotation,Rotation,82,2024-02-18,284,23177,1197
+multi_window,Multi-window,rotation,Rotation,83,2024-03-03,284,23461,1201
+multi_window,Multi-window,rotation,Rotation,84,2024-03-17,284,23745,1202
+multi_window,Multi-window,rotation,Rotation,85,2024-03-31,283,24028,1202
+multi_window,Multi-window,rotation,Rotation,86,2024-04-14,283,24311,1202
+multi_window,Multi-window,rotation,Rotation,87,2024-04-28,283,24594,1202
+multi_window,Multi-window,rotation,Rotation,88,2024-05-12,282,24876,1206
+multi_window,Multi-window,rotation,Rotation,89,2024-05-26,282,25158,1211
+multi_window,Multi-window,rotation,Rotation,90,2024-06-09,281,25439,1216
+multi_window,Multi-window,rotation,Rotation,91,2024-06-23,280,25719,1225
+multi_window,Multi-window,rotation,Rotation,92,2024-07-07,278,25997,1239
+multi_window,Multi-window,rotation,Rotation,93,2024-07-21,276,26273,1247
+multi_window,Multi-window,rotation,Rotation,94,2024-08-04,275,26548,1253
+multi_window,Multi-window,rotation,Rotation,95,2024-08-18,274,26822,1254
+multi_window,Multi-window,rotation,Rotation,96,2024-09-01,272,27094,1258
+multi_window,Multi-window,rotation,Rotation,97,2024-09-15,272,27366,1262
+multi_window,Multi-window,rotation,Rotation,98,2024-09-29,270,27636,1263
+multi_window,Multi-window,rotation,Rotation,99,2024-10-13,270,27906,1267
+multi_window,Multi-window,rotation,Rotation,100,2024-10-27,273,28179,1270
+multi_window,Multi-window,rotation,Rotation,101,2024-11-10,274,28453,1276
+multi_window,Multi-window,rotation,Rotation,102,2024-11-24,279,28732,1277
+multi_window,Multi-window,rotation,Rotation,103,2024-12-08,283,29015,1279
+multi_window,Multi-window,rotation,Rotation,104,2024-12-22,283,29298,1279
+multi_window,Multi-window,rotation,Rotation,105,2025-01-05,284,29582,1279
+multi_window,Multi-window,rotation,Rotation,106,2025-01-19,284,29866,1279
+multi_window,Multi-window,rotation,Rotation,107,2025-02-02,284,30150,1280
+multi_window,Multi-window,rotation,Rotation,108,2025-02-16,284,30434,1281
+multi_window,Multi-window,rotation,Rotation,109,2025-03-02,284,30718,1281
+multi_window,Multi-window,rotation,Rotation,110,2025-03-16,284,31002,1281
+multi_window,Multi-window,rotation,Rotation,111,2025-03-30,284,31286,1283
+multi_window,Multi-window,rotation,Rotation,112,2025-04-13,284,31570,1283
+multi_window,Multi-window,rotation,Rotation,113,2025-04-27,284,31854,1283
+multi_window,Multi-window,rotation,Rotation,114,2025-05-11,283,32137,1284
+multi_window,Multi-window,rotation,Rotation,115,2025-05-25,284,32421,1286
+multi_window,Multi-window,rotation,Rotation,116,2025-06-08,283,32704,1290
+multi_window,Multi-window,rotation,Rotation,117,2025-06-22,283,32987,1290
+multi_window,Multi-window,rotation,Rotation,118,2025-07-06,282,33269,1295
+multi_window,Multi-window,rotation,Rotation,119,2025-07-20,281,33550,1298
+multi_window,Multi-window,rotation,Rotation,120,2025-08-03,279,33829,1301
+multi_window,Multi-window,rotation,Rotation,121,2025-08-17,279,34108,1303
+multi_window,Multi-window,rotation,Rotation,122,2025-08-31,278,34386,1304
+multi_window,Multi-window,rotation,Rotation,123,2025-09-14,277,34663,1307
+multi_window,Multi-window,rotation,Rotation,124,2025-09-28,277,34940,1312
+multi_window,Multi-window,rotation,Rotation,125,2025-10-12,277,35217,1316
+multi_window,Multi-window,rotation,Rotation,126,2025-10-26,279,35496,1317
+multi_window,Multi-window,rotation,Rotation,127,2025-11-09,281,35777,1318
+multi_window,Multi-window,rotation,Rotation,128,2025-11-23,284,36061,1318
+multi_window,Multi-window,rotation,Rotation,129,2025-12-07,285,36346,1318
+multi_window,Multi-window,rotation,Rotation,130,2025-12-21,285,36631,1318

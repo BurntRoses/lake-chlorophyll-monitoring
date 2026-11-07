@@ -1,0 +1,5 @@
+endpoint_id,proposed_id,comparator_id,comparison_family,difference_pp,lower_pp,upper_pp,bootstrap_replicates,comparator,confidence_level
+31_60,multi_window,elastic_net,standard_controls,22.0910623946,17.5329295626,26.9927536232,5000,Elastic Net,0.975
+31_60,multi_window,xgboost,standard_controls,20.0674536256,15.7530936602,25.3240901889,5000,XGBoost,0.975
+31_60,multi_window,single_window,window_contribution,0.337268128162,-2.24007632115,2.81456953642,5000,Single-window,0.975
+31_60,multi_window,same_window_control,window_contribution,0.674536256324,-1.5652173913,3.67759654333,5000,Same-window control,0.975

@@ -1,0 +1,17 @@
+method_id,method,earliest_category,events,cohort_events,share_pct
+xgboost,XGBoost,31–60 d,344,681,50.51395007342144
+xgboost,XGBoost,Uncovered,232,681,34.06754772393539
+xgboost,XGBoost,15–30 d,70,681,10.279001468428781
+xgboost,XGBoost,1–14 d,35,681,5.139500734214391
+elastic_net,Elastic Net,31–60 d,332,681,48.751835535976504
+elastic_net,Elastic Net,Uncovered,250,681,36.71071953010279
+elastic_net,Elastic Net,15–30 d,64,681,9.397944199706314
+elastic_net,Elastic Net,1–14 d,35,681,5.139500734214391
+single_window,Single-window,31–60 d,461,681,67.69456681350955
+single_window,Single-window,Uncovered,84,681,12.334801762114537
+single_window,Single-window,15–30 d,91,681,13.362701908957417
+single_window,Single-window,1–14 d,45,681,6.607929515418502
+multi_window,Multi-window,31–60 d,463,681,67.98825256975036
+multi_window,Multi-window,Uncovered,91,681,13.362701908957417
+multi_window,Multi-window,15–30 d,87,681,12.77533039647577
+multi_window,Multi-window,1–14 d,40,681,5.873715124816446

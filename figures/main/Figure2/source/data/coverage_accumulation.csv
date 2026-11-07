@@ -1,0 +1,241 @@
+method_id,method,lead_days,events_selected_by_lead,cohort_events,cumulative_coverage_pct
+xgboost,XGBoost,60,24,681,3.52422907489
+xgboost,XGBoost,59,57,681,8.37004405286
+xgboost,XGBoost,58,107,681,15.7121879589
+xgboost,XGBoost,57,137,681,20.1174743025
+xgboost,XGBoost,56,143,681,20.9985315712
+xgboost,XGBoost,55,145,681,21.2922173275
+xgboost,XGBoost,54,146,681,21.4390602056
+xgboost,XGBoost,53,163,681,23.9353891336
+xgboost,XGBoost,52,192,681,28.1938325991
+xgboost,XGBoost,51,242,681,35.5359765051
+xgboost,XGBoost,50,272,681,39.9412628488
+xgboost,XGBoost,49,276,681,40.5286343612
+xgboost,XGBoost,48,282,681,41.40969163
+xgboost,XGBoost,47,289,681,42.4375917768
+xgboost,XGBoost,46,294,681,43.1718061674
+xgboost,XGBoost,45,298,681,43.7591776799
+xgboost,XGBoost,44,303,681,44.4933920705
+xgboost,XGBoost,43,306,681,44.9339207048
+xgboost,XGBoost,42,307,681,45.080763583
+xgboost,XGBoost,41,308,681,45.2276064611
+xgboost,XGBoost,40,308,681,45.2276064611
+xgboost,XGBoost,39,309,681,45.3744493392
+xgboost,XGBoost,38,314,681,46.1086637298
+xgboost,XGBoost,37,324,681,47.577092511
+xgboost,XGBoost,36,328,681,48.1644640235
+xgboost,XGBoost,35,331,681,48.6049926579
+xgboost,XGBoost,34,331,681,48.6049926579
+xgboost,XGBoost,33,331,681,48.6049926579
+xgboost,XGBoost,32,333,681,48.8986784141
+xgboost,XGBoost,31,344,681,50.5139500734
+xgboost,XGBoost,30,352,681,51.6886930984
+xgboost,XGBoost,29,360,681,52.8634361233
+xgboost,XGBoost,28,361,681,53.0102790015
+xgboost,XGBoost,27,361,681,53.0102790015
+xgboost,XGBoost,26,361,681,53.0102790015
+xgboost,XGBoost,25,365,681,53.597650514
+xgboost,XGBoost,24,378,681,55.5066079295
+xgboost,XGBoost,23,381,681,55.9471365639
+xgboost,XGBoost,22,390,681,57.268722467
+xgboost,XGBoost,21,392,681,57.5624082232
+xgboost,XGBoost,20,393,681,57.7092511013
+xgboost,XGBoost,19,393,681,57.7092511013
+xgboost,XGBoost,18,396,681,58.1497797357
+xgboost,XGBoost,17,403,681,59.1776798825
+xgboost,XGBoost,16,411,681,60.3524229075
+xgboost,XGBoost,15,414,681,60.7929515419
+xgboost,XGBoost,14,416,681,61.0866372981
+xgboost,XGBoost,13,416,681,61.0866372981
+xgboost,XGBoost,12,416,681,61.0866372981
+xgboost,XGBoost,11,418,681,61.3803230543
+xgboost,XGBoost,10,421,681,61.8208516887
+xgboost,XGBoost,9,431,681,63.2892804699
+xgboost,XGBoost,8,432,681,63.436123348
+xgboost,XGBoost,7,434,681,63.7298091043
+xgboost,XGBoost,6,434,681,63.7298091043
+xgboost,XGBoost,5,434,681,63.7298091043
+xgboost,XGBoost,4,437,681,64.1703377386
+xgboost,XGBoost,3,440,681,64.610866373
+xgboost,XGBoost,2,446,681,65.4919236417
+xgboost,XGBoost,1,449,681,65.9324522761
+elastic_net,Elastic Net,60,25,681,3.67107195301
+elastic_net,Elastic Net,59,58,681,8.51688693098
+elastic_net,Elastic Net,58,107,681,15.7121879589
+elastic_net,Elastic Net,57,136,681,19.9706314244
+elastic_net,Elastic Net,56,139,681,20.4111600587
+elastic_net,Elastic Net,55,141,681,20.704845815
+elastic_net,Elastic Net,54,142,681,20.8516886931
+elastic_net,Elastic Net,53,157,681,23.0543318649
+elastic_net,Elastic Net,52,187,681,27.4596182085
+elastic_net,Elastic Net,51,241,681,35.389133627
+elastic_net,Elastic Net,50,273,681,40.0881057269
+elastic_net,Elastic Net,49,278,681,40.8223201175
+elastic_net,Elastic Net,48,283,681,41.5565345081
+elastic_net,Elastic Net,47,290,681,42.5844346549
+elastic_net,Elastic Net,46,293,681,43.0249632893
+elastic_net,Elastic Net,45,298,681,43.7591776799
+elastic_net,Elastic Net,44,300,681,44.0528634361
+elastic_net,Elastic Net,43,303,681,44.4933920705
+elastic_net,Elastic Net,42,303,681,44.4933920705
+elastic_net,Elastic Net,41,303,681,44.4933920705
+elastic_net,Elastic Net,40,303,681,44.4933920705
+elastic_net,Elastic Net,39,303,681,44.4933920705
+elastic_net,Elastic Net,38,308,681,45.2276064611
+elastic_net,Elastic Net,37,316,681,46.402349486
+elastic_net,Elastic Net,36,319,681,46.8428781204
+elastic_net,Elastic Net,35,320,681,46.9897209985
+elastic_net,Elastic Net,34,321,681,47.1365638767
+elastic_net,Elastic Net,33,321,681,47.1365638767
+elastic_net,Elastic Net,32,322,681,47.2834067548
+elastic_net,Elastic Net,31,332,681,48.751835536
+elastic_net,Elastic Net,30,342,681,50.2202643172
+elastic_net,Elastic Net,29,347,681,50.9544787078
+elastic_net,Elastic Net,28,349,681,51.248164464
+elastic_net,Elastic Net,27,349,681,51.248164464
+elastic_net,Elastic Net,26,349,681,51.248164464
+elastic_net,Elastic Net,25,354,681,51.9823788546
+elastic_net,Elastic Net,24,363,681,53.3039647577
+elastic_net,Elastic Net,23,369,681,54.1850220264
+elastic_net,Elastic Net,22,373,681,54.7723935389
+elastic_net,Elastic Net,21,374,681,54.919236417
+elastic_net,Elastic Net,20,375,681,55.0660792952
+elastic_net,Elastic Net,19,375,681,55.0660792952
+elastic_net,Elastic Net,18,376,681,55.2129221733
+elastic_net,Elastic Net,17,381,681,55.9471365639
+elastic_net,Elastic Net,16,390,681,57.268722467
+elastic_net,Elastic Net,15,396,681,58.1497797357
+elastic_net,Elastic Net,14,398,681,58.4434654919
+elastic_net,Elastic Net,13,398,681,58.4434654919
+elastic_net,Elastic Net,12,398,681,58.4434654919
+elastic_net,Elastic Net,11,400,681,58.7371512482
+elastic_net,Elastic Net,10,402,681,59.0308370044
+elastic_net,Elastic Net,9,411,681,60.3524229075
+elastic_net,Elastic Net,8,412,681,60.4992657856
+elastic_net,Elastic Net,7,414,681,60.7929515419
+elastic_net,Elastic Net,6,414,681,60.7929515419
+elastic_net,Elastic Net,5,414,681,60.7929515419
+elastic_net,Elastic Net,4,417,681,61.2334801762
+elastic_net,Elastic Net,3,420,681,61.6740088106
+elastic_net,Elastic Net,2,426,681,62.5550660793
+elastic_net,Elastic Net,1,431,681,63.2892804699
+single_window,Single-window,60,28,681,4.11160058737
+single_window,Single-window,59,71,681,10.4258443465
+single_window,Single-window,58,134,681,19.6769456681
+single_window,Single-window,57,174,681,25.550660793
+single_window,Single-window,56,185,681,27.1659324523
+single_window,Single-window,55,189,681,27.7533039648
+single_window,Single-window,54,192,681,28.1938325991
+single_window,Single-window,53,213,681,31.2775330396
+single_window,Single-window,52,249,681,36.563876652
+single_window,Single-window,51,315,681,46.2555066079
+single_window,Single-window,50,346,681,50.8076358297
+single_window,Single-window,49,356,681,52.2760646109
+single_window,Single-window,48,361,681,53.0102790015
+single_window,Single-window,47,368,681,54.0381791483
+single_window,Single-window,46,374,681,54.919236417
+single_window,Single-window,45,380,681,55.8002936858
+single_window,Single-window,44,388,681,56.9750367107
+single_window,Single-window,43,396,681,58.1497797357
+single_window,Single-window,42,403,681,59.1776798825
+single_window,Single-window,41,403,681,59.1776798825
+single_window,Single-window,40,403,681,59.1776798825
+single_window,Single-window,39,407,681,59.765051395
+single_window,Single-window,38,414,681,60.7929515419
+single_window,Single-window,37,431,681,63.2892804699
+single_window,Single-window,36,443,681,65.0513950073
+single_window,Single-window,35,445,681,65.3450807636
+single_window,Single-window,34,446,681,65.4919236417
+single_window,Single-window,33,446,681,65.4919236417
+single_window,Single-window,32,448,681,65.7856093979
+single_window,Single-window,31,461,681,67.6945668135
+single_window,Single-window,30,475,681,69.7503671072
+single_window,Single-window,29,484,681,71.0719530103
+single_window,Single-window,28,487,681,71.5124816446
+single_window,Single-window,27,487,681,71.5124816446
+single_window,Single-window,26,488,681,71.6593245228
+single_window,Single-window,25,494,681,72.5403817915
+single_window,Single-window,24,505,681,74.1556534508
+single_window,Single-window,23,513,681,75.3303964758
+single_window,Single-window,22,520,681,76.3582966226
+single_window,Single-window,21,524,681,76.9456681351
+single_window,Single-window,20,526,681,77.2393538913
+single_window,Single-window,19,526,681,77.2393538913
+single_window,Single-window,18,529,681,77.6798825257
+single_window,Single-window,17,536,681,78.7077826725
+single_window,Single-window,16,546,681,80.1762114537
+single_window,Single-window,15,552,681,81.0572687225
+single_window,Single-window,14,556,681,81.6446402349
+single_window,Single-window,13,556,681,81.6446402349
+single_window,Single-window,12,556,681,81.6446402349
+single_window,Single-window,11,559,681,82.0851688693
+single_window,Single-window,10,562,681,82.5256975037
+single_window,Single-window,9,571,681,83.8472834068
+single_window,Single-window,8,575,681,84.4346549192
+single_window,Single-window,7,577,681,84.7283406755
+single_window,Single-window,6,577,681,84.7283406755
+single_window,Single-window,5,577,681,84.7283406755
+single_window,Single-window,4,581,681,85.315712188
+single_window,Single-window,3,588,681,86.3436123348
+single_window,Single-window,2,594,681,87.2246696035
+single_window,Single-window,1,597,681,87.6651982379
+multi_window,Multi-window,60,28,681,4.11160058737
+multi_window,Multi-window,59,71,681,10.4258443465
+multi_window,Multi-window,58,137,681,20.1174743025
+multi_window,Multi-window,57,176,681,25.8443465492
+multi_window,Multi-window,56,191,681,28.046989721
+multi_window,Multi-window,55,195,681,28.6343612335
+multi_window,Multi-window,54,198,681,29.0748898678
+multi_window,Multi-window,53,221,681,32.4522760646
+multi_window,Multi-window,52,258,681,37.8854625551
+multi_window,Multi-window,51,329,681,48.3113069016
+multi_window,Multi-window,50,365,681,53.597650514
+multi_window,Multi-window,49,374,681,54.919236417
+multi_window,Multi-window,48,380,681,55.8002936858
+multi_window,Multi-window,47,387,681,56.8281938326
+multi_window,Multi-window,46,392,681,57.5624082232
+multi_window,Multi-window,45,396,681,58.1497797357
+multi_window,Multi-window,44,401,681,58.8839941263
+multi_window,Multi-window,43,410,681,60.2055800294
+multi_window,Multi-window,42,413,681,60.6461086637
+multi_window,Multi-window,41,413,681,60.6461086637
+multi_window,Multi-window,40,414,681,60.7929515419
+multi_window,Multi-window,39,415,681,60.93979442
+multi_window,Multi-window,38,421,681,61.8208516887
+multi_window,Multi-window,37,436,681,64.0234948605
+multi_window,Multi-window,36,443,681,65.0513950073
+multi_window,Multi-window,35,446,681,65.4919236417
+multi_window,Multi-window,34,447,681,65.6387665198
+multi_window,Multi-window,33,447,681,65.6387665198
+multi_window,Multi-window,32,451,681,66.2261380323
+multi_window,Multi-window,31,463,681,67.9882525698
+multi_window,Multi-window,30,478,681,70.1908957416
+multi_window,Multi-window,29,486,681,71.3656387665
+multi_window,Multi-window,28,489,681,71.8061674009
+multi_window,Multi-window,27,489,681,71.8061674009
+multi_window,Multi-window,26,489,681,71.8061674009
+multi_window,Multi-window,25,497,681,72.9809104258
+multi_window,Multi-window,24,511,681,75.0367107195
+multi_window,Multi-window,23,517,681,75.9177679883
+multi_window,Multi-window,22,523,681,76.798825257
+multi_window,Multi-window,21,526,681,77.2393538913
+multi_window,Multi-window,20,527,681,77.3861967695
+multi_window,Multi-window,19,527,681,77.3861967695
+multi_window,Multi-window,18,531,681,77.9735682819
+multi_window,Multi-window,17,537,681,78.8546255507
+multi_window,Multi-window,16,545,681,80.0293685756
+multi_window,Multi-window,15,550,681,80.7635829662
+multi_window,Multi-window,14,553,681,81.2041116006
+multi_window,Multi-window,13,553,681,81.2041116006
+multi_window,Multi-window,12,553,681,81.2041116006
+multi_window,Multi-window,11,555,681,81.4977973568
+multi_window,Multi-window,10,557,681,81.7914831131
+multi_window,Multi-window,9,565,681,82.966226138
+multi_window,Multi-window,8,569,681,83.5535976505
+multi_window,Multi-window,7,570,681,83.7004405286
+multi_window,Multi-window,6,570,681,83.7004405286
+multi_window,Multi-window,5,570,681,83.7004405286
+multi_window,Multi-window,4,573,681,84.140969163
+multi_window,Multi-window,3,579,681,85.0220264317
+multi_window,Multi-window,2,586,681,86.0499265786
+multi_window,Multi-window,1,590,681,86.637298091

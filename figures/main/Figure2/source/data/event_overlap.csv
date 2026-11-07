@@ -1,0 +1,5 @@
+category_id,category,count,total,percent
+both,Both,446,593,75.2107925801
+multi_only,Multi-window only,17,593,2.86677908938
+single_only,Single-window only,15,593,2.52951096121
+neither,Neither,115,593,19.3929173693

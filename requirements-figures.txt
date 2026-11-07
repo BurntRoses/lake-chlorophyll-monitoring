@@ -1,0 +1,12 @@
+matplotlib>=3.10
+numpy
+pandas
+scipy
+Pillow
+pyproj
+rasterio
+geopandas
+shapely
+requests
+resvg-py
+fonttools

@@ -1,0 +1,5 @@
+method_id,method,monitoring_slots,candidate_lakes,selected_lakes_original,selected_lakes_rotation,repeat_slot_pct_original,top_decile_slot_pct_original,top_decile_slot_pct_rotation,rotation_power,original_events_covered,rotation_events_covered,evaluable_events,original_coverage_pct,rotation_coverage_pct
+xgboost,XGBoost,36631,2844,627,937,90.2650760285,83.516693511,49.529087385,0.5,344,431,593,58.0101180438,72.6812816189
+elastic_net,Elastic Net,36631,2844,620,1058,90.4807403565,83.8115257569,48.7155687805,1,332,450,593,55.9865092749,75.8853288364
+single_window,Single-window,36631,2844,1148,1429,81.3218312358,64.8712838852,44.1565886817,0.5,461,510,593,77.7403035413,86.0033726813
+multi_window,Multi-window,36631,2844,1040,1318,84.7915699817,68.5020883951,45.8491441675,0.5,463,510,593,78.0775716695,86.0033726813

@@ -1,0 +1,158 @@
+{
+  "version": "2.0",
+  "scope": "Scientific figure typography",
+  "backend": "Python/matplotlib",
+  "canvas": {
+    "main_width_mm": 183,
+    "single_column_width_mm": 89,
+    "graphical_abstract_width_mm": 130,
+    "height_presets_mm": [
+      120,
+      140,
+      160,
+      175,
+      190
+    ],
+    "max_height_mm": 200,
+    "figure1_height_mm": 140,
+    "outer_margin_mm": 5,
+    "horizontal_panel_gap_mm": 8,
+    "vertical_panel_gap_mm": 10,
+    "minimum_unrelated_text_clearance_mm": 1.5,
+    "inset_connector_style": "solid",
+    "inset_locator_box_style": "dashed",
+    "inset_connector_rule": "Use short solid leaders from dashed locator boxes to their corresponding inset; retain A/B labels."
+  },
+  "font": {
+    "family": "Times New Roman",
+    "fallback": "DejaVu Serif",
+    "sizes_pt": {
+      "body": 11,
+      "axis_label": 11,
+      "tick": 10.5,
+      "legend": 10.5,
+      "annotation": 10.5,
+      "cartographic_detail": 10.5,
+      "geographic_name": 10.5,
+      "panel_title": 11,
+      "panel_letter": 13,
+      "inset_title": 11
+    },
+    "minimum_pt": 10.5,
+    "maximum_pt": 13
+  },
+  "palette": {
+    "ink": "#000000",
+    "blue": "#1B3B8B",
+    "vermilion": "#B2182B",
+    "green": "#006D2C",
+    "grey": "#4D4D4D",
+    "light_grey": "#B8BEC6",
+    "water": "#D9EAF2",
+    "surrounding_land": "#EAE7DB"
+  },
+  "methods": {
+    "xgboost": {
+      "colour": "#000000",
+      "marker": "s",
+      "filled": true
+    },
+    "elastic_net": {
+      "colour": "#606060",
+      "marker": "D",
+      "filled": false
+    },
+    "single_window": {
+      "colour": "#1B3B8B",
+      "marker": "o",
+      "filled": true
+    },
+    "multi_window": {
+      "colour": "#006D2C",
+      "marker": "^",
+      "filled": false
+    }
+  },
+  "geographic_lake_categories": {
+    "primary_event_bearing": {
+      "colour": "#B2182B",
+      "marker": "^",
+      "filled": true
+    },
+    "other_study_lake": {
+      "colour": "#1B3B8B",
+      "marker": "o",
+      "filled": false
+    }
+  },
+  "lines_pt": {
+    "axis": 0.65,
+    "curve": 1.0,
+    "highlight_curve": 1.2,
+    "reference": 0.65,
+    "error_bar": 0.75,
+    "guide": 0.55,
+    "state_boundary": 0.4,
+    "country_boundary": 0.6,
+    "inset_box": 0.7
+  },
+  "exports": {
+    "svg_editable_text": true,
+    "pdf_truetype_embedded": true,
+    "embedded_raster_dpi": 600,
+    "preview_dpi": 300,
+    "png_dpi": 600,
+    "tiff_dpi": 1200,
+    "tiff_compression": "tiff_lzw",
+    "fixed_canvas_no_tight_crop": true
+  },
+  "name": "Figure 2 tree and selection candidate",
+  "font_family": "Times New Roman",
+  "font_fallback": "DejaVu Serif",
+  "minimum_pt": 10.5,
+  "canvas_mm": [
+    183,
+    200
+  ],
+  "axis_width_pt": 0.65,
+  "principle": "Related evidence uses aligned coordinates; distinct horizontal units retain separate axes.",
+  "font_sizes_pt": {
+    "panel_letter": 13,
+    "panel_title": 11,
+    "axis_label": 11,
+    "ticks": 10.5,
+    "legend": 10.5,
+    "dense_annotation": 10.5,
+    "body": 11,
+    "tick": 10.5,
+    "annotation": 10.5,
+    "cartographic_detail": 10.5,
+    "geographic_name": 10.5,
+    "inset_title": 11,
+    "minimum": 10.5
+  },
+  "axis_style": "Inward ticks; boxed quantitative axes or reduced spines for direct-labelled cumulative plots",
+  "export": {
+    "png_dpi": 600,
+    "svg_editable_text": true,
+    "fixed_canvas": true
+  },
+  "semantic_palette": {
+    "ink": "#000000",
+    "baseline": "#1B3B8B",
+    "main": "#006D2C",
+    "selection": "#A6761D",
+    "negative": "#B2182B",
+    "neutral": "#606060"
+  },
+  "legend_frame": false,
+  "panel_titles": false,
+  "narrative_text_inside_figure": false,
+  "method_palette": {
+    "xgboost": "#000000",
+    "elastic_net": "#606060",
+    "single_window": "#1B3B8B",
+    "multi_window": "#006D2C"
+  },
+  "minimum_text_canvas_clearance_mm": 3
+}

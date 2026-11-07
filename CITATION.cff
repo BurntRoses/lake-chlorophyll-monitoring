@@ -1,26 +1,39 @@
 cff-version: 1.2.0
-message: "Please cite this version when using the study data or code."
+message: "Please cite the version used and the original datasets listed in docs/data_sources.csv."
 type: software
-title: "Lake chlorophyll-a monitoring priorities: code and data for multi-horizon risk ranking"
-version: 1.0.1
-doi: "10.5281/zenodo.22809124"
+title: "Ranking lakes for high-chlorophyll events under limited monitoring capacity: data and code"
+version: 2.0.0
+date-released: 2026-11-08
+url: "https://github.com/BurntRoses/lake-chlorophyll-monitoring"
+repository-code: "https://github.com/BurntRoses/lake-chlorophyll-monitoring"
 authors:
   - family-names: Luo
     given-names: Siran
     orcid: "https://orcid.org/0009-0004-7469-2414"
-    affiliation: "Department of Environmental Science and Engineering, Fudan University, Shanghai, China"
+  - family-names: Liu
+    given-names: Xingchen
+  - family-names: Zhao
+    given-names: Lin
   - family-names: Zhang
     given-names: Jibiao
-    affiliation: "Department of Environmental Science and Engineering, Fudan University, Shanghai, China"
     orcid: "https://orcid.org/0000-0003-2734-6477"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.22809123"
+    description: "All versions"
 license:
   - MIT
   - CC-BY-4.0
 keywords:
   - lake monitoring
-  - chlorophyll-a
+  - chlorophyll a
   - risk ranking
   - monitoring capacity
-  - ecological forecasting
   - event coverage
-repository-code: "https://github.com/BurntRoses/lake-chlorophyll-monitoring"
+  - cross-region application
+abstract: >-
+  Data, fitted models, analysis code and figure source tables for capacity-limited
+  lake monitoring. The US evaluation covers 2,844 lakes and 130 fortnightly rounds
+  during 2021–2025. Regional analyses evaluate absolute and lake-specific relative
+  events. The software includes data preparation, single-window and multi-window
+  coverage rankers, classifier controls, monitoring schedules and event evaluation.

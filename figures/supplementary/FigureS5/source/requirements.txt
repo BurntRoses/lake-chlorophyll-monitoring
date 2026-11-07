@@ -1,0 +1,5 @@
+matplotlib>=3.10
+numpy
+pandas
+Pillow
+resvg_py

@@ -1,0 +1,4 @@
+Figure S2. Advance-selection timing, annual coverage and paired timing categories.
+(a) Cumulative earliest-selection curves for four methods on the same 681-event US 1–60-day cohort at 10% capacity. At each lead time, the curve gives the fraction of events whose lake has already been selected at least once. The ochre line marks 30 days.
+(b) Annual 31–60-day coverage in 2021–2025, with event denominators of 49, 39, 171, 225 and 109, respectively. Methods share eligibility and quotas.
+(c) Paired earliest-selection categories for Single-window (columns) and Multi-window (rows) on the 681-event cohort. Each event occupies one cell; None denotes no selection within 1–60 days. Cells give event counts on a logarithmic colour scale. Table S4 reports window-specific estimates and denominators.

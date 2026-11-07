@@ -1,0 +1,4 @@
+﻿Method,Learning target and structure,Monitoring-list output
+Conventional machine learning,XGBoost and Elastic Net learn record-level 31–60-day event labels. XGBoost additionally uses event-balancing weights for repeated positive opportunities.,Rank by classification score and select the top 10% of eligible lakes in each round.
+Capacity-constrained Single-window,Learn a ranking increment over 31–60-day XGBoost scores by directly optimising independent-event coverage under the round-specific quota.,Generate 31–60-day capacity-ranking scores and select lakes under the same quota.
+Capacity-constrained Multi-window,"Add 1–14-day and 15–30-day base predictions and auxiliary supervision to the Single-window framework, with ranking trees shared across three windows.",Use the 31–60-day output for a single monitoring list and evaluate event coverage across lead windows.

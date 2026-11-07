@@ -1,0 +1,13 @@
+{
+  "data/absolute_event_coverage.csv": "cfcb314c90d70bd69458b63126c44d2dafc2fbde2c742249875916d75936f567",
+  "data/absolute_event_exchanges.csv": "ca1bfc97ccac366d35e3b9f45917bddf1f4a356ee5acf445369c339c729c622a",
+  "data/absolute_event_records.csv": "35e2cd0fb1c9189b2d8da37f009eeeb471ec403099d4677312052f82f0ed61c5",
+  "data/china_background_changes.csv": "31e9086730d4b972dd58cc792eafd199a8efddc0a74a5d530ff2e8e88602ce54",
+  "data/china_lake_changes.csv": "a1a6d6f1131872e5b5c69901968a5b6a955a6f96cc18915a43ce9331fd1f1634",
+  "data/china_paired_relative_events.csv": "dce324c3d285df75150a2ec956fba7b8395aad3630475f3d32d21771833ce5d3",
+  "data/event_opportunity_links.csv": "9318428b10d007c75ed7c7ed5ff0f235719f9cd823bf315ba0b0eac235954b0a",
+  "data/event_priority_pairs.csv": "7415a9e9a77331c2a21548131200b57d2046bd62744fc1eb7f6fa0b9ab996d59",
+  "data/paired_candidate_ranks.csv": "4ddb73e0bc5aac8da246a116212d0626d7216e901ff4c20a0e2c6f88d18f3617",
+  "data/paired_capture_transitions.csv": "0b6a20627ff3264f649623109fbb7fc61d08ab283c148b76d341278735551106",
+  "data/relative_training_effects.csv": "3006bcfe74a71187c8938c9d05dee8ecddb99e5038e0cb2e3ab3535b49f6e281"
+}

@@ -1,0 +1,5 @@
+Figure S1. Information availability, event grouping and label assignment.
+(a) Field sampling dates (open circles) and result-availability dates (filled squares), separated by a 7-day delay. The vertical line is the decision date. Available results enter the inputs; pending results become available later. Recent high records determine the active-state exclusion.
+(b) High records on days 10, 25 and 50 form one event because consecutive gaps are ≤60 days. The day-120 record follows a 70-day gap and starts a second event. Filled triangles mark first high records; open triangles mark subsequent high records within an event.
+(c) Positive, negative, unknown and active cases relative to a decision date. The shaded interval is the 31–60-day outcome window. Squares mark candidate decision opportunities, triangles high records, circles non-high observations and the cross an active-state exclusion. Label assignment uses observations in the outcome window; records with unknown outcomes remain eligible for ranking.
+The rule schematics were drawn with Python/SVG code assisted by OpenAI Codex (OpenAI).
