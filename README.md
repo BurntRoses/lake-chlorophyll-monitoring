@@ -27,7 +27,7 @@ python scripts/reproduce.py --output ../lake-monitoring-reproduced
 |---|---|
 | `src/biomass` | Data preparation, models, scoring, scheduling and evaluation |
 | `config` | Model and evaluation settings |
-| `scripts` | Reproduction and stage-replay utilities |
+| `scripts` | Reproduction utility |
 | `tables` | Table 1 and Tables S1–S16 as CSV |
 | `docs` | Sources, variable definitions, environment and numerical figure statistics |
 
