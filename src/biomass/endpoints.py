@@ -31,7 +31,7 @@ FOLD_SALT = "LDEW_OUTER_LAKE_FOLD_V1_20260730"
 CANDIDATE_SALT = "LDEW_CANDIDATE_V1_20260730"
 
 class EndpointError(RuntimeError):
-    """Raised for inconsistent endpoint or study-period definitions."""
+    """Raised when endpoint or stage construction violates the frozen contract."""
 
 def deterministic_outer_fold(lake_id: str) -> int:
     payload = f"{FOLD_SALT}|{lake_id}".encode("utf-8")

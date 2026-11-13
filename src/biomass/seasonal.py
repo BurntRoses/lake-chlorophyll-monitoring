@@ -3,7 +3,7 @@ import numpy as np
 import pandas as pd
 
 def known_state(origins, years, days, concentrations, threshold):
-    """Apply the seven-day observation-availability delay."""
+    """Use exactly the existing strict seven-day availability convention."""
     risks = np.full(len(origins), np.nan, np.float32)
     ages = np.full(len(origins), np.nan, np.float32)
     counts = np.zeros(len(origins), np.float32)

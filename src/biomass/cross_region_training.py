@@ -31,7 +31,7 @@ def expression(train, feature_names=None, expression_config=None):
         return CommonExpression(spec, specification()['expression'] if expression_config is None else expression_config).fit(train)
 
 def fit_base(train, val, folder, controls=False, save_models=False, feature_names=None, expression_config=None):
-    """Fit the US-selected binary trees using CUDA."""
+    """Fit US-selected binary trees; CUDA changes the backend, not the objective."""
     folder.mkdir(parents=True, exist_ok=True)
     expr = expression(train, feature_names, expression_config)
     X = transform_batched(expr, train, 8192)
@@ -156,7 +156,7 @@ def train():
         cutoff = pd.Timestamp(year, 1, 1)
         for fold in range(spec['lake_folds']):
             folder = MODEL / 'validation' / str(year) / str(fold)
-            saved = RESULT / 'source_validation' / str(year) / str(fold) / 'predictions.parquet'
+            saved = RESULT / 'source_validation' / f'predictions_{year}_fold{fold}.parquet'
             if saved.exists():
                 validation.append(pd.read_parquet(saved))
                 continue

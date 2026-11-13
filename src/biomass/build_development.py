@@ -90,7 +90,7 @@ def main():
             if name!='ecoregion': frame[name]=pd.to_numeric(frame[name],errors='coerce').astype('float32')
             feature_records.append({'feature_name':name,'source':asset,'role':'base' if asset=='development_static_features' else 'dynamic'})
         print('joined',asset,len(names),flush=True)
-    # Use history available at the beginning of each row's year.
+    # Freeze each row's history at the beginning of its year; never use later observations.
     frame=frame.copy()
     frame['fixed_history_risk']=np.nan
     frame['fixed_history_observation_count']=0.0

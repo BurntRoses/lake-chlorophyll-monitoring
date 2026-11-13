@@ -278,7 +278,7 @@ class JointContext:
 
     Dividing by heads cancels the pooled learner's row-count rescaling: the
     primary residual scale equals that of the one-head matched control.
-    
+    The loss is not asserted to be a new coverage or top-k primitive.
     """
     def __init__(self, contexts, auxiliary_weight):
         self.contexts = contexts

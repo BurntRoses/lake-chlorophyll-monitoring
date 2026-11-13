@@ -1,0 +1,19 @@
+Figure 4. Cross-region coverage under absolute and lake-relative targets.
+
+All panels use 10% capacity and a 31–60-day lead. (a) Absolute events gained and lost relative to XGBoost, as percentages of each cohort. Event denominators are 337, 86, 29 and 77 for China 2020–2022, China 2023, Oceania 2020–2022 and New Zealand (NZ) 2023–2024. Absolute events use Chl-a ≥75 μg/L and high-record gaps ≤60 days.
+
+(b) Relative-target minus absolute-target training effects on the same relative events within each region. Bars are 98.75% paired whole-lake bootstrap intervals from 5,000 resamples; denominators are 718, 168, 128 and 24.
+
+(c) Minimum rank/quota across eligible opportunities for 718 Chinese relative events in 258 lakes under the two training targets; values ≤1 indicate coverage. Quadrants show 314 gained, 27 lost, 35 retained and 342 uncovered events. Marginal histograms show priority distributions.
+
+(d) Change in within-lake event coverage against pre-2011 Chl-a q90 (90th percentile). Symbol area represents event count; green, grey and red indicate increased, unchanged and decreased coverage. Relative references require ≥50 observations spanning ≥365 days before 2011. pp denotes percentage points.
+
+图4 绝对目标与湖泊相对目标下的跨地区事件覆盖。
+
+所有面板采用10%容量和31—60天提前期。（a）相对XGBoost新增及失去覆盖的绝对事件，占各队列的比例。中国2020—2022年、中国2023年、大洋洲2020—2022年和新西兰（NZ）2023—2024年的事件分母依次为337、86、29和77。绝对事件采用Chl-a≥75 μg/L及相邻高值间隔≤60天。
+
+（b）各地区同一相对事件队列上，相对目标训练减绝对目标训练的覆盖率差。误差条为5,000次整湖配对自助抽样的98.75%区间；分母依次为718、168、128和24。
+
+（c）中国258个湖泊718个相对事件在两种训练目标下，合格机会中的最小名次/名额比；≤1表示覆盖。四象限分别为新增314个、失去27个、保留35个及均未覆盖342个事件，边际直方图表示优先级分布。
+
+（d）湖内事件覆盖比例变化与2011年前Chl-a第90百分位（q90）的关系。符号面积表示事件数，绿、灰、红分别表示覆盖提高、不变和下降。相对参考值要求2011年前至少50次观测且跨度≥365天。pp为百分点。

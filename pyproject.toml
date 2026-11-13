@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "lake-biomass-coverage"
-version = "2.0.0"
+version = "0"
 description = "Capacity-limited lake monitoring with event-coverage learning"
 readme = "README.md"
 requires-python = ">=3.12"

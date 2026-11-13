@@ -1,0 +1,238 @@
+{
+  "FigureS1": {
+    "context_records": 573461,
+    "candidate_lakes": 2844,
+    "expert_training_records": 136122,
+    "supervision_rows": 72,
+    "five_fold_lakes": [
+      582,
+      558,
+      544,
+      586,
+      574
+    ],
+    "nested_historical_splits_checked": 28,
+    "nested_example_cells": 20,
+    "positive_records_by_window": {
+      "1_14": 1649,
+      "15_30": 1993,
+      "31_60": 3283
+    },
+    "available_input_lag_days": 7,
+    "event_grouping_gap_days": 60,
+    "timeline_fit_start_year": 2011,
+    "ranker_context_start_year": 2013,
+    "interpretation": "Data partitions and admissibility rules; no new models were fitted."
+  },
+  "FigureS2": {
+    "fixed_timing_cohort": 681,
+    "event_method_records": 2724,
+    "annual_primary_events": 593,
+    "annual_denominators": [
+      49,
+      39,
+      171,
+      225,
+      109
+    ],
+    "window_cohorts": {
+      "31_60": 593,
+      "1_30": 679,
+      "1_60": 681,
+      "1_14": 679,
+      "15_30": 644
+    },
+    "complete_transition_cells": 16,
+    "transition_sum": 681,
+    "paired_both": 582,
+    "multi_only": 8,
+    "single_only": 15,
+    "neither": 76,
+    "exact_day_unchanged": 514,
+    "exact_day_earlier": 47,
+    "exact_day_later": 21,
+    "nonzero_difference_bins": 6,
+    "interpretation": "Descriptive event timing at released fixed scores; no new fitting or resampling."
+  },
+  "FigureS3": {
+    "candidate_rows": 365726,
+    "lakes": 2844,
+    "decision_rounds": 130,
+    "events": 593,
+    "stages_per_model": 61,
+    "capacities_pct": [
+      5,
+      10
+    ],
+    "tie_break": "descending score, ascending string lake_id within decision date",
+    "event_order": "ascending initial 10% min(rank / integer quota), stable ties",
+    "log2_change_range": [
+      -8.129283016944965,
+      7.294620748891627
+    ],
+    "log2_change_quantiles": [
+      -5.774787059601173,
+      -4.1782323789928455,
+      -0.8879959194106882,
+      1.6584246519709893,
+      3.4594316186372973
+    ],
+    "endpoints": [
+      {
+        "method": "single_window",
+        "capacity_pct": 5,
+        "initial_covered": 231,
+        "final_covered": 364
+      },
+      {
+        "method": "single_window",
+        "capacity_pct": 10,
+        "initial_covered": 329,
+        "final_covered": 461
+      },
+      {
+        "method": "multi_window",
+        "capacity_pct": 5,
+        "initial_covered": 231,
+        "final_covered": 385
+      },
+      {
+        "method": "multi_window",
+        "capacity_pct": 10,
+        "initial_covered": 329,
+        "final_covered": 463
+      }
+    ],
+    "final_pairing": [
+      {
+        "capacity_pct": 5,
+        "both": 344,
+        "single_only": 20,
+        "multi_only": 41,
+        "neither": 188
+      },
+      {
+        "capacity_pct": 10,
+        "both": 446,
+        "single_only": 15,
+        "multi_only": 17,
+        "neither": 115
+      }
+    ],
+    "interpretation": "Retrospective saved-prefix replay; not logged training loss or independent validation."
+  },
+  "FigureS4": {
+    "candidate_rows": 365726,
+    "candidate_lakes": 2844,
+    "rounds": 130,
+    "slots_per_method_schedule": 36631,
+    "method_schedule_combinations": 8,
+    "new_lakes_reached": {
+      "single_window": 281,
+      "multi_window": 278
+    },
+    "maximum_history_aware_frequency": 65,
+    "minimum_interval_days": 14,
+    "maximum_interval_days": 1610,
+    "all_interval_multiples_of_14": true,
+    "interval_total_equals_slots_minus_selected_lakes": true,
+    "first_selections_excluded_from_interval_denominator": true,
+    "interpretation": "Fixed-score/saved-schedule allocation diagnostics; no new fitting or scheduling optimization."
+  },
+  "FigureS5": {
+    "capacity_points_rebuilt": 1872,
+    "nominal_capacity_pct": [
+      1,
+      30
+    ],
+    "grid_step_pp": 0.25,
+    "regional_primary_event_counts": [
+      337,
+      86,
+      29,
+      77
+    ],
+    "resamples_per_region": 5000,
+    "paired_comparisons": 8,
+    "comparison_family_size": 4,
+    "paired_interval_level": 0.9875,
+    "full_effect_range_pp": [
+      -22.78481012658228,
+      71.42857142857142
+    ],
+    "density_histogram_bin_width_pp": 0.5,
+    "density_gaussian_sigma_pp": 0.6,
+    "density_vertical_multiplier": 3,
+    "individually_normalized_profiles": false,
+    "density_profile_rows": 2000,
+    "interpretation": "Reconstruction at released fixed scores and saved whole-lake draws; no new fitting or resampling."
+  },
+  "FigureS6": {
+    "reference_lake_cohorts": {
+      "source": 3515,
+      "china_2020_2022": 429
+    },
+    "supported_lake_cdf_counts": {
+      "source": 2053,
+      "china_2020_2022": 278
+    },
+    "all_reference_dates_pre2011": true,
+    "reference_q90_range": [
+      0.1,
+      506.16
+    ],
+    "pooled_quantile_estimates": 12,
+    "paired_events": 718,
+    "absolute_covered": 62,
+    "relative_covered": 349,
+    "grouped_accumulation_rows": 236,
+    "background_stratum_events": [
+      485,
+      215,
+      18
+    ],
+    "gained": 314,
+    "lost": 27,
+    "retained": 35,
+    "neither": 342,
+    "regional_reach_points": 8,
+    "new_zealand_reference_supported": 19,
+    "new_zealand_candidate_lakes": 166,
+    "new_zealand_primary_events": 24,
+    "new_zealand_primary_event_lakes": 13,
+    "interpretation": "Historical-background and fixed-score relative-event diagnostics; no new model fitting."
+  },
+  "FigureS7": {
+    "evaluation_windows": [
+      "1_14",
+      "15_30",
+      "1_30",
+      "31_60",
+      "1_60"
+    ],
+    "window_denominators": [
+      679,
+      644,
+      679,
+      593,
+      681
+    ],
+    "paired_intervals": 6,
+    "paired_draws_per_interval": 5000,
+    "paired_draw_records": 30000,
+    "event_definition_estimates": 24,
+    "event_definition_denominators": [
+      2077,
+      985,
+      593,
+      373,
+      713,
+      587
+    ],
+    "configuration_color_range": [
+      -1.9145802650957222,
+      3.8291605301914586
+    ],
+    "interpretation": "Exploratory configuration comparisons at fixed scores; full joint configurations differ in depth and auxiliary weight."
+  }
+}

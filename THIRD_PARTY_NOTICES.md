@@ -11,7 +11,7 @@ still needs to be recovered for some older downloads.
 
 Credit LAWA (Land, Air, Water Aotearoa) and LAWA partner agencies, under CC BY 4.0.
 The LAWA workbook license and attribution wording are in
-`docs/source_metadata/lawa_notices.txt`. Credit Shahvaran et al. for the global
+`docs/lawa_notices.txt`. Credit Shahvaran et al. for the global
 satellite lake-water-quality dataset, and retain its DOI and CC BY 4.0 license.
 Credit ECMWF/Copernicus for ERA5 and NASA for CyAN. USGS-produced data and Natural
 Earth layers are public-domain material; WQP observations can come from other

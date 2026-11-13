@@ -1,0 +1,23 @@
+Figure S6. Historical references and redistribution of relative-event coverage.
+
+(a) Left: lake-weighted distributions of pre-2011 Chl-a q90 for 2,053 source-region and 278 Chinese reference-supported lakes. Right: observation-weighted pre-2020 Chl-a percentiles summarise 1,406,007 source observations in 3,515 lakes and 172,755 Chinese observations in 435 lakes.
+
+(b) Reference-supported/all candidate lakes. References require ≥50 pre-2011 observations spanning ≥365 days; other candidates remain in quota competition.
+
+(c) Cumulative coverage across historical q90 for the same 718 Chinese relative events in 2020–2022. Absolute-target and relative-target Multi-window models cover 62 and 349 events.
+
+(d) Relative-target Multi-window event coverage against the fraction of event-bearing lakes with coverage. Open and filled symbols denote 31–60 and 1–60-day windows, each with its own denominator (Table S15).
+
+(e) Paired gains and losses among 485, 215 and 18 events in q90 strata <25, 25–<75 and ≥75 μg/L. Bars show gained/lost fractions; diamonds show net percentage-point changes. All coverage results use 10% capacity.
+
+图S6 历史参考值与相对事件覆盖的重新分配。
+
+（a）左：2,053个来源地区及278个中国湖泊的2011年前Chl-a q90分布，按湖泊等权。右：2020年前Chl-a分位数按观测加权，来源地区为3,515个湖泊的1,406,007条观测，中国为435个湖泊的172,755条观测。
+
+（b）具备参考值/全部候选湖泊数。参考值要求2011年前至少50次观测且跨度≥365天，其他候选仍参与名额竞争。
+
+（c）中国2020—2022年同一718个相对事件沿历史q90的累计覆盖，绝对目标与相对目标多窗模型分别覆盖62、349个事件。
+
+（d）相对目标多窗模型的事件覆盖率与至少一个事件被覆盖的事件湖泊比例。空心、实心符号为31—60天和1—60天，各窗口分母见表S15。
+
+（e）q90低于25、25至不足75、不低于75 μg/L三层中485、215、18个事件的配对变化。柱表示新增/失去比例，菱形表示净变化百分点。全部覆盖结果采用10%容量。

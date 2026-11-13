@@ -91,7 +91,7 @@ def build():
         if name == 'new_zealand':
             obs = field.copy()
             obs['country'], obs['continent'] = ('New Zealand', 'Oceania')
-            local_attrs = pd.read_csv(DATA / 'raw/cross_region/lawa_nz/metadata/all_LFENZ_lake_morphology.csv').set_index('lake_id')
+            local_attrs = pd.read_csv(DATA / 'raw/cross_region/lawa_nz/lake_morphology.csv').set_index('lake_id')
         elif name == 'china_2023':
             obs = satellite[satellite.country.eq('China')].copy()
             p = panel_observations(name)

@@ -1,9 +1,0 @@
-endpoint_id,comparison_family,proposed_id,comparator_id,difference_pp,lower_pp,upper_pp,confidence_level,bootstrap_replicates,region_id,region,comparator
-31_60,standard_controls,multi_window,xgboost,4.45103857567,-1.92736456872,8.50253004428,0.9875,5000,china_2020_2022,China 2020–2022,XGBoost
-31_60,standard_controls,multi_window,elastic_net,10.6824925816,2.66064514855,17.9466415368,0.9875,5000,china_2020_2022,China 2020–2022,Elastic Net
-31_60,standard_controls,multi_window,xgboost,2.32558139535,-12.6086566092,11.6840363681,0.9875,5000,china_2023,China 2023,XGBoost
-31_60,standard_controls,multi_window,elastic_net,-2.32558139535,-14.9859913793,12.4657654494,0.9875,5000,china_2023,China 2023,Elastic Net
-31_60,standard_controls,multi_window,xgboost,17.2413793103,-5.26315789474,44.4444444444,0.9875,5000,oceania,Oceania 2020–2022,XGBoost
-31_60,standard_controls,multi_window,elastic_net,24.1379310345,-7.14285714286,55.8026960784,0.9875,5000,oceania,Oceania 2020–2022,Elastic Net
-31_60,standard_controls,multi_window,xgboost,-9.09090909091,-16.3636363636,5.37073257468,0.9875,5000,new_zealand,New Zealand 2023–2024,XGBoost
-31_60,standard_controls,multi_window,elastic_net,-6.49350649351,-15,10.5113984088,0.9875,5000,new_zealand,New Zealand 2023–2024,Elastic Net

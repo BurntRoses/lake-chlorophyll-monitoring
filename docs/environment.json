@@ -1,24 +1,31 @@
 {
-  "python": "3.12.14",
+  "python": "3.12.10",
   "system": "Windows-11-10.0.26200-SP0",
-  "scope": "prediction replay and event evaluation",
+  "scope": "saved-model prediction replay, full-cohort stage replay, event evaluation and figure rendering",
   "packages": {
     "joblib": "1.4.2",
-    "llvmlite": "0.50.0",
-    "numba": "0.68.0",
+    "llvmlite": "0.47.0",
+    "numba": "0.65.1",
     "numpy": "2.2.6",
-    "packaging": "26.3",
+    "packaging": "26.2",
     "pandas": "2.2.3",
-    "pyarrow": "19.0.1",
+    "pyarrow": "24.0.0",
     "python-dateutil": "2.9.0.post0",
-    "pytz": "2026.5",
+    "pytz": "2026.6",
     "scikit-learn": "1.6.1",
     "scipy": "1.15.3",
     "six": "1.17.0",
-    "threadpoolctl": "3.7.0",
-    "tzdata": "2026.5",
+    "threadpoolctl": "3.6.0",
+    "tzdata": "2026.2",
     "xgboost": "3.0.2",
-    "openpyxl": "3.1.5"
+    "matplotlib": "3.10.9",
+    "Pillow": "11.1.0",
+    "geopandas": "1.1.4",
+    "rasterio": "1.5.0",
+    "pyproj": "3.7.2",
+    "resvg-py": "0.5.0",
+    "python-docx": "1.2.0",
+    "PyMuPDF": "2.0"
   },
-  "tested": "2026-11-07"
+  "tested": "2026-11-11"
 }

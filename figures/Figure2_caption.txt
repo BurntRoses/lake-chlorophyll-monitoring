@@ -1,0 +1,15 @@
+Figure 2. Shared residual-tree learning and quota-constrained lake selection.
+
+(a) Environmental inputs, fixed base-prediction logits and a window identifier enter shared residual trees. The 31–60-day output generates the monitoring list; 1–14 and 15–30-day outputs provide auxiliary supervision. Trees 1, 2 and 60 are shown, with tree 1 enlarged and its raw residual leaf values labelled. TP denotes total phosphorus; Window ID denotes lead window. Dashed arrows show training feedback.
+
+(b) Left: scores for 2,805 eligible lakes on 25 June 2023; the top 281 are selected. Right: opportunities for events A–C are pooled into event-level coverage. Smooth selection weights sum to the round’s quota; known and unknown labels contribute the losses defined in Supplementary Methods S2.
+
+(c) Split counts by input family and tree for the 60-tree rankers. Cells use a common 0–7 scale.
+
+图2 共享残差树学习与监测名额选取。
+
+（a）环境输入、固定基础预测的logit和窗口标识进入共享残差树。31—60天输出形成监测名单，1—14天和15—30天输出提供辅助监督。图示第1、2和60棵树，放大第1棵树并标注原始残差叶值。TP为总磷，Window ID为提前期窗口；虚线箭头表示训练反馈。
+
+（b）左：2023年6月25日2,805个候选湖泊的分数，前281个获得名额。右：将事件A—C的多次机会合并为事件覆盖计分。每轮平滑入选权重之和等于名额，已知及未知标签对应的损失见补充方法S2。
+
+（c）两种60棵树排序器中各输入类别的分裂次数，单元格使用统一的0—7色标。

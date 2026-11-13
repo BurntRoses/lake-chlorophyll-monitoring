@@ -1,0 +1,19 @@
+Figure S2. Advance selection and annual event coverage in US lakes.
+
+All results use 10% capacity. (a) Cumulative earliest selection for 681 events with 1–60-day opportunities. Lead time shortens from left to right; the reference marks 30 days.
+
+(b) Annual 31–60-day coverage; event denominators for 2021–2025 are 49, 39, 171, 225 and 109.
+
+(c) Paired earliest-selection categories for Single-window (columns) and Multi-window (rows). Green and ochre borders denote earlier/gained and later/lost coverage under Multi-window. Of 681 events, 582 are covered by both, 8 only by Multi-window, 15 only by Single-window and 76 by neither. None denotes no selection within 1–60 days.
+
+(d) Exact earliest-lead difference among the 582 jointly covered events; positive values mean earlier Multi-window selection. There are 514 ties, 47 earlier selections and 21 later selections.
+
+图S2 美国湖泊的提前入选与年度事件覆盖。
+
+均采用10%容量。（a）具有1—60天机会的681个事件的累计最早入选曲线；横轴从左至右提前期缩短，参考线标记30天。
+
+（b）2021—2025年31—60天覆盖率，事件分母依次为49、39、171、225和109。
+
+（c）单窗（列）与多窗（行）的最早入选类别配对。绿色、赭色边框分别表示多窗更早或新增覆盖，以及更晚或失去覆盖。681个事件中582个共同覆盖，多窗独有8个，单窗独有15个，均未覆盖76个。None为1—60天内未入选。
+
+（d）582个共同覆盖事件的最早提前期差，正值表示多窗更早。514个相同，47个提前，21个推迟。

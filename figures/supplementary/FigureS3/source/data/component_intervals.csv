@@ -1,7 +1,0 @@
-endpoint,proposed,comparator,lower95,upper95,bootstrap_reps
-31_60,three_time_joint,single,-1.9264448336252182,2.5276461295418606,5000
-31_60,three_time_joint,three_long_primary_only,-2.241573201288628,1.8425460636515845,5000
-31_60,three_time_joint,three_time_primary_only,-1.551765985939067,2.359418094516759,5000
-1_60,three_time_joint,single,-2.5316455696202556,0.4335260115606923,5000
-1_60,three_time_joint,three_long_primary_only,-1.2296346893341497,2.228826151560171,5000
-1_60,three_time_joint,three_time_primary_only,-1.7833259847148728,1.1412268188302432,5000

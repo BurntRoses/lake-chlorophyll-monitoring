@@ -71,7 +71,7 @@
     "maximum secondary capture",
     "lexical name"
   ],
-  "evaluation_scope": "Previously inspected retrospective panel; fixed parameters, no target-year refitting",
+  "evaluation_scope": "Retrospective evaluation of fixed configurations in 2021–2025; no target-year refitting",
   "primary_model_family": "joint",
   "primary_policy": "multi_window",
   "primary_model_specification": "monitoring_models.json",

@@ -112,7 +112,7 @@ def evaluate():
         raise ValueError('The frozen model configuration changed after training')
     all_points = []
     source = pd.read_parquet(RESULT / 'source_validation/predictions.parquet')
-    # Use chronological held-out predictions for each source cell.
+    # Reuse the exact chronological, held-out base predictions of each source cell.
     if 'matched_xgboost' not in source:
         from .cross_region_training import cell_folder
         parts = [pd.read_parquet(cell_folder(year, (fold,))/'predictions.parquet',

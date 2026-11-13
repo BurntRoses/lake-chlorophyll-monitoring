@@ -1,79 +1,37 @@
-# Ranking lakes for high-chlorophyll events under limited monitoring capacity
+# Capacity-limited lake monitoring
 
-Code and data for capacity-limited lake monitoring with single-window and
-multi-window event-coverage rankers. The US evaluation includes 2,844 lakes and
-130 fortnightly rounds during 2021–2025. The primary lead window is 31–60 days,
-with high-chlorophyll events defined at Chl-a ≥75 μg/L. Regional analyses also
-evaluate lake-specific historical thresholds.
+Data and code for *Ranking lakes for high-chlorophyll events under limited monitoring capacity* by Siran Luo, Xingchen Liu, Lin Zhao, Yihan Wu, Yining Zhang and Jibiao Zhang.
 
-## Installation
+The study evaluates independent high-chlorophyll event coverage under recurring sampling quotas, using US lake records, history-aware scheduling and cross-region absolute and lake-relative targets.
 
-Use Python 3.12. Analysis dependencies are pinned in `requirements.txt`.
+## Data
 
-```bash
+Download [analysis-data.zip](https://github.com/BurntRoses/lake-chlorophyll-monitoring/releases/download/research-materials/analysis-data.zip) and [SHA256SUMS.txt](https://github.com/BurntRoses/lake-chlorophyll-monitoring/releases/download/research-materials/SHA256SUMS.txt) from [Research materials](https://github.com/BurntRoses/lake-chlorophyll-monitoring/releases/tag/research-materials). Extract the archive into the repository root. It supplies `data/derived`, `data/processed`, `data/figures`, `models` and `results`.
+
+Original datasets and attribution are listed in `docs/data_sources.csv`, `THIRD_PARTY_NOTICES.md` and `LICENSE-DATA`. Original source downloads remain with their providers.
+
+## Reproduce
+
+Use Python 3.12 and Times New Roman for figure rendering.
+
+```sh
 python -m pip install -e .
+python -m pip install -r requirements-figures.txt
+python scripts/reproduce.py --output ../lake-monitoring-reproduced
+python scripts/render_figures.py
 ```
 
-## Data and reproduction
+`reproduce.py` checks saved-model predictions and recomputes US and regional event coverage. Add `--full` to replay all US predictions. `python -m biomass --help` lists data preparation, training and evaluation commands. Recalculation outputs should use a separate directory.
 
-Download `lake-biomass-coverage.zip` from the
-[latest release](https://github.com/BurntRoses/lake-chlorophyll-monitoring/releases/latest)
-and extract it. The archive includes processed inputs, fitted models, predictions,
-event records, results and figures. The Git repository contains the analysis and
-plotting code, configuration, figure source tables and documentation.
+## Files
 
-From the extracted archive:
-
-```bash
-python scripts/verify_files.py
-python scripts/reproduce.py
-```
-
-The default run replays 256 US prediction rows per year and recalculates US and
-regional event coverage. To replay all 365,726 US rows:
-
-```bash
-python scripts/reproduce.py --full --output reproduced
-```
-
-Outputs are written to `reproduced/`. Prediction replay and event evaluation run
-on CPU without network access. See [reproducibility.md](docs/reproducibility.md)
-for source rebuilding, model fitting and figure rendering.
-
-## Repository structure
-
-| Directory | Contents |
+| Path | Contents |
 |---|---|
-| `src/biomass` | Observation and feature builders, model fitting, ranking and evaluation |
-| `config` | Input paths, feature definitions, parameters, seeds and event rules |
-| `data/derived` | Observation histories, features, candidates and events |
-| `data/processed` | Model inputs and cohort membership |
-| `models` | Fitted experts and coverage models |
-| `results` | Scores, selections, event coverage, bootstrap draws and summaries |
-| `figures` | Figures 1–4, S1–S6 and the graphical abstract, with plotting sources |
-| `tables` | Tables 1–2 and S1–S15 |
-| `docs` | Data sources, file catalog, schemas and variable definitions |
-| `scripts` | Reproduction and file verification |
+| `src/biomass` | Data preparation, models, scoring, scheduling and evaluation |
+| `config` | Model and evaluation settings |
+| `scripts` | Reproduction, stage replay and figure rendering |
+| `tables` | Table 1 and Tables S1–S16 as CSV |
+| `figures` | Main and supplementary figures, captions and graphical abstract |
+| `docs` | Sources, variable definitions, environment and figure statistics |
 
-Large analysis files are distributed in the release archive. Original bulk
-downloads are obtained from the providers listed in [data_sources.csv](docs/data_sources.csv)
-and placed under `data/raw/` when rebuilding source inputs.
-
-## Variables
-
-`lake_id` identifies a lake within its source system; `candidate_row_key`
-identifies a lake–decision-date record; `episode_id` identifies an independent
-event. Unknown outcome labels use −1 and remain eligible for ranking. Missing
-features use NaN or Parquet null. Chl-a is in μg/L, numerically identical to mg/m³.
-Coverage is the percentage of independent events with at least one selected
-opportunity in the lead window. Coverage differences use percentage points.
-See [variable_conventions.md](docs/variable_conventions.md).
-
-## Citation and licenses
-
-The project is archived at [Zenodo](https://doi.org/10.5281/zenodo.22809123).
-Citation metadata are in `CITATION.cff`; cite the version used in your analysis.
-
-Code is licensed under MIT. Author-generated data and results are licensed under
-CC BY 4.0. Third-party materials retain their source terms; see
-`THIRD_PARTY_NOTICES.md` and `docs/data_sources.csv`.
+Code is MIT-licensed. Data and third-party materials retain the terms in `LICENSE-DATA` and `THIRD_PARTY_NOTICES.md`. `manifest.csv` records file sizes and SHA-256 checksums for this source tree.

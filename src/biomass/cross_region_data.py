@@ -214,7 +214,7 @@ def build_inputs():
     field['country'] = 'New Zealand'
     field['continent'] = 'Oceania'
     field['temperature'] = field['turbidity'] = np.nan
-    field_morph = pd.read_csv(DATA / 'raw/cross_region/lawa_nz/metadata/all_LFENZ_lake_morphology.csv')
+    field_morph = pd.read_csv(DATA / 'raw/cross_region/lawa_nz/lake_morphology.csv')
     panel = spec['panels']['new_zealand']
     summaries.append(build_table(field, field_morph, panel['first_origin'], panel['last_origin'],
         '2023-01-01', DEST / 'new_zealand', panel['event_start'], panel['event_end']))

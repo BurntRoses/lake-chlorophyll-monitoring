@@ -1,0 +1,155 @@
+{
+  "doi": "10.5281/zenodo.20347115",
+  "metadata": {
+    "title": "Global Daily Satellite-Derived Lake Surface Water Quality Dataset (2002-2022)",
+    "doi": "10.5281/zenodo.20347115",
+    "publication_date": "2026-05-22",
+    "description": "<p>This repository hosts a standardized, accessible dataset of concurrent daily water quality statistics for 5,551 lakes worldwide from 2002 to 2022. Derived from the European Space Agency's Lakes Climate Change Initiative (ESA Lakes_cci) v2.1 and intersected with HydroLAKES v1.0 polygon boundaries, the dataset provides lake-wide statistics (minimum, maximum, mean, standard deviation, valid pixel count, spatial coverage ratio) for three water quality parameters: chlorophyll-a (Chl-a, mg m⁻&sup3;), lake surface water temperature (LSWT, &deg;C), and turbidity (NTU). Records are temporally harmonized to retain only days on which all three parameters are simultaneously valid. A multi-tiered QA/QC flagging scheme is included to identify spatial inhomogeneities and temporal anomalies.</p>\n<p><strong>Repository contents:</strong></p>\n<ul>\n<li><code>hylak_id_description.csv</code> &mdash; 47-column summary metadata file (central coordinates, country, K&ouml;ppen-Geiger climate zone, valid observation counts, and long-term monthly/year-round means) for all 5,551 lakes.<br><br><br></li>\n<li><code>hylak_id.zip</code> &mdash; 5,551 individual CSV files (one per lake, named <code>{hylak_id}.csv</code>), each containing the 22-column daily time series with QA/QC flags.<br><br><br></li>\n<li><code>code.zip</code> &mdash; Python (v3.10) scripts used for data extraction, spatial masking, zonal statistics, harmonization, and QA/QC flagging.</li>\n</ul>\n<p>Full methodology, variable definitions, and validation are described in the companion paper (DOI to be added after publication).</p>",
+    "access_right": "open",
+    "creators": [
+      {
+        "name": "Shahvaran, Ali Reza",
+        "affiliation": null,
+        "orcid": "0000-0001-7846-054X"
+      },
+      {
+        "name": "Noori, Roohollah",
+        "affiliation": null,
+        "orcid": "0000-0002-7463-8563"
+      },
+      {
+        "name": "Basheer, Mohammed",
+        "affiliation": null,
+        "orcid": "0000-0001-9468-2249"
+      },
+      {
+        "name": "Madani, Kaveh",
+        "affiliation": null,
+        "orcid": "0000-0003-0887-6376"
+      },
+      {
+        "name": "Mi, Chenxi",
+        "affiliation": null,
+        "orcid": "0000-0003-2323-1832"
+      },
+      {
+        "name": "Shi, Kun",
+        "affiliation": null,
+        "orcid": "0000-0002-6124-7512"
+      },
+      {
+        "name": "Zhou, Yongqiang",
+        "affiliation": null,
+        "orcid": "0000-0003-1402-345X"
+      },
+      {
+        "name": "Woolway, Richard Iestyn",
+        "affiliation": null,
+        "orcid": "0000-0003-0498-7968"
+      },
+      {
+        "name": "Zhang, Yunlin",
+        "affiliation": null,
+        "orcid": "0000-0002-3382-4570"
+      },
+      {
+        "name": "Qin, Boqiang",
+        "affiliation": null,
+        "orcid": "0000-0003-3977-4903"
+      },
+      {
+        "name": "AghaKouchak, Amir",
+        "affiliation": null,
+        "orcid": "0000-0003-4689-8357"
+      },
+      {
+        "name": "van Vliet, Michelle T.H.",
+        "affiliation": null,
+        "orcid": "0000-0002-2597-8422"
+      }
+    ],
+    "keywords": [
+      "lake water quality",
+      "chlorophyll-a",
+      "lake surface water temperature",
+      "turbidity",
+      "remote sensing",
+      "ESA Lakes_cci",
+      "HydroLAKES",
+      "limnology",
+      "satellite remote sensing",
+      "inland waters",
+      "climate change",
+      "time series",
+      "QA/QC flags"
+    ],
+    "version": "1.0.0",
+    "language": "eng",
+    "resource_type": {
+      "title": "Dataset",
+      "type": "dataset"
+    },
+    "license": {
+      "id": "cc-by-4.0"
+    },
+    "grants": [
+      {
+        "code": "2024PG0017",
+        "internal_id": "034t30j35::2024PG0017",
+        "funder": {
+          "name": "Chinese Academy of Sciences"
+        },
+        "title": "President's International Fellowship Initiative (PIFI)"
+      },
+      {
+        "code": "2024DC0005",
+        "internal_id": "034t30j35::2024DC0005",
+        "funder": {
+          "name": "Chinese Academy of Sciences"
+        },
+        "title": "President's International Fellowship Initiative (PIFI)"
+      }
+    ],
+    "relations": {
+      "version": [
+        {
+          "index": 0,
+          "is_last": true,
+          "parent": {
+            "pid_type": "recid",
+            "pid_value": "20347114"
+          }
+        }
+      ]
+    }
+  },
+  "files": [
+    {
+      "id": "14e6ae7f-6d3d-47f7-9e9a-6ec291ff1be2",
+      "key": "code.zip",
+      "size": 20258,
+      "checksum": "md5:b70b56a8331f5c0b9d76ebae3e95b637",
+      "links": {
+        "self": "https://zenodo.org/api/records/20347115/files/code.zip/content"
+      }
+    },
+    {
+      "id": "b7e55053-c446-4cd6-abc9-c94a5cd6ffde",
+      "key": "hylak_id.zip",
+      "size": 89737112,
+      "checksum": "md5:918a40bc47246a0302b3457b6fbc33c5",
+      "links": {
+        "self": "https://zenodo.org/api/records/20347115/files/hylak_id.zip/content"
+      }
+    },
+    {
+      "id": "5f7d0e60-dc34-41eb-976b-6a13619ebc2c",
+      "key": "hylak_id_description.csv",
+      "size": 1138596,
+      "checksum": "md5:1fc8ee8fabcaa8bc55bb719bbf779c4a",
+      "links": {
+        "self": "https://zenodo.org/api/records/20347115/files/hylak_id_description.csv/content"
+      }
+    }
+  ]
+}

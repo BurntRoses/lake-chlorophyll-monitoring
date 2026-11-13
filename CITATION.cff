@@ -1,9 +1,7 @@
 cff-version: 1.2.0
-message: "Please cite the version used and the original datasets listed in docs/data_sources.csv."
+message: "Please cite this work and the original datasets listed in docs/data_sources.csv."
 type: software
 title: "Ranking lakes for high-chlorophyll events under limited monitoring capacity: data and code"
-version: 2.0.0
-date-released: 2026-11-08
 url: "https://github.com/BurntRoses/lake-chlorophyll-monitoring"
 repository-code: "https://github.com/BurntRoses/lake-chlorophyll-monitoring"
 authors:
@@ -14,13 +12,13 @@ authors:
     given-names: Xingchen
   - family-names: Zhao
     given-names: Lin
+  - family-names: Wu
+    given-names: Yihan
+  - family-names: Zhang
+    given-names: Yining
   - family-names: Zhang
     given-names: Jibiao
     orcid: "https://orcid.org/0000-0003-2734-6477"
-identifiers:
-  - type: doi
-    value: "10.5281/zenodo.22809123"
-    description: "All versions"
 license:
   - MIT
   - CC-BY-4.0

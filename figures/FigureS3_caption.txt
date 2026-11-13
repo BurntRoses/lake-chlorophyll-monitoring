@@ -1,0 +1,15 @@
+Figure S3. Event priorities and coverage across residual-tree stages.
+
+(a) Coverage of 593 US 31–60-day events at stages 0–60, using 10% (solid) and 5% (dashed) capacity. Stage 0 is the fixed base logit. Final Single-window/Multi-window counts are 461/463 at 10% and 364/385 at 5%.
+
+(b) Event priorities at 10% capacity, defined as the minimum rank/quota across eligible opportunities. Colour is log2(stage priority/initial priority); negative values indicate improvement. Events share the same initial-priority order. The divider separates 329 initially covered from 264 initially uncovered events; sidebars show coverage at stages 0 and 60.
+
+(c) Events gained (positive solid curves) and lost (negative dashed curves) relative to stage 0 at each stage. Final gained/lost counts for Single-window and Multi-window are 155/22 and 171/17 at 5%, and 144/12 and 144/10 at 10%. Lists are rebuilt from the same 365,726 eligible records across 130 rounds in 2021–2025.
+
+图S3 残差树阶段中的事件优先级与覆盖变化。
+
+（a）第0—60阶段在10%（实线）和5%（虚线）容量下对593个美国31—60天事件的覆盖。第0阶段为固定基础logit。单窗/多窗最终覆盖数在10%下为461/463，在5%下为364/385。
+
+（b）10%容量下的事件优先级，为合格机会中名次/名额比的最小值。颜色为log2（阶段优先级/初始优先级），负值表示改善。事件按相同初始优先级排序，分隔线区分初始已覆盖329个与未覆盖264个事件；侧条表示第0和60阶段的覆盖。
+
+（c）各阶段相对第0阶段新增（正向实线）和失去（负向虚线）覆盖的事件数。5%下单窗、多窗最终新增/失去为155/22、171/17，10%下为144/12、144/10。各阶段均根据2021—2025年130轮的同一365,726条合格记录重建名单。

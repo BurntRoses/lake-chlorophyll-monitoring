@@ -1,9 +1,0 @@
-region_id,region,endpoint_id,lead_window,method_id,method,events_covered,evaluable_events,coverage_pct,event_lakes_covered,evaluable_event_lakes,lake_coverage_pct
-china_2020_2022,China 2020–2022,31_60,31–60 d,multi_window,Multi-window,349,718,48.6072423398,196,258,75.9689922481
-china_2020_2022,China 2020–2022,1_60,1–60 d,multi_window,Multi-window,638,1004,63.5458167331,232,272,85.2941176471
-china_2023,China 2023,31_60,31–60 d,multi_window,Multi-window,71,168,42.2619047619,64,140,45.7142857143
-china_2023,China 2023,1_60,1–60 d,multi_window,Multi-window,124,211,58.7677725118,107,165,64.8484848485
-oceania,Oceania 2020–2022,31_60,31–60 d,multi_window,Multi-window,67,128,52.34375,38,55,69.0909090909
-oceania,Oceania 2020–2022,1_60,1–60 d,multi_window,Multi-window,130,185,70.2702702703,46,58,79.3103448276
-new_zealand,New Zealand 2023–2024,31_60,31–60 d,multi_window,Multi-window,24,24,100,13,13,100
-new_zealand,New Zealand 2023–2024,1_60,1–60 d,multi_window,Multi-window,35,35,100,13,13,100

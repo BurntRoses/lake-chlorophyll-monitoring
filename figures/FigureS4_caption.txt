@@ -1,0 +1,19 @@
+Figure S4. Reallocation of a fixed monitoring budget among lakes and rounds.
+
+All schedules use 36,631 slots across 2,844 US lakes and 130 rounds at 10% capacity. (a) Paired lake-selection frequencies under score-only (columns) and history-aware (rows) scheduling. Ochre borders identify 281 and 278 newly reached lakes for Single-window and Multi-window, respectively.
+
+(b) Cumulative distinct lakes selected. Dashed and solid curves denote score-only and history-aware schedules throughout panels b–d.
+
+(c) Empirical distributions of intervals between consecutive selections of the same lake. The 30-day reference marks the recovery scale in the scheduling rule. First selections are excluded.
+
+(d) Slot-concentration curves after ranking all lakes by total selections within each method and schedule. The diagonal represents equal allocation. Event-coverage outcomes are shown in Figure 3.
+
+图S4 固定监测预算在湖泊与轮次之间的重新分配。
+
+全部方案采用10%容量，在美国2,844个湖泊、130轮中使用36,631个名额。（a）原始分数调度（列）与历史感知轮换调度（行）的湖泊入选频次配对，赭色边框标记单窗、多窗新增触及的281、278个湖泊。
+
+（b）累计不同入选湖泊数。b—d中虚线、实线分别表示原始分数与历史感知轮换调度。
+
+（c）同一湖泊相邻两次入选间隔的经验分布，排除首次入选；30天参考线对应调度规则中的恢复尺度。
+
+（d）各方法和调度内按总入选次数排列全部湖泊后的名额集中度曲线，对角线表示均匀分配。事件覆盖结果见图3。

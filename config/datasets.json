@@ -15,7 +15,7 @@
   "retrospective_wq_history": "data/derived/retrospective_wq_history.parquet",
   "retrospective_meteorology_inventory": "data/raw/era5/evaluation/inventory.json",
   "development_versioned_wq_history": "data/derived/development_versioned_wq_history.parquet",
-  "development_satellite_raster_history": "data/raw/satellite/nasa_cyan_lake_week.parquet",
+  "development_satellite_raster_history": "data/raw/nasa_cyan_lake_week.parquet",
   "development_era5_grid_mapping": "data/raw/era5/grid_mapping.parquet",
   "development_static_features": "data/derived/development_static_features.parquet",
   "development_water_quality_features": "data/derived/development_water_quality_features.parquet",

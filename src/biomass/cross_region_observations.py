@@ -7,7 +7,7 @@ import pandas as pd
 import openpyxl
 from .paths import DATA, CONFIG
 
-RAW = DATA / 'raw/cross_region/lawa_nz/raw/lawa-lake-quality-dataset__16dec2025.xlsx'
+RAW = DATA / 'raw/cross_region/lawa_nz/lake_quality.xlsx'
 STOP = pd.Timestamp('2025-01-01')
 
 def field_observations():

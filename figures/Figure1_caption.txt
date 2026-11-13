@@ -1,0 +1,15 @@
+Figure 1. Study lakes and quota-constrained coverage of high-chlorophyll events.
+
+(a) Locations of 2,844 US lakes. Red triangles identify 354 lakes with 593 evaluable 31–60-day events; blue circles identify the remaining lakes. Insets A and B show the Upper Midwest and Florida. Terrain: USGS 3DEP; outlines: Natural Earth.
+
+(b) Sampling fractions in 78 fortnightly rounds during 2016–2018: 20,027 of 218,838 eligible lake-periods were sampled (9.15%). The dashed line marks the 10% evaluation quota.
+
+(c) Each round selects the top k lakes, where k is 10% of eligible lakes, rounded up. An event is covered if its lake is selected at least once 31–60 days before the first high record. High records have chlorophyll a (Chl-a) ≥75 μg/L; consecutive high records separated by ≤60 days form one event.
+
+图1 研究湖泊与名额约束下的高叶绿素事件覆盖。
+
+（a）美国2,844个湖泊的位置。红色三角表示含593个31—60天可评价事件的354个湖泊，蓝色圆表示其余湖泊。A、B为中西部北部和佛罗里达的局部放大图。地形来自USGS 3DEP，轮廓来自Natural Earth。
+
+（b）2016—2018年78轮双周调查的采样比例：218,838个合格湖泊—时段中20,027个有采样记录（9.15%）。虚线为10%的评价名额比例。
+
+（c）每轮选择前k个湖泊，k为合格湖泊数的10%向上取整。首次高值记录前31—60天内至少入选一次即覆盖该事件。高值满足叶绿素a（Chl-a）≥75 μg/L，相邻高值记录间隔≤60天时归为同一事件。

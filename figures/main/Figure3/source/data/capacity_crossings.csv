@@ -1,5 +1,0 @@
-method_id,method,minimum_capacity_pct,target_events,target_capacity_pct,grid_step_pct,actual_events_at_crossing,actual_coverage_pct
-xgboost,XGBoost,21.5,463,10,0.25,466,78.5834738617
-elastic_net,Elastic Net,19.25,463,10,0.25,463,78.0775716695
-single_window,Single-window,10.25,463,10,0.25,464,78.2462057336
-multi_window,Multi-window,10,463,10,0.25,463,78.0775716695

@@ -224,14 +224,14 @@ def tree_feature_use(spec):
 
 
 def component_analysis(frame, spec, ops):
-    """Compare primary-only and joint training."""
+    """Compare existing primary-only fits against the joint training structure."""
     from .us_analysis import OUT, event_hits
     from .paths import RESULTS
     methods = {'single':'single_window','three_long_primary_only':'ablation_same_window',
         'three_time_primary_only':'ablation_multi_window',
         'three_long_joint':'same_window_control','three_time_joint':'multi_window'}
     points, intervals = [], []
-    original = pd.read_parquet(RESULTS/'us/ablations/evaluation/bootstrap_draws.parquet')
+    original = pd.read_parquet(RESULTS/'us/ablations/bootstrap_draws.parquet')
     joint = pd.read_parquet(RESULTS/'us/main/evaluation/bootstrap_draws.parquet')
     supplementary = pd.read_parquet(OUT/'bootstrap_draws.parquet')
     for endpoint in spec['endpoints']:

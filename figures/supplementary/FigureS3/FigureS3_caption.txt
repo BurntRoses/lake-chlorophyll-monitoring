@@ -1,3 +1,0 @@
-Figure S3. Ranking-structure comparisons and sensitivity to event definitions.
-(a) Five configurations evaluated in the 31–60, 1–30 and 1–60-day windows. Primary denotes training on the primary-window objective alone; joint includes auxiliary-output losses. The same-window full configuration uses depth 4 and auxiliary weights of 0.5; input-structure comparisons use depth 3. Tables S2 and S6 define all configurations.
-(b) Coverage at Chl-a thresholds of 25, 50, 75 and 100 μg/L, with scores fixed from training at 75 μg/L. (c) Coverage with consecutive high-record grouping gaps of 30, 60 and 90 days. Panels b and c use 10% capacity and the 31–60-day window. Tables S7 and S8 give the corresponding event denominators.

@@ -1,7 +1,0 @@
-# Dependencies stated in the original draw_ga.py header; versions are not newly inferred.
-pyproj
-resvg-py
-Pillow
-fonttools
-numpy
-scipy
