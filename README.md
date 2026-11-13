@@ -6,7 +6,7 @@ The study evaluates independent high-chlorophyll event coverage under recurring 
 
 ## Data
 
-Download [analysis-data.zip](https://github.com/BurntRoses/lake-chlorophyll-monitoring/releases/download/research-materials/analysis-data.zip) and [SHA256SUMS.txt](https://github.com/BurntRoses/lake-chlorophyll-monitoring/releases/download/research-materials/SHA256SUMS.txt) from [Research materials](https://github.com/BurntRoses/lake-chlorophyll-monitoring/releases/tag/research-materials). Extract the archive into the repository root. It supplies processed observations, model inputs, fitted models, evaluation results and the numeric source data used for the tables and figures.
+Download [figure-source-data.zip](https://github.com/BurntRoses/lake-chlorophyll-monitoring/releases/download/research-materials/figure-source-data.zip) and [FIGURE_SOURCE_DATA_SHA256.txt](https://github.com/BurntRoses/lake-chlorophyll-monitoring/releases/download/research-materials/FIGURE_SOURCE_DATA_SHA256.txt) from [Research materials](https://github.com/BurntRoses/lake-chlorophyll-monitoring/releases/tag/research-materials). Extract the archive into the repository root. It supplies the numeric source data used for the tables and figures. Training and evaluation code is in src/biomass.
 
 Original datasets and attribution are listed in docs/data_sources.csv, THIRD_PARTY_NOTICES.md and LICENSE-DATA. Original source downloads remain with their providers.
 
