@@ -14,22 +14,21 @@ Original datasets and attribution are listed in docs/data_sources.csv, THIRD_PAR
 
 Use Python 3.12.
 
-`sh
+```sh
 python -m pip install -e .
 python scripts/reproduce.py --output ../lake-monitoring-reproduced
-`
+```
 
-
-eproduce.py checks saved-model predictions and recomputes US and regional event coverage. Add --full to replay all US predictions. python -m biomass --help lists data preparation, training and evaluation commands. Recalculation outputs should use a separate directory.
+`reproduce.py` checks saved-model predictions and recomputes US and regional event coverage. Add `--full` to replay all US predictions. `python -m biomass --help` lists data preparation, training and evaluation commands. Recalculation outputs should use a separate directory.
 
 ## Files
 
 | Path | Contents |
 |---|---|
-| src/biomass | Data preparation, models, scoring, scheduling and evaluation |
-| config | Model and evaluation settings |
-| scripts | Reproduction and stage-replay utilities |
-| 	ables | Table 1 and Tables S1–S16 as CSV |
-| docs | Sources, variable definitions, environment and numerical figure statistics |
+| `src/biomass` | Data preparation, models, scoring, scheduling and evaluation |
+| `config` | Model and evaluation settings |
+| `scripts` | Reproduction and stage-replay utilities |
+| `tables` | Table 1 and Tables S1–S16 as CSV |
+| `docs` | Sources, variable definitions, environment and numerical figure statistics |
 
-Code is MIT-licensed. Data and third-party materials retain the terms in LICENSE-DATA and THIRD_PARTY_NOTICES.md. manifest.csv records file sizes and SHA-256 checksums for this source tree.
+Code is MIT-licensed. Data and third-party materials retain the terms in `LICENSE-DATA` and `THIRD_PARTY_NOTICES.md`. `manifest.csv` records file sizes and SHA-256 checksums for this source tree.
