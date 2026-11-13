@@ -1,7 +1,7 @@
 {
   "python": "3.12.10",
   "system": "Windows-11-10.0.26200-SP0",
-  "scope": "saved-model prediction replay, full-cohort stage replay, event evaluation and figure rendering",
+  "scope": "saved-model prediction replay, training and event evaluation",
   "packages": {
     "joblib": "1.4.2",
     "llvmlite": "0.47.0",
@@ -17,15 +17,7 @@
     "six": "1.17.0",
     "threadpoolctl": "3.6.0",
     "tzdata": "2026.2",
-    "xgboost": "3.0.2",
-    "matplotlib": "3.10.9",
-    "Pillow": "11.1.0",
-    "geopandas": "1.1.4",
-    "rasterio": "1.5.0",
-    "pyproj": "3.7.2",
-    "resvg-py": "0.5.0",
-    "python-docx": "1.2.0",
-    "PyMuPDF": "2.0"
+    "xgboost": "3.0.2"
   },
   "tested": "2026-11-11"
 }
