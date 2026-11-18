@@ -1,0 +1,28 @@
+{
+  "question": "Does a small pre-2020 Chinese lake panel improve the fixed capacity-constrained framework on other Chinese lakes?",
+  "training_cutoff": "2020-01-01",
+  "panel_hash_salt": "biomass-china-history-panel-20261102",
+  "panel_hash_modulus": 10,
+  "panel_hash_remainder": 0,
+  "local_label_weight": 1.0,
+  "selection_uses_evaluation_labels": false,
+  "hyperparameters": "US-selected configurations, unchanged across source-only and adapted comparisons",
+  "evaluation_panels": [
+    "china_2020_2022",
+    "china_2023"
+  ],
+  "evaluation_population": "Events in lakes outside the historical panel; all panel lakes remain queue competitors",
+  "adaptation_effect_methods": [
+    "xgboost",
+    "elastic_net",
+    "single_window",
+    "multi_window"
+  ],
+  "bootstrap_reps": 5000,
+  "bootstrap_seed": 20261101,
+  "primary_endpoint": [
+    31,
+    60
+  ],
+  "interval_adjustment": "Bonferroni across four adaptation-effect comparisons at the primary endpoint; other comparisons exploratory"
+}

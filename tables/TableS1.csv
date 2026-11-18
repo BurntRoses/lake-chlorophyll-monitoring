@@ -1,0 +1,11 @@
+﻿Item,Fixed rule
+Field-result availability,7 days after sampling; strictly before the decision date
+CyAN availability,2 days after the observation week ends; strictly before the decision date
+Cross-region result delay,7 days after the daily lake observation
+Decision interval,14 days
+Absolute-event threshold,Chl-a≥75 μg/L
+Independent-event gap,A new event starts when consecutive high records are more than 60 days apart
+Training windows,"1–14, 15–30 and 31–60 days; mutually exclusive"
+Primary evaluation window,"31–60 days; additional evaluation at 1–14, 15–30, 1–30 and 1–60 days"
+Matured training labels,The full 60-day outcome window and 7-day result delay end before the fitting cutoff
+Recent activity,Lakes with a high value known by the decision date and sampled within the preceding 60 days are temporarily excluded from new-event lists

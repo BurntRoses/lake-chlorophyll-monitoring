@@ -1,0 +1,69 @@
+{
+  "seed": 20261010,
+  "threads": 4,
+  "expression": {
+    "training_quantile_clip": [
+      0.001,
+      0.999
+    ],
+    "spline_knots": 4,
+    "spline_degree": 2,
+    "spline_features": [
+      "fixed_history_risk",
+      "lake_area_ha",
+      "lake_maxdepth_m",
+      "landuse_agriculture_pct",
+      "met_air_temp_mean_c_lag30_mean",
+      "met_precipitation_mm_lag30_sum",
+      "met_wind_speed_mean_ms_lag30_mean",
+      "field_chla_lag30_mean"
+    ],
+    "interactions": [
+      [
+        "fixed_history_risk",
+        "origin_dayofyear_sin"
+      ],
+      [
+        "fixed_history_risk",
+        "origin_dayofyear_cos"
+      ],
+      [
+        "met_air_temp_mean_c_lag30_mean",
+        "field_chla_lag30_mean"
+      ],
+      [
+        "met_air_temp_mean_c_lag30_mean",
+        "met_wind_speed_mean_ms_lag30_mean"
+      ]
+    ]
+  },
+  "ElasticNet_logistic": [
+    {
+      "id": "lr4",
+      "C": 0.03,
+      "l1_ratio": 0.75
+    }
+  ],
+  "XGBoost": [
+    {
+      "id": "xgb2",
+      "max_depth": 2,
+      "min_child_weight": 5,
+      "learning_rate": 0.05,
+      "n_estimators": 500,
+      "subsample": 0.8,
+      "colsample_bytree": 0.8,
+      "reg_lambda": 5.0
+    },
+    {
+      "id": "xgb4",
+      "max_depth": 2,
+      "min_child_weight": 15,
+      "learning_rate": 0.05,
+      "n_estimators": 500,
+      "subsample": 0.8,
+      "colsample_bytree": 0.8,
+      "reg_lambda": 5.0
+    }
+  ]
+}

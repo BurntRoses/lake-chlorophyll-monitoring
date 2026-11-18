@@ -1,0 +1,15 @@
+Source: supplied LAWA workbook, Dataset Notices sheet.
+
+License
+
+Except where otherwise stated, this data is licensed for re-use under the Creative Commons Attribution 4.0 International Licence (CC BY 4.0). You are free to copy, distribute, and adapt the data, provided appropriate credit is given.
+
+Attribution
+
+Short version attribution option: © LAWA and partner organisations. Licensed under CC BY 4.0. Source: www.lawa.org.nz
+
+If you use or adapt this data, please acknowledge the source as: “Data sourced from LAWA (Land, Air, Water Aotearoa) and LAWA partner agencies, available under the Creative Commons Attribution 4.0 International Licence (CC BY 4.0).” 
+
+For data from specific agencies, please specify these instead: “Data sourced from LAWA (Land, Air, Water Aotearoa) and [insert partner agency/ies], available under the Creative Commons Attribution 4.0 International Licence (CC BY 4.0).”
+
+Include links to the LAWA website: https://www.lawa.org.nz/, and the licence: https://creativecommons.org/licenses/by/4.0

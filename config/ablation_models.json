@@ -1,0 +1,76 @@
+{
+  "capacity": 0.1,
+  "corrections": [
+    {
+      "name": "same_window_control",
+      "variant": "seasonal",
+      "family": "same_window_control",
+      "loss_family": "log_coverage",
+      "expert_keys": [
+        "xgb4__y_31_60",
+        "xgb4__long_seed1",
+        "xgb4__long_seed2"
+      ],
+      "learner_config": {
+        "rounds": 60,
+        "depth": 3,
+        "min_leaf": 100,
+        "learning_rate": 0.5,
+        "max_direction": 2.0,
+        "seed": 20261064
+      },
+      "context_config": {
+        "capacity": 0.1,
+        "temperature": 0.75,
+        "classification_weight": 0.1,
+        "anchor_weight": 0.1,
+        "coverage_weight": 1.0,
+        "log_fraction": 0.1,
+        "epsilon": 1e-10
+      },
+      "policy_name": "same_window_control"
+    },
+    {
+      "name": "multi_window",
+      "variant": "seasonal",
+      "family": "multi_window",
+      "loss_family": "log_coverage",
+      "expert_keys": [
+        "xgb4__y_31_60",
+        "xgb4__y_1_14",
+        "xgb4__y_15_30"
+      ],
+      "learner_config": {
+        "rounds": 60,
+        "depth": 3,
+        "min_leaf": 100,
+        "learning_rate": 0.5,
+        "max_direction": 2.0,
+        "seed": 20261064
+      },
+      "context_config": {
+        "capacity": 0.1,
+        "temperature": 0.75,
+        "classification_weight": 0.1,
+        "anchor_weight": 0.1,
+        "coverage_weight": 1.0,
+        "log_fraction": 0.1,
+        "epsilon": 1e-10
+      },
+      "policy_name": "multi_window"
+    }
+  ],
+  "standard_controls": [],
+  "policies": [
+    {
+      "name": "same_window_control",
+      "kind": "score",
+      "column": "same_window_control"
+    },
+    {
+      "name": "multi_window",
+      "kind": "score",
+      "column": "multi_window"
+    }
+  ]
+}

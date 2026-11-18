@@ -1,0 +1,6 @@
+﻿Configuration,31–60 d,1–30 d,1–60 d
+Single-window,461/593 (77.7%),562/679 (82.8%),597/681 (87.7%)
+Three same-window inputs; primary-only objective,464/593 (78.2%),549/679 (80.9%),587/681 (86.2%)
+Three lead-window inputs; primary-only objective,459/593 (77.4%),557/679 (82.0%),592/681 (86.9%)
+Three same-window inputs; complete joint objective,459/593 (77.4%),553/679 (81.4%),588/681 (86.3%)
+Multi-window; complete joint objective,463/593 (78.1%),564/679 (83.1%),590/681 (86.6%)

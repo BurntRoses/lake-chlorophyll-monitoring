@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "Please cite this work and the original datasets listed in data/sources/data_sources.csv."
+type: software
+title: "Capacity-constrained learning for advance coverage of high-chlorophyll events in lakes: data and code"
+url: "https://github.com/BurntRoses/lake-chlorophyll-monitoring"
+repository-code: "https://github.com/BurntRoses/lake-chlorophyll-monitoring"
+authors:
+  - family-names: Luo
+    given-names: Siran
+    orcid: "https://orcid.org/0009-0004-7469-2414"
+  - family-names: Liu
+    given-names: Xingchen
+  - family-names: Wu
+    given-names: Tao
+  - family-names: Zhao
+    given-names: Lin
+  - family-names: Wu
+    given-names: Yihan
+  - family-names: Zhang
+    given-names: Yining
+  - family-names: Zhang
+    given-names: Jibiao
+    orcid: "https://orcid.org/0000-0003-2734-6477"
+license:
+  - MIT
+  - CC-BY-4.0
+keywords:
+  - lake monitoring
+  - chlorophyll a
+  - risk ranking
+  - monitoring capacity
+  - event coverage
+  - cross-region application

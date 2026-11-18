@@ -1,0 +1,8 @@
+﻿Method,"Distinct lakes selected
+Original lists",Repeat slots within 30 days (%),"Distinct lakes selected
+After rotation","Event coverage
+After rotation"
+XGBoost,627,90.3,937,431/593 (72.7%)
+Elastic Net,620,90.5,1058,450/593 (75.9%)
+Single-window,1148,81.3,1429,510/593 (86.0%)
+Multi-window,1040,84.8,1318,510/593 (86.0%)
